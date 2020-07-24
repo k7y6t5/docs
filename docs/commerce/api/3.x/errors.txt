@@ -1,0 +1,631 @@
+Array
+(
+    [0] => Array
+        (
+            [file] => /buddy/commerce/src/Plugin.php
+            [message] => broken link to Craft::t() in craft\commerce\Plugin
+        )
+
+    [1] => Array
+        (
+            [line] => 68
+            [file] => /buddy/commerce/src/base/Plan.php
+            [message] => Property $planData conflicts with a defined getter getPlanData in craft\commerce\base\Plan.
+        )
+
+    [2] => Array
+        (
+            [line] => 23
+            [file] => /buddy/commerce/src/base/Purchasable.php
+            [message] => Property $id conflicts with a defined getter getId in craft\commerce\base\Purchasable.
+        )
+
+    [3] => Array
+        (
+            [line] => 25
+            [file] => /buddy/commerce/src/base/ShippingMethod.php
+            [message] => Property $id conflicts with a defined getter getId in craft\commerce\base\ShippingMethod.
+        )
+
+    [4] => Array
+        (
+            [line] => 30
+            [file] => /buddy/commerce/src/base/ShippingMethod.php
+            [message] => Property $name conflicts with a defined getter getName in craft\commerce\base\ShippingMethod.
+        )
+
+    [5] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/base/ShippingMethod.php
+            [message] => Property $handle conflicts with a defined getter getHandle in craft\commerce\base\ShippingMethod.
+        )
+
+    [6] => Array
+        (
+            [line] => 301
+            [file] => /buddy/commerce/src/elements/Donation.php
+            [message] => Method isSelectable has no parent to inherit from in craft\commerce\elements\Donation.
+        )
+
+    [7] => Array
+        (
+            [line] => 23
+            [file] => /buddy/commerce/src/elements/Donation.php
+            [message] => Property $id conflicts with a defined getter getId in craft\commerce\elements\Donation.
+        )
+
+    [8] => Array
+        (
+            [line] => 23
+            [file] => /buddy/commerce/src/elements/Order.php
+            [message] => Property $id conflicts with a defined getter getId in craft\commerce\elements\Order.
+        )
+
+    [9] => Array
+        (
+            [line] => 477
+            [file] => /buddy/commerce/src/elements/Order.php
+            [message] => Property $gatewayId conflicts with a defined setter setGatewayId in craft\commerce\elements\Order.
+        )
+
+    [10] => Array
+        (
+            [line] => 23
+            [file] => /buddy/commerce/src/elements/Product.php
+            [message] => Property $id conflicts with a defined getter getId in craft\commerce\elements\Product.
+        )
+
+    [11] => Array
+        (
+            [line] => 153
+            [file] => /buddy/commerce/src/elements/Product.php
+            [message] => Property $name conflicts with a defined getter getName in craft\commerce\elements\Product.
+        )
+
+    [12] => Array
+        (
+            [line] => 148
+            [file] => /buddy/commerce/src/elements/Product.php
+            [message] => Property $taxCategory conflicts with a defined getter getTaxCategory in craft\commerce\elements\Product.
+        )
+
+    [13] => Array
+        (
+            [line] => 23
+            [file] => /buddy/commerce/src/elements/Subscription.php
+            [message] => Property $id conflicts with a defined getter getId in craft\commerce\elements\Subscription.
+        )
+
+    [14] => Array
+        (
+            [line] => 186
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => Method $sku has no parent to inherit from in craft\commerce\elements\Variant.
+        )
+
+    [15] => Array
+        (
+            [line] => 191
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => Method $price has no parent to inherit from in craft\commerce\elements\Variant.
+        )
+
+    [16] => Array
+        (
+            [line] => 1037
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => Method isSelectable has no parent to inherit from in craft\commerce\elements\Variant.
+        )
+
+    [17] => Array
+        (
+            [line] => 23
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => Property $id conflicts with a defined getter getId in craft\commerce\elements\Variant.
+        )
+
+    [18] => Array
+        (
+            [line] => 191
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => Property $price conflicts with a defined getter getPrice in craft\commerce\elements\Variant.
+        )
+
+    [19] => Array
+        (
+            [line] => 186
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => Property $sku conflicts with a defined getter getSku in craft\commerce\elements\Variant.
+        )
+
+    [20] => Array
+        (
+            [line] => 33
+            [file] => /buddy/commerce/src/elements/actions/CreateDiscount.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\commerce\elements\actions\CreateDiscount.
+        )
+
+    [21] => Array
+        (
+            [line] => 33
+            [file] => /buddy/commerce/src/elements/actions/CreateSale.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\commerce\elements\actions\CreateSale.
+        )
+
+    [22] => Array
+        (
+            [line] => 33
+            [file] => /buddy/commerce/src/elements/actions/DeleteOrder.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\commerce\elements\actions\DeleteOrder.
+        )
+
+    [23] => Array
+        (
+            [line] => 25
+            [file] => /buddy/commerce/src/elements/actions/DeleteOrder.php
+            [message] => Property $confirmationMessage conflicts with a defined getter getConfirmationMessage in craft\commerce\elements\actions\DeleteOrder.
+        )
+
+    [24] => Array
+        (
+            [line] => 33
+            [file] => /buddy/commerce/src/elements/actions/DeleteProduct.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\commerce\elements\actions\DeleteProduct.
+        )
+
+    [25] => Array
+        (
+            [line] => 25
+            [file] => /buddy/commerce/src/elements/actions/DeleteProduct.php
+            [message] => Property $confirmationMessage conflicts with a defined getter getConfirmationMessage in craft\commerce\elements\actions\DeleteProduct.
+        )
+
+    [26] => Array
+        (
+            [line] => 33
+            [file] => /buddy/commerce/src/elements/actions/UpdateOrderStatus.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\commerce\elements\actions\UpdateOrderStatus.
+        )
+
+    [27] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/elements/actions/UpdateOrderStatus.php
+            [message] => Property $message conflicts with a defined getter getMessage in craft\commerce\elements\actions\UpdateOrderStatus.
+        )
+
+    [28] => Array
+        (
+            [file] => /buddy/commerce/src/elements/traits/OrderElementTrait.php
+            [message] => broken link to Html::encode() in craft\commerce\elements\traits\OrderElementTrait
+        )
+
+    [29] => Array
+        (
+            [line] => 21
+            [file] => /buddy/commerce/src/exports/LineItemExport.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\commerce\exports\LineItemExport.
+        )
+
+    [30] => Array
+        (
+            [line] => 21
+            [file] => /buddy/commerce/src/exports/OrderExport.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\commerce\exports\OrderExport.
+        )
+
+    [31] => Array
+        (
+            [line] => 36
+            [file] => /buddy/commerce/src/gateways/MissingGateway.php
+            [message] => Property $settings conflicts with a defined getter getSettings in craft\commerce\gateways\MissingGateway.
+        )
+
+    [32] => Array
+        (
+            [line] => 136
+            [file] => /buddy/commerce/src/models/Discount.php
+            [message] => Property $hasFreeShippingForMatchingItems conflicts with a defined setter setHasFreeShippingForMatchingItems in craft\commerce\models\Discount.
+        )
+
+    [33] => Array
+        (
+            [line] => 136
+            [file] => /buddy/commerce/src/models/Discount.php
+            [message] => Property $hasFreeShippingForMatchingItems conflicts with a defined getter getHasFreeShippingForMatchingItems in craft\commerce\models\Discount.
+        )
+
+    [34] => Array
+        (
+            [line] => 48
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => Property $dimensionUnits conflicts with a defined getter getDimensionUnits in craft\commerce\models\Settings.
+        )
+
+    [35] => Array
+        (
+            [line] => 98
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => Property $paymentCurrency conflicts with a defined getter getPaymentCurrency in craft\commerce\models\Settings.
+        )
+
+    [36] => Array
+        (
+            [line] => 57
+            [file] => /buddy/commerce/src/models/ShippingAddressZone.php
+            [message] => Property $zipCodeConditionFormula conflicts with a defined getter getZipCodeConditionFormula in craft\commerce\models\ShippingAddressZone.
+        )
+
+    [37] => Array
+        (
+            [line] => 25
+            [file] => /buddy/commerce/src/models/ShippingMethod.php
+            [message] => Property $id conflicts with a defined getter getId in craft\commerce\models\ShippingMethod.
+        )
+
+    [38] => Array
+        (
+            [line] => 30
+            [file] => /buddy/commerce/src/models/ShippingMethod.php
+            [message] => Property $name conflicts with a defined getter getName in craft\commerce\models\ShippingMethod.
+        )
+
+    [39] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/models/ShippingMethod.php
+            [message] => Property $handle conflicts with a defined getter getHandle in craft\commerce\models\ShippingMethod.
+        )
+
+    [40] => Array
+        (
+            [line] => 25
+            [file] => /buddy/commerce/src/models/ShippingMethodOption.php
+            [message] => Property $id conflicts with a defined getter getId in craft\commerce\models\ShippingMethodOption.
+        )
+
+    [41] => Array
+        (
+            [line] => 30
+            [file] => /buddy/commerce/src/models/ShippingMethodOption.php
+            [message] => Property $name conflicts with a defined getter getName in craft\commerce\models\ShippingMethodOption.
+        )
+
+    [42] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/models/ShippingMethodOption.php
+            [message] => Property $handle conflicts with a defined getter getHandle in craft\commerce\models\ShippingMethodOption.
+        )
+
+    [43] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/models/ShippingMethodOption.php
+            [message] => Property $price conflicts with a defined getter getPrice in craft\commerce\models\ShippingMethodOption.
+        )
+
+    [44] => Array
+        (
+            [line] => 336
+            [file] => /buddy/commerce/src/models/ShippingRule.php
+            [message] => Method param $shippingCategoryId does not exist in parent method, @inheritdoc not possible in getPercentageRate in craft\commerce\models\ShippingRule.
+        )
+
+    [45] => Array
+        (
+            [line] => 344
+            [file] => /buddy/commerce/src/models/ShippingRule.php
+            [message] => Method param $shippingCategoryId does not exist in parent method, @inheritdoc not possible in getPerItemRate in craft\commerce\models\ShippingRule.
+        )
+
+    [46] => Array
+        (
+            [line] => 352
+            [file] => /buddy/commerce/src/models/ShippingRule.php
+            [message] => Method param $shippingCategoryId does not exist in parent method, @inheritdoc not possible in getWeightRate in craft\commerce\models\ShippingRule.
+        )
+
+    [47] => Array
+        (
+            [line] => 106
+            [file] => /buddy/commerce/src/models/ShippingRule.php
+            [message] => Property $percentageRate conflicts with a defined getter getPercentageRate in craft\commerce\models\ShippingRule.
+        )
+
+    [48] => Array
+        (
+            [line] => 101
+            [file] => /buddy/commerce/src/models/ShippingRule.php
+            [message] => Property $perItemRate conflicts with a defined getter getPerItemRate in craft\commerce\models\ShippingRule.
+        )
+
+    [49] => Array
+        (
+            [line] => 111
+            [file] => /buddy/commerce/src/models/ShippingRule.php
+            [message] => Property $weightRate conflicts with a defined getter getWeightRate in craft\commerce\models\ShippingRule.
+        )
+
+    [50] => Array
+        (
+            [line] => 96
+            [file] => /buddy/commerce/src/models/ShippingRule.php
+            [message] => Property $baseRate conflicts with a defined getter getBaseRate in craft\commerce\models\ShippingRule.
+        )
+
+    [51] => Array
+        (
+            [line] => 121
+            [file] => /buddy/commerce/src/models/ShippingRule.php
+            [message] => Property $maxRate conflicts with a defined getter getMaxRate in craft\commerce\models\ShippingRule.
+        )
+
+    [52] => Array
+        (
+            [line] => 116
+            [file] => /buddy/commerce/src/models/ShippingRule.php
+            [message] => Property $minRate conflicts with a defined getter getMinRate in craft\commerce\models\ShippingRule.
+        )
+
+    [53] => Array
+        (
+            [line] => 41
+            [file] => /buddy/commerce/src/models/ShippingRule.php
+            [message] => Property $description conflicts with a defined getter getDescription in craft\commerce\models\ShippingRule.
+        )
+
+    [54] => Array
+        (
+            [line] => 58
+            [file] => /buddy/commerce/src/models/TaxAddressZone.php
+            [message] => Property $zipCodeConditionFormula conflicts with a defined getter getZipCodeConditionFormula in craft\commerce\models\TaxAddressZone.
+        )
+
+    [55] => Array
+        (
+            [line] => 159
+            [file] => /buddy/commerce/src/models/Transaction.php
+            [message] => Method param $attributes does not exist in parent method, @inheritdoc not possible in __construct in craft\commerce\models\Transaction.
+        )
+
+    [56] => Array
+        (
+            [line] => 36
+            [file] => /buddy/commerce/src/models/responses/DummySubscriptionResponse.php
+            [message] => Method setIsCanceled has no parent to inherit from in craft\commerce\models\responses\DummySubscriptionResponse.
+        )
+
+    [57] => Array
+        (
+            [line] => 44
+            [file] => /buddy/commerce/src/models/responses/DummySubscriptionResponse.php
+            [message] => Method setTrialDays has no parent to inherit from in craft\commerce\models\responses\DummySubscriptionResponse.
+        )
+
+    [58] => Array
+        (
+            [line] => 68
+            [file] => /buddy/commerce/src/models/subscriptions/DummyPlan.php
+            [message] => Property $planData conflicts with a defined getter getPlanData in craft\commerce\models\subscriptions\DummyPlan.
+        )
+
+    [59] => Array
+        (
+            [line] => 23
+            [file] => /buddy/commerce/src/queue/jobs/ConsolidateGuestOrders.php
+            [message] => Property $description conflicts with a defined getter getDescription in craft\commerce\queue\jobs\ConsolidateGuestOrders.
+        )
+
+    [60] => Array
+        (
+            [line] => 23
+            [file] => /buddy/commerce/src/queue/jobs/SendEmail.php
+            [message] => Property $description conflicts with a defined getter getDescription in craft\commerce\queue\jobs\SendEmail.
+        )
+
+    [61] => Array
+        (
+            [line] => 41
+            [file] => /buddy/commerce/src/services/Carts.php
+            [message] => Property $cartName conflicts with a defined getter getCartName in craft\commerce\services\Carts.
+        )
+
+    [62] => Array
+        (
+            [line] => 317
+            [file] => /buddy/commerce/src/services/Customers.php
+            [message] => Undefined parameter documented:  in consolidateOrdersToUser().
+        )
+
+    [63] => Array
+        (
+            [line] => 316
+            [file] => /buddy/commerce/src/services/Customers.php
+            [message] => Undefined parameter documented:  in consolidateOrdersToUser().
+        )
+
+    [64] => Array
+        (
+            [line] => 317
+            [file] => /buddy/commerce/src/services/Customers.php
+            [message] => Undefined parameter documented:  in consolidateOrdersToUser().
+        )
+
+    [65] => Array
+        (
+            [line] => 316
+            [file] => /buddy/commerce/src/services/Customers.php
+            [message] => Undefined parameter documented:  in consolidateOrdersToUser().
+        )
+
+    [66] => Array
+        (
+            [line] => 316
+            [file] => /buddy/commerce/src/services/Customers.php
+            [message] => Undefined parameter documented:  in consolidateOrdersToUser().
+        )
+
+    [67] => Array
+        (
+            [line] => 324
+            [file] => /buddy/commerce/src/services/Customers.php
+            [message] => Undefined parameter documented:  in consolidateOrdersToUser().
+        )
+
+    [68] => Array
+        (
+            [line] => 321
+            [file] => /buddy/commerce/src/services/Customers.php
+            [message] => Undefined parameter documented:  in consolidateOrdersToUser().
+        )
+
+    [69] => Array
+        (
+            [line] => 238
+            [file] => /buddy/commerce/src/services/Payments.php
+            [message] => Undefined parameter documented:  in processPayment().
+        )
+
+    [70] => Array
+        (
+            [line] => 238
+            [file] => /buddy/commerce/src/services/Payments.php
+            [message] => Undefined parameter documented:  in processPayment().
+        )
+
+    [71] => Array
+        (
+            [line] => 382
+            [file] => /buddy/commerce/src/services/Payments.php
+            [message] => Undefined parameter documented:  in completePayment().
+        )
+
+    [72] => Array
+        (
+            [line] => 238
+            [file] => /buddy/commerce/src/services/Payments.php
+            [message] => Undefined parameter documented:  in processPayment().
+        )
+
+    [73] => Array
+        (
+            [line] => 238
+            [file] => /buddy/commerce/src/services/Payments.php
+            [message] => Undefined parameter documented:  in processPayment().
+        )
+
+    [74] => Array
+        (
+            [line] => 382
+            [file] => /buddy/commerce/src/services/Payments.php
+            [message] => Undefined parameter documented:  in completePayment().
+        )
+
+    [75] => Array
+        (
+            [line] => 238
+            [file] => /buddy/commerce/src/services/Payments.php
+            [message] => Undefined parameter documented:  in processPayment().
+        )
+
+    [76] => Array
+        (
+            [line] => 238
+            [file] => /buddy/commerce/src/services/Payments.php
+            [message] => Undefined parameter documented:  in processPayment().
+        )
+
+    [77] => Array
+        (
+            [line] => 382
+            [file] => /buddy/commerce/src/services/Payments.php
+            [message] => Undefined parameter documented:  in completePayment().
+        )
+
+    [78] => Array
+        (
+            [line] => 238
+            [file] => /buddy/commerce/src/services/Payments.php
+            [message] => Undefined parameter documented:  in processPayment().
+        )
+
+    [79] => Array
+        (
+            [line] => 238
+            [file] => /buddy/commerce/src/services/Payments.php
+            [message] => Undefined parameter documented:  in processPayment().
+        )
+
+    [80] => Array
+        (
+            [line] => 382
+            [file] => /buddy/commerce/src/services/Payments.php
+            [message] => Undefined parameter documented:  in completePayment().
+        )
+
+    [81] => Array
+        (
+            [line] => 40
+            [file] => /buddy/commerce/src/stats/TopCustomers.php
+            [message] => Method param $type does not exist in parent method, @inheritdoc not possible in __construct in craft\commerce\stats\TopCustomers.
+        )
+
+    [82] => Array
+        (
+            [line] => 42
+            [file] => /buddy/commerce/src/stats/TopProductTypes.php
+            [message] => Method param $type does not exist in parent method, @inheritdoc not possible in __construct in craft\commerce\stats\TopProductTypes.
+        )
+
+    [83] => Array
+        (
+            [line] => 42
+            [file] => /buddy/commerce/src/stats/TopProducts.php
+            [message] => Method param $type does not exist in parent method, @inheritdoc not possible in __construct in craft\commerce\stats\TopProducts.
+        )
+
+    [84] => Array
+        (
+            [line] => 40
+            [file] => /buddy/commerce/src/stats/TopPurchasables.php
+            [message] => Method param $type does not exist in parent method, @inheritdoc not possible in __construct in craft\commerce\stats\TopPurchasables.
+        )
+
+    [85] => Array
+        (
+            [line] => 39
+            [file] => /buddy/commerce/src/stats/TotalOrdersByCountry.php
+            [message] => Method param $type does not exist in parent method, @inheritdoc not possible in __construct in craft\commerce\stats\TotalOrdersByCountry.
+        )
+
+    [86] => Array
+        (
+            [line] => 23
+            [file] => /buddy/commerce/src/test/mockclasses/Purchasable.php
+            [message] => Property $id conflicts with a defined getter getId in craft\commerce\test\mockclasses\Purchasable.
+        )
+
+    [87] => Array
+        (
+            [line] => 21
+            [file] => /buddy/commerce/src/test/mockclasses/Purchasable.php
+            [message] => Property $isPromotable conflicts with a defined getter getIsPromotable in craft\commerce\test\mockclasses\Purchasable.
+        )
+
+    [88] => Array
+        (
+            [line] => 23
+            [file] => /buddy/commerce/src/test/mockclasses/Purchasable.php
+            [message] => Property $price conflicts with a defined getter getPrice in craft\commerce\test\mockclasses\Purchasable.
+        )
+
+    [89] => Array
+        (
+            [line] => 33
+            [file] => /buddy/commerce/src/web/twig/Extension.php
+            [message] => Method getFilters has no parent to inherit from in craft\commerce\web\twig\Extension.
+        )
+
+)

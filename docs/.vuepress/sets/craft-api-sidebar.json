@@ -1,0 +1,1966 @@
+[
+  {
+    "title": "Root Namespace",
+    "collapsible": false,
+    "children": [
+      ["/craft.md", "Craft"],
+      ["/functionaltester.md", "FunctionalTester"],
+      ["/unittester.md", "UnitTester"]
+    ]
+  },
+  {
+    "title": "Helper",
+    "collapsible": true,
+    "children": [
+      ["/helper-functional.md", "Functional"],
+      ["/helper-unit.md", "Unit"]
+    ]
+  },
+  {
+    "title": "craft\\app\\web",
+    "collapsible": true,
+    "children": [["/craft-app-web-urlrule.md", "UrlRule"]]
+  },
+  {
+    "title": "craft\\assetpreviews",
+    "collapsible": true,
+    "children": [
+      ["/craft-assetpreviews-image.md", "Image"],
+      ["/craft-assetpreviews-pdf.md", "Pdf"],
+      ["/craft-assetpreviews-text.md", "Text"],
+      ["/craft-assetpreviews-video.md", "Video"]
+    ]
+  },
+  {
+    "title": "craft\\base",
+    "collapsible": true,
+    "children": [
+      ["/craft-base-applicationtrait.md", "ApplicationTrait"],
+      ["/craft-base-assetpreviewhandler.md", "AssetPreviewHandler"],
+      [
+        "/craft-base-assetpreviewhandlerinterface.md",
+        "AssetPreviewHandlerInterface"
+      ],
+      ["/craft-base-blockelementinterface.md", "BlockElementInterface"],
+      ["/craft-base-clonefixtrait.md", "ClonefixTrait"],
+      ["/craft-base-component.md", "Component"],
+      ["/craft-base-componentinterface.md", "ComponentInterface"],
+      [
+        "/craft-base-eagerloadingfieldinterface.md",
+        "EagerLoadingFieldInterface"
+      ],
+      ["/craft-base-element.md", "Element"],
+      ["/craft-base-elementaction.md", "ElementAction"],
+      ["/craft-base-elementactioninterface.md", "ElementActionInterface"],
+      ["/craft-base-elementexporter.md", "ElementExporter"],
+      ["/craft-base-elementexporterinterface.md", "ElementExporterInterface"],
+      ["/craft-base-elementinterface.md", "ElementInterface"],
+      ["/craft-base-elementtrait.md", "ElementTrait"],
+      ["/craft-base-field.md", "Field"],
+      ["/craft-base-fieldinterface.md", "FieldInterface"],
+      ["/craft-base-fieldtrait.md", "FieldTrait"],
+      ["/craft-base-flysystemvolume.md", "FlysystemVolume"],
+      [
+        "/craft-base-gqlinlinefragmentfieldinterface.md",
+        "GqlInlineFragmentFieldInterface"
+      ],
+      [
+        "/craft-base-gqlinlinefragmentinterface.md",
+        "GqlInlineFragmentInterface"
+      ],
+      ["/craft-base-image.md", "Image"],
+      ["/craft-base-localvolumeinterface.md", "LocalVolumeInterface"],
+      ["/craft-base-logtargettrait.md", "LogTargetTrait"],
+      ["/craft-base-missingcomponentinterface.md", "MissingComponentInterface"],
+      ["/craft-base-missingcomponenttrait.md", "MissingComponentTrait"],
+      ["/craft-base-model.md", "Model"],
+      ["/craft-base-plugin.md", "Plugin"],
+      ["/craft-base-plugininterface.md", "PluginInterface"],
+      ["/craft-base-plugintrait.md", "PluginTrait"],
+      ["/craft-base-previewablefieldinterface.md", "PreviewableFieldInterface"],
+      ["/craft-base-requesttrait.md", "RequestTrait"],
+      ["/craft-base-savablecomponent.md", "SavableComponent"],
+      ["/craft-base-savablecomponentinterface.md", "SavableComponentInterface"],
+      ["/craft-base-savablecomponenttrait.md", "SavableComponentTrait"],
+      ["/craft-base-serializable.md", "Serializable"],
+      ["/craft-base-sortablefieldinterface.md", "SortableFieldInterface"],
+      ["/craft-base-utility.md", "Utility"],
+      ["/craft-base-utilityinterface.md", "UtilityInterface"],
+      ["/craft-base-volume.md", "Volume"],
+      ["/craft-base-volumeinterface.md", "VolumeInterface"],
+      ["/craft-base-volumetrait.md", "VolumeTrait"],
+      ["/craft-base-widget.md", "Widget"],
+      ["/craft-base-widgetinterface.md", "WidgetInterface"],
+      ["/craft-base-widgettrait.md", "WidgetTrait"]
+    ]
+  },
+  {
+    "title": "craft\\behaviors",
+    "collapsible": true,
+    "children": [
+      ["/craft-behaviors-draftbehavior.md", "DraftBehavior"],
+      [
+        "/craft-behaviors-envattributeparserbehavior.md",
+        "EnvAttributeParserBehavior"
+      ],
+      ["/craft-behaviors-fieldlayoutbehavior.md", "FieldLayoutBehavior"],
+      ["/craft-behaviors-revisionbehavior.md", "RevisionBehavior"],
+      ["/craft-behaviors-sessionbehavior.md", "SessionBehavior"]
+    ]
+  },
+  {
+    "title": "craft\\cache",
+    "collapsible": true,
+    "children": [
+      ["/craft-cache-apppathdependency.md", "AppPathDependency"],
+      ["/craft-cache-dbcache.md", "DbCache"]
+    ]
+  },
+  {
+    "title": "craft\\composer",
+    "collapsible": true,
+    "children": [["/craft-composer-factory.md", "Factory"]]
+  },
+  {
+    "title": "craft\\config",
+    "collapsible": true,
+    "children": [
+      ["/craft-config-dbconfig.md", "DbConfig"],
+      ["/craft-config-generalconfig.md", "GeneralConfig"]
+    ]
+  },
+  {
+    "title": "craft\\console",
+    "collapsible": true,
+    "children": [
+      ["/craft-console-application.md", "Application"],
+      ["/craft-console-callableaction.md", "CallableAction"],
+      ["/craft-console-controller.md", "Controller"],
+      ["/craft-console-controllertrait.md", "ControllerTrait"],
+      ["/craft-console-request.md", "Request"],
+      ["/craft-console-user.md", "User"]
+    ]
+  },
+  {
+    "title": "craft\\console\\actions",
+    "collapsible": true,
+    "children": [
+      ["/craft-console-actions-clearcacheaction.md", "ClearCacheAction"]
+    ]
+  },
+  {
+    "title": "craft\\console\\controllers",
+    "collapsible": true,
+    "children": [
+      ["/craft-console-controllers-backupcontroller.md", "BackupController"],
+      [
+        "/craft-console-controllers-clearcachescontroller.md",
+        "ClearCachesController"
+      ],
+      ["/craft-console-controllers-fixturecontroller.md", "FixtureController"],
+      ["/craft-console-controllers-gccontroller.md", "GcController"],
+      ["/craft-console-controllers-graphqlcontroller.md", "GraphqlController"],
+      [
+        "/craft-console-controllers-indexassetscontroller.md",
+        "IndexAssetsController"
+      ],
+      ["/craft-console-controllers-installcontroller.md", "InstallController"],
+      ["/craft-console-controllers-mailercontroller.md", "MailerController"],
+      ["/craft-console-controllers-migratecontroller.md", "MigrateController"],
+      [
+        "/craft-console-controllers-projectconfigcontroller.md",
+        "ProjectConfigController"
+      ],
+      ["/craft-console-controllers-resavecontroller.md", "ResaveController"],
+      ["/craft-console-controllers-restorecontroller.md", "RestoreController"],
+      ["/craft-console-controllers-servecontroller.md", "ServeController"],
+      ["/craft-console-controllers-setupcontroller.md", "SetupController"],
+      ["/craft-console-controllers-testscontroller.md", "TestsController"],
+      ["/craft-console-controllers-updatecontroller.md", "UpdateController"]
+    ]
+  },
+  {
+    "title": "craft\\console\\controllers\\utils",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-console-controllers-utils-asciifilenamescontroller.md",
+        "AsciiFilenamesController"
+      ],
+      [
+        "/craft-console-controllers-utils-fixelementuidscontroller.md",
+        "FixElementUidsController"
+      ],
+      [
+        "/craft-console-controllers-utils-prunerevisionscontroller.md",
+        "PruneRevisionsController"
+      ],
+      [
+        "/craft-console-controllers-utils-repaircontroller.md",
+        "RepairController"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\controllers",
+    "collapsible": true,
+    "children": [
+      ["/craft-controllers-appcontroller.md", "AppController"],
+      [
+        "/craft-controllers-assetsettingscontroller.md",
+        "AssetSettingsController"
+      ],
+      [
+        "/craft-controllers-assettransformscontroller.md",
+        "AssetTransformsController"
+      ],
+      ["/craft-controllers-assetscontroller.md", "AssetsController"],
+      [
+        "/craft-controllers-baseelementscontroller.md",
+        "BaseElementsController"
+      ],
+      ["/craft-controllers-baseentriescontroller.md", "BaseEntriesController"],
+      ["/craft-controllers-baseupdatercontroller.md", "BaseUpdaterController"],
+      ["/craft-controllers-categoriescontroller.md", "CategoriesController"],
+      ["/craft-controllers-chartscontroller.md", "ChartsController"],
+      ["/craft-controllers-configsynccontroller.md", "ConfigSyncController"],
+      ["/craft-controllers-dashboardcontroller.md", "DashboardController"],
+      ["/craft-controllers-draftscontroller.md", "DraftsController"],
+      [
+        "/craft-controllers-elementindexsettingscontroller.md",
+        "ElementIndexSettingsController"
+      ],
+      [
+        "/craft-controllers-elementindexescontroller.md",
+        "ElementIndexesController"
+      ],
+      ["/craft-controllers-elementscontroller.md", "ElementsController"],
+      ["/craft-controllers-entriescontroller.md", "EntriesController"],
+      [
+        "/craft-controllers-entryrevisionscontroller.md",
+        "EntryRevisionsController"
+      ],
+      ["/craft-controllers-exportcontroller.md", "ExportController"],
+      ["/craft-controllers-fieldscontroller.md", "FieldsController"],
+      ["/craft-controllers-globalscontroller.md", "GlobalsController"],
+      ["/craft-controllers-graphqlcontroller.md", "GraphqlController"],
+      ["/craft-controllers-installcontroller.md", "InstallController"],
+      ["/craft-controllers-livepreviewcontroller.md", "LivePreviewController"],
+      ["/craft-controllers-notfoundcontroller.md", "NotFoundController"],
+      ["/craft-controllers-pluginstorecontroller.md", "PluginStoreController"],
+      ["/craft-controllers-pluginscontroller.md", "PluginsController"],
+      ["/craft-controllers-previewcontroller.md", "PreviewController"],
+      ["/craft-controllers-queuecontroller.md", "QueueController"],
+      ["/craft-controllers-rebrandcontroller.md", "RebrandController"],
+      ["/craft-controllers-routescontroller.md", "RoutesController"],
+      ["/craft-controllers-sectionscontroller.md", "SectionsController"],
+      ["/craft-controllers-sitescontroller.md", "SitesController"],
+      ["/craft-controllers-structurescontroller.md", "StructuresController"],
+      [
+        "/craft-controllers-systemmessagescontroller.md",
+        "SystemMessagesController"
+      ],
+      [
+        "/craft-controllers-systemsettingscontroller.md",
+        "SystemSettingsController"
+      ],
+      ["/craft-controllers-tagscontroller.md", "TagsController"],
+      ["/craft-controllers-templatescontroller.md", "TemplatesController"],
+      ["/craft-controllers-updatercontroller.md", "UpdaterController"],
+      [
+        "/craft-controllers-usersettingscontroller.md",
+        "UserSettingsController"
+      ],
+      ["/craft-controllers-userscontroller.md", "UsersController"],
+      ["/craft-controllers-utilitiescontroller.md", "UtilitiesController"],
+      ["/craft-controllers-volumescontroller.md", "VolumesController"]
+    ]
+  },
+  {
+    "title": "craft\\controllers\\pluginstore",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-controllers-pluginstore-installcontroller.md",
+        "InstallController"
+      ],
+      ["/craft-controllers-pluginstore-removecontroller.md", "RemoveController"]
+    ]
+  },
+  {
+    "title": "craft\\db",
+    "collapsible": true,
+    "children": [
+      ["/craft-db-activerecord.md", "ActiveRecord"],
+      ["/craft-db-command.md", "Command"],
+      ["/craft-db-connection.md", "Connection"],
+      ["/craft-db-fixedorderexpression.md", "FixedOrderExpression"],
+      ["/craft-db-migration.md", "Migration"],
+      ["/craft-db-migrationmanager.md", "MigrationManager"],
+      ["/craft-db-paginator.md", "Paginator"],
+      ["/craft-db-primaryreplicatrait.md", "PrimaryReplicaTrait"],
+      ["/craft-db-query.md", "Query"],
+      ["/craft-db-queryabortedexception.md", "QueryAbortedException"],
+      ["/craft-db-softdeletetrait.md", "SoftDeleteTrait"],
+      ["/craft-db-structuredelementquery.md", "StructuredElementQuery"],
+      ["/craft-db-table.md", "Table"],
+      ["/craft-db-tableschema.md", "TableSchema"]
+    ]
+  },
+  {
+    "title": "craft\\db\\mysql",
+    "collapsible": true,
+    "children": [
+      ["/craft-db-mysql-columnschema.md", "ColumnSchema"],
+      ["/craft-db-mysql-columnschemabuilder.md", "ColumnSchemaBuilder"],
+      ["/craft-db-mysql-querybuilder.md", "QueryBuilder"],
+      ["/craft-db-mysql-schema.md", "Schema"]
+    ]
+  },
+  {
+    "title": "craft\\db\\pgsql",
+    "collapsible": true,
+    "children": [
+      ["/craft-db-pgsql-querybuilder.md", "QueryBuilder"],
+      ["/craft-db-pgsql-schema.md", "Schema"]
+    ]
+  },
+  {
+    "title": "craft\\debug",
+    "collapsible": true,
+    "children": [
+      ["/craft-debug-deprecatedpanel.md", "DeprecatedPanel"],
+      ["/craft-debug-requestpanel.md", "RequestPanel"],
+      ["/craft-debug-userpanel.md", "UserPanel"]
+    ]
+  },
+  {
+    "title": "craft\\elements",
+    "collapsible": true,
+    "children": [
+      ["/craft-elements-asset.md", "Asset"],
+      ["/craft-elements-category.md", "Category"],
+      ["/craft-elements-entry.md", "Entry"],
+      ["/craft-elements-globalset.md", "GlobalSet"],
+      ["/craft-elements-matrixblock.md", "MatrixBlock"],
+      ["/craft-elements-tag.md", "Tag"],
+      ["/craft-elements-user.md", "User"]
+    ]
+  },
+  {
+    "title": "craft\\elements\\actions",
+    "collapsible": true,
+    "children": [
+      ["/craft-elements-actions-copyreferencetag.md", "CopyReferenceTag"],
+      ["/craft-elements-actions-deepduplicate.md", "DeepDuplicate"],
+      ["/craft-elements-actions-delete.md", "Delete"],
+      ["/craft-elements-actions-deleteassets.md", "DeleteAssets"],
+      ["/craft-elements-actions-deleteusers.md", "DeleteUsers"],
+      ["/craft-elements-actions-downloadassetfile.md", "DownloadAssetFile"],
+      ["/craft-elements-actions-duplicate.md", "Duplicate"],
+      ["/craft-elements-actions-edit.md", "Edit"],
+      ["/craft-elements-actions-editimage.md", "EditImage"],
+      ["/craft-elements-actions-newchild.md", "NewChild"],
+      ["/craft-elements-actions-previewasset.md", "PreviewAsset"],
+      ["/craft-elements-actions-renamefile.md", "RenameFile"],
+      ["/craft-elements-actions-replacefile.md", "ReplaceFile"],
+      ["/craft-elements-actions-restore.md", "Restore"],
+      ["/craft-elements-actions-setstatus.md", "SetStatus"],
+      ["/craft-elements-actions-suspendusers.md", "SuspendUsers"],
+      ["/craft-elements-actions-unsuspendusers.md", "UnsuspendUsers"],
+      ["/craft-elements-actions-view.md", "View"]
+    ]
+  },
+  {
+    "title": "craft\\elements\\db",
+    "collapsible": true,
+    "children": [
+      ["/craft-elements-db-assetquery.md", "AssetQuery"],
+      ["/craft-elements-db-categoryquery.md", "CategoryQuery"],
+      ["/craft-elements-db-elementquery.md", "ElementQuery"],
+      ["/craft-elements-db-elementqueryinterface.md", "ElementQueryInterface"],
+      [
+        "/craft-elements-db-elementrelationparamparser.md",
+        "ElementRelationParamParser"
+      ],
+      ["/craft-elements-db-entryquery.md", "EntryQuery"],
+      ["/craft-elements-db-globalsetquery.md", "GlobalSetQuery"],
+      ["/craft-elements-db-matrixblockquery.md", "MatrixBlockQuery"],
+      ["/craft-elements-db-tagquery.md", "TagQuery"],
+      ["/craft-elements-db-userquery.md", "UserQuery"]
+    ]
+  },
+  {
+    "title": "craft\\elements\\exporters",
+    "collapsible": true,
+    "children": [
+      ["/craft-elements-exporters-expanded.md", "Expanded"],
+      ["/craft-elements-exporters-raw.md", "Raw"]
+    ]
+  },
+  {
+    "title": "craft\\enums",
+    "collapsible": true,
+    "children": [
+      ["/craft-enums-licensekeystatus.md", "LicenseKeyStatus"],
+      ["/craft-enums-patchmanifestfileaction.md", "PatchManifestFileAction"],
+      ["/craft-enums-periodtype.md", "PeriodType"],
+      ["/craft-enums-pluginupdatestatus.md", "PluginUpdateStatus"],
+      ["/craft-enums-versionupdatestatus.md", "VersionUpdateStatus"]
+    ]
+  },
+  {
+    "title": "craft\\errors",
+    "collapsible": true,
+    "children": [
+      ["/craft-errors-assetconflictexception.md", "AssetConflictException"],
+      [
+        "/craft-errors-assetdisallowedextensionexception.md",
+        "AssetDisallowedExtensionException"
+      ],
+      ["/craft-errors-assetexception.md", "AssetException"],
+      ["/craft-errors-assetlogicexception.md", "AssetLogicException"],
+      ["/craft-errors-assettransformexception.md", "AssetTransformException"],
+      [
+        "/craft-errors-categorygroupnotfoundexception.md",
+        "CategoryGroupNotFoundException"
+      ],
+      ["/craft-errors-dbconnectexception.md", "DbConnectException"],
+      ["/craft-errors-deprecationexception.md", "DeprecationException"],
+      ["/craft-errors-elementnotfoundexception.md", "ElementNotFoundException"],
+      [
+        "/craft-errors-entrytypenotfoundexception.md",
+        "EntryTypeNotFoundException"
+      ],
+      ["/craft-errors-etexception.md", "EtException"],
+      [
+        "/craft-errors-fieldgroupnotfoundexception.md",
+        "FieldGroupNotFoundException"
+      ],
+      ["/craft-errors-fieldnotfoundexception.md", "FieldNotFoundException"],
+      ["/craft-errors-fileexception.md", "FileException"],
+      [
+        "/craft-errors-globalsetnotfoundexception.md",
+        "GlobalSetNotFoundException"
+      ],
+      ["/craft-errors-gqlexception.md", "GqlException"],
+      ["/craft-errors-imageexception.md", "ImageException"],
+      ["/craft-errors-invalidelementexception.md", "InvalidElementException"],
+      [
+        "/craft-errors-invalidlicensekeyexception.md",
+        "InvalidLicenseKeyException"
+      ],
+      ["/craft-errors-invalidpluginexception.md", "InvalidPluginException"],
+      ["/craft-errors-invalidsubpathexception.md", "InvalidSubpathException"],
+      ["/craft-errors-invalidtypeexception.md", "InvalidTypeException"],
+      ["/craft-errors-invalidvolumeexception.md", "InvalidVolumeException"],
+      [
+        "/craft-errors-matrixblocktypenotfoundexception.md",
+        "MatrixBlockTypeNotFoundException"
+      ],
+      ["/craft-errors-migrateexception.md", "MigrateException"],
+      ["/craft-errors-migrationexception.md", "MigrationException"],
+      ["/craft-errors-missingassetexception.md", "MissingAssetException"],
+      [
+        "/craft-errors-missingcomponentexception.md",
+        "MissingComponentException"
+      ],
+      [
+        "/craft-errors-operationabortedexception.md",
+        "OperationAbortedException"
+      ],
+      ["/craft-errors-routenotfoundexception.md", "RouteNotFoundException"],
+      ["/craft-errors-sectionnotfoundexception.md", "SectionNotFoundException"],
+      ["/craft-errors-shellcommandexception.md", "ShellCommandException"],
+      [
+        "/craft-errors-sitegroupnotfoundexception.md",
+        "SiteGroupNotFoundException"
+      ],
+      ["/craft-errors-sitenotfoundexception.md", "SiteNotFoundException"],
+      [
+        "/craft-errors-structurenotfoundexception.md",
+        "StructureNotFoundException"
+      ],
+      [
+        "/craft-errors-taggroupnotfoundexception.md",
+        "TagGroupNotFoundException"
+      ],
+      ["/craft-errors-tokennotfoundexception.md", "TokenNotFoundException"],
+      ["/craft-errors-uploadfailedexception.md", "UploadFailedException"],
+      [
+        "/craft-errors-usergroupnotfoundexception.md",
+        "UserGroupNotFoundException"
+      ],
+      ["/craft-errors-userlockedexception.md", "UserLockedException"],
+      ["/craft-errors-usernotfoundexception.md", "UserNotFoundException"],
+      ["/craft-errors-volumeexception.md", "VolumeException"],
+      [
+        "/craft-errors-volumeobjectexistsexception.md",
+        "VolumeObjectExistsException"
+      ],
+      [
+        "/craft-errors-volumeobjectnotfoundexception.md",
+        "VolumeObjectNotFoundException"
+      ],
+      ["/craft-errors-widgetnotfoundexception.md", "WidgetNotFoundException"],
+      ["/craft-errors-wrongeditionexception.md", "WrongEditionException"]
+    ]
+  },
+  {
+    "title": "craft\\events",
+    "collapsible": true,
+    "children": [
+      ["/craft-events-assetevent.md", "AssetEvent"],
+      ["/craft-events-assetpreviewevent.md", "AssetPreviewEvent"],
+      ["/craft-events-assetthumbevent.md", "AssetThumbEvent"],
+      ["/craft-events-assettransformevent.md", "AssetTransformEvent"],
+      ["/craft-events-assettransformimageevent.md", "AssetTransformImageEvent"],
+      ["/craft-events-authenticateuserevent.md", "AuthenticateUserEvent"],
+      ["/craft-events-backupevent.md", "BackupEvent"],
+      ["/craft-events-batchelementactionevent.md", "BatchElementActionEvent"],
+      ["/craft-events-blocktypesevent.md", "BlockTypesEvent"],
+      ["/craft-events-cancelableevent.md", "CancelableEvent"],
+      ["/craft-events-categorygroupevent.md", "CategoryGroupEvent"],
+      ["/craft-events-configevent.md", "ConfigEvent"],
+      ["/craft-events-definebehaviorsevent.md", "DefineBehaviorsEvent"],
+      ["/craft-events-definecomponentsevent.md", "DefineComponentsEvent"],
+      [
+        "/craft-events-defineconsoleactionsevent.md",
+        "DefineConsoleActionsEvent"
+      ],
+      [
+        "/craft-events-defineeagerloadingmapevent.md",
+        "DefineEagerLoadingMapEvent"
+      ],
+      ["/craft-events-definegqltypefieldsevent.md", "DefineGqlTypeFieldsEvent"],
+      [
+        "/craft-events-definegqlvalidationrulesevent.md",
+        "DefineGqlValidationRulesEvent"
+      ],
+      ["/craft-events-definerulesevent.md", "DefineRulesEvent"],
+      [
+        "/craft-events-defineusercontentsummaryevent.md",
+        "DefineUserContentSummaryEvent"
+      ],
+      ["/craft-events-deleteelementevent.md", "DeleteElementEvent"],
+      ["/craft-events-deletesiteevent.md", "DeleteSiteEvent"],
+      [
+        "/craft-events-deletetemplatecachesevent.md",
+        "DeleteTemplateCachesEvent"
+      ],
+      ["/craft-events-draftevent.md", "DraftEvent"],
+      ["/craft-events-editionchangeevent.md", "EditionChangeEvent"],
+      ["/craft-events-elementactionevent.md", "ElementActionEvent"],
+      ["/craft-events-elementcontentevent.md", "ElementContentEvent"],
+      ["/craft-events-elementcriteriaevent.md", "ElementCriteriaEvent"],
+      ["/craft-events-elementevent.md", "ElementEvent"],
+      ["/craft-events-elementqueryevent.md", "ElementQueryEvent"],
+      ["/craft-events-elementstructureevent.md", "ElementStructureEvent"],
+      ["/craft-events-entrytypeevent.md", "EntryTypeEvent"],
+      ["/craft-events-errorevent.md", "ErrorEvent"],
+      ["/craft-events-exceptionevent.md", "ExceptionEvent"],
+      ["/craft-events-executegqlqueryevent.md", "ExecuteGqlQueryEvent"],
+      ["/craft-events-fieldelementevent.md", "FieldElementEvent"],
+      ["/craft-events-fieldevent.md", "FieldEvent"],
+      ["/craft-events-fieldgroupevent.md", "FieldGroupEvent"],
+      ["/craft-events-fieldlayoutevent.md", "FieldLayoutEvent"],
+      ["/craft-events-generatetransformevent.md", "GenerateTransformEvent"],
+      ["/craft-events-getassetthumburlevent.md", "GetAssetThumbUrlEvent"],
+      ["/craft-events-getasseturlevent.md", "GetAssetUrlEvent"],
+      ["/craft-events-globalsetcontentevent.md", "GlobalSetContentEvent"],
+      ["/craft-events-globalsetevent.md", "GlobalSetEvent"],
+      ["/craft-events-loginfailureevent.md", "LoginFailureEvent"],
+      ["/craft-events-mergeelementsevent.md", "MergeElementsEvent"],
+      ["/craft-events-modelevent.md", "ModelEvent"],
+      ["/craft-events-moveelementevent.md", "MoveElementEvent"],
+      ["/craft-events-pluginevent.md", "PluginEvent"],
+      ["/craft-events-populateelementevent.md", "PopulateElementEvent"],
+      ["/craft-events-rebuildconfigevent.md", "RebuildConfigEvent"],
+      [
+        "/craft-events-registerassetfilekindsevent.md",
+        "RegisterAssetFileKindsEvent"
+      ],
+      [
+        "/craft-events-registercacheoptionsevent.md",
+        "RegisterCacheOptionsEvent"
+      ],
+      [
+        "/craft-events-registercomponenttypesevent.md",
+        "RegisterComponentTypesEvent"
+      ],
+      ["/craft-events-registercpalertsevent.md", "RegisterCpAlertsEvent"],
+      ["/craft-events-registercpnavitemsevent.md", "RegisterCpNavItemsEvent"],
+      ["/craft-events-registercpsettingsevent.md", "RegisterCpSettingsEvent"],
+      [
+        "/craft-events-registerelementactionsevent.md",
+        "RegisterElementActionsEvent"
+      ],
+      [
+        "/craft-events-registerelementdefaulttableattributesevent.md",
+        "RegisterElementDefaultTableAttributesEvent"
+      ],
+      [
+        "/craft-events-registerelementexportersevent.md",
+        "RegisterElementExportersEvent"
+      ],
+      [
+        "/craft-events-registerelementhtmlattributesevent.md",
+        "RegisterElementHtmlAttributesEvent"
+      ],
+      [
+        "/craft-events-registerelementsearchableattributesevent.md",
+        "RegisterElementSearchableAttributesEvent"
+      ],
+      [
+        "/craft-events-registerelementsortoptionsevent.md",
+        "RegisterElementSortOptionsEvent"
+      ],
+      [
+        "/craft-events-registerelementsourcesevent.md",
+        "RegisterElementSourcesEvent"
+      ],
+      [
+        "/craft-events-registerelementtableattributesevent.md",
+        "RegisterElementTableAttributesEvent"
+      ],
+      [
+        "/craft-events-registeremailmessagesevent.md",
+        "RegisterEmailMessagesEvent"
+      ],
+      [
+        "/craft-events-registergqldirectivesevent.md",
+        "RegisterGqlDirectivesEvent"
+      ],
+      [
+        "/craft-events-registergqlpermissionsevent.md",
+        "RegisterGqlPermissionsEvent"
+      ],
+      ["/craft-events-registergqlqueriesevent.md", "RegisterGqlQueriesEvent"],
+      ["/craft-events-registergqltypesevent.md", "RegisterGqlTypesEvent"],
+      [
+        "/craft-events-registerpreviewtargetsevent.md",
+        "RegisterPreviewTargetsEvent"
+      ],
+      [
+        "/craft-events-registertemplaterootsevent.md",
+        "RegisterTemplateRootsEvent"
+      ],
+      ["/craft-events-registerurlrulesevent.md", "RegisterUrlRulesEvent"],
+      ["/craft-events-registeruseractionsevent.md", "RegisterUserActionsEvent"],
+      [
+        "/craft-events-registeruserpermissionsevent.md",
+        "RegisterUserPermissionsEvent"
+      ],
+      ["/craft-events-reordersitesevent.md", "ReorderSitesEvent"],
+      ["/craft-events-replaceassetevent.md", "ReplaceAssetEvent"],
+      ["/craft-events-resolveresourcepathevent.md", "ResolveResourcePathEvent"],
+      ["/craft-events-restoreevent.md", "RestoreEvent"],
+      ["/craft-events-revisionevent.md", "RevisionEvent"],
+      ["/craft-events-routeevent.md", "RouteEvent"],
+      ["/craft-events-searchevent.md", "SearchEvent"],
+      ["/craft-events-sectionevent.md", "SectionEvent"],
+      ["/craft-events-setassetfilenameevent.md", "SetAssetFilenameEvent"],
+      ["/craft-events-setelementrouteevent.md", "SetElementRouteEvent"],
+      [
+        "/craft-events-setelementtableattributehtmlevent.md",
+        "SetElementTableAttributeHtmlEvent"
+      ],
+      ["/craft-events-siteevent.md", "SiteEvent"],
+      ["/craft-events-sitegroupevent.md", "SiteGroupEvent"],
+      ["/craft-events-taggroupevent.md", "TagGroupEvent"],
+      ["/craft-events-templateevent.md", "TemplateEvent"],
+      ["/craft-events-userassigngroupevent.md", "UserAssignGroupEvent"],
+      ["/craft-events-userevent.md", "UserEvent"],
+      ["/craft-events-usergroupevent.md", "UserGroupEvent"],
+      ["/craft-events-usergroupsassignevent.md", "UserGroupsAssignEvent"],
+      ["/craft-events-volumeevent.md", "VolumeEvent"],
+      ["/craft-events-widgetevent.md", "WidgetEvent"]
+    ]
+  },
+  {
+    "title": "craft\\feeds",
+    "collapsible": true,
+    "children": [
+      ["/craft-feeds-feeds.md", "Feeds"],
+      ["/craft-feeds-guzzleclient.md", "GuzzleClient"]
+    ]
+  },
+  {
+    "title": "craft\\fields",
+    "collapsible": true,
+    "children": [
+      ["/craft-fields-assets.md", "Assets"],
+      ["/craft-fields-baseoptionsfield.md", "BaseOptionsField"],
+      ["/craft-fields-baserelationfield.md", "BaseRelationField"],
+      ["/craft-fields-categories.md", "Categories"],
+      ["/craft-fields-checkboxes.md", "Checkboxes"],
+      ["/craft-fields-color.md", "Color"],
+      ["/craft-fields-date.md", "Date"],
+      ["/craft-fields-dropdown.md", "Dropdown"],
+      ["/craft-fields-email.md", "Email"],
+      ["/craft-fields-entries.md", "Entries"],
+      ["/craft-fields-lightswitch.md", "Lightswitch"],
+      ["/craft-fields-matrix.md", "Matrix"],
+      ["/craft-fields-missingfield.md", "MissingField"],
+      ["/craft-fields-multiselect.md", "MultiSelect"],
+      ["/craft-fields-number.md", "Number"],
+      ["/craft-fields-plaintext.md", "PlainText"],
+      ["/craft-fields-radiobuttons.md", "RadioButtons"],
+      ["/craft-fields-table.md", "Table"],
+      ["/craft-fields-tags.md", "Tags"],
+      ["/craft-fields-url.md", "Url"],
+      ["/craft-fields-users.md", "Users"]
+    ]
+  },
+  {
+    "title": "craft\\fields\\data",
+    "collapsible": true,
+    "children": [
+      ["/craft-fields-data-colordata.md", "ColorData"],
+      ["/craft-fields-data-multioptionsfielddata.md", "MultiOptionsFieldData"],
+      ["/craft-fields-data-optiondata.md", "OptionData"],
+      ["/craft-fields-data-singleoptionfielddata.md", "SingleOptionFieldData"]
+    ]
+  },
+  {
+    "title": "craft\\gql",
+    "collapsible": true,
+    "children": [
+      ["/craft-gql-gqlentityregistry.md", "GqlEntityRegistry"],
+      ["/craft-gql-typeloader.md", "TypeLoader"],
+      ["/craft-gql-typemanager.md", "TypeManager"]
+    ]
+  },
+  {
+    "title": "craft\\gql\\arguments",
+    "collapsible": true,
+    "children": [
+      ["/craft-gql-arguments-optionfield.md", "OptionField"],
+      ["/craft-gql-arguments-transform.md", "Transform"]
+    ]
+  },
+  {
+    "title": "craft\\gql\\arguments\\elements",
+    "collapsible": true,
+    "children": [
+      ["/craft-gql-arguments-elements-asset.md", "Asset"],
+      ["/craft-gql-arguments-elements-category.md", "Category"],
+      ["/craft-gql-arguments-elements-entry.md", "Entry"],
+      ["/craft-gql-arguments-elements-globalset.md", "GlobalSet"],
+      ["/craft-gql-arguments-elements-matrixblock.md", "MatrixBlock"],
+      ["/craft-gql-arguments-elements-tag.md", "Tag"],
+      ["/craft-gql-arguments-elements-user.md", "User"]
+    ]
+  },
+  {
+    "title": "craft\\gql\\base",
+    "collapsible": true,
+    "children": [
+      ["/craft-gql-base-arguments.md", "Arguments"],
+      ["/craft-gql-base-directive.md", "Directive"],
+      ["/craft-gql-base-elementarguments.md", "ElementArguments"],
+      ["/craft-gql-base-elementresolver.md", "ElementResolver"],
+      ["/craft-gql-base-generatorinterface.md", "GeneratorInterface"],
+      ["/craft-gql-base-gqltypetrait.md", "GqlTypeTrait"],
+      ["/craft-gql-base-interfacetype.md", "InterfaceType"],
+      ["/craft-gql-base-objecttype.md", "ObjectType"],
+      ["/craft-gql-base-query.md", "Query"],
+      ["/craft-gql-base-resolver.md", "Resolver"],
+      [
+        "/craft-gql-base-structureelementarguments.md",
+        "StructureElementArguments"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\gql\\directives",
+    "collapsible": true,
+    "children": [
+      ["/craft-gql-directives-formatdatetime.md", "FormatDateTime"],
+      ["/craft-gql-directives-markdown.md", "Markdown"],
+      ["/craft-gql-directives-transform.md", "Transform"]
+    ]
+  },
+  {
+    "title": "craft\\gql\\interfaces",
+    "collapsible": true,
+    "children": [
+      ["/craft-gql-interfaces-element.md", "Element"],
+      ["/craft-gql-interfaces-structure.md", "Structure"]
+    ]
+  },
+  {
+    "title": "craft\\gql\\interfaces\\elements",
+    "collapsible": true,
+    "children": [
+      ["/craft-gql-interfaces-elements-asset.md", "Asset"],
+      ["/craft-gql-interfaces-elements-category.md", "Category"],
+      ["/craft-gql-interfaces-elements-entry.md", "Entry"],
+      ["/craft-gql-interfaces-elements-globalset.md", "GlobalSet"],
+      ["/craft-gql-interfaces-elements-matrixblock.md", "MatrixBlock"],
+      ["/craft-gql-interfaces-elements-tag.md", "Tag"],
+      ["/craft-gql-interfaces-elements-user.md", "User"]
+    ]
+  },
+  {
+    "title": "craft\\gql\\queries",
+    "collapsible": true,
+    "children": [
+      ["/craft-gql-queries-asset.md", "Asset"],
+      ["/craft-gql-queries-category.md", "Category"],
+      ["/craft-gql-queries-entry.md", "Entry"],
+      ["/craft-gql-queries-globalset.md", "GlobalSet"],
+      ["/craft-gql-queries-ping.md", "Ping"],
+      ["/craft-gql-queries-tag.md", "Tag"],
+      ["/craft-gql-queries-user.md", "User"]
+    ]
+  },
+  {
+    "title": "craft\\gql\\resolvers",
+    "collapsible": true,
+    "children": [["/craft-gql-resolvers-optionfield.md", "OptionField"]]
+  },
+  {
+    "title": "craft\\gql\\resolvers\\elements",
+    "collapsible": true,
+    "children": [
+      ["/craft-gql-resolvers-elements-asset.md", "Asset"],
+      ["/craft-gql-resolvers-elements-category.md", "Category"],
+      ["/craft-gql-resolvers-elements-entry.md", "Entry"],
+      ["/craft-gql-resolvers-elements-globalset.md", "GlobalSet"],
+      ["/craft-gql-resolvers-elements-matrixblock.md", "MatrixBlock"],
+      ["/craft-gql-resolvers-elements-tag.md", "Tag"],
+      ["/craft-gql-resolvers-elements-user.md", "User"]
+    ]
+  },
+  {
+    "title": "craft\\gql\\types",
+    "collapsible": true,
+    "children": [
+      ["/craft-gql-types-datetime.md", "DateTime"],
+      ["/craft-gql-types-number.md", "Number"],
+      ["/craft-gql-types-query.md", "Query"],
+      ["/craft-gql-types-queryargument.md", "QueryArgument"],
+      ["/craft-gql-types-tablerow.md", "TableRow"]
+    ]
+  },
+  {
+    "title": "craft\\gql\\types\\elements",
+    "collapsible": true,
+    "children": [
+      ["/craft-gql-types-elements-asset.md", "Asset"],
+      ["/craft-gql-types-elements-category.md", "Category"],
+      ["/craft-gql-types-elements-element.md", "Element"],
+      ["/craft-gql-types-elements-entry.md", "Entry"],
+      ["/craft-gql-types-elements-globalset.md", "GlobalSet"],
+      ["/craft-gql-types-elements-matrixblock.md", "MatrixBlock"],
+      ["/craft-gql-types-elements-tag.md", "Tag"],
+      ["/craft-gql-types-elements-user.md", "User"]
+    ]
+  },
+  {
+    "title": "craft\\gql\\types\\generators",
+    "collapsible": true,
+    "children": [
+      ["/craft-gql-types-generators-assettype.md", "AssetType"],
+      ["/craft-gql-types-generators-categorytype.md", "CategoryType"],
+      ["/craft-gql-types-generators-elementtype.md", "ElementType"],
+      ["/craft-gql-types-generators-entrytype.md", "EntryType"],
+      ["/craft-gql-types-generators-globalsettype.md", "GlobalSetType"],
+      ["/craft-gql-types-generators-matrixblocktype.md", "MatrixBlockType"],
+      ["/craft-gql-types-generators-tablerowtype.md", "TableRowType"],
+      ["/craft-gql-types-generators-tagtype.md", "TagType"],
+      ["/craft-gql-types-generators-usertype.md", "UserType"]
+    ]
+  },
+  {
+    "title": "craft\\helpers",
+    "collapsible": true,
+    "children": [
+      ["/craft-helpers-admintable.md", "AdminTable"],
+      ["/craft-helpers-api.md", "Api"],
+      ["/craft-helpers-app.md", "App"],
+      ["/craft-helpers-arrayhelper.md", "ArrayHelper"],
+      ["/craft-helpers-assets.md", "Assets"],
+      ["/craft-helpers-charthelper.md", "ChartHelper"],
+      ["/craft-helpers-component.md", "Component"],
+      ["/craft-helpers-confighelper.md", "ConfigHelper"],
+      ["/craft-helpers-console.md", "Console"],
+      ["/craft-helpers-cp.md", "Cp"],
+      ["/craft-helpers-datetimehelper.md", "DateTimeHelper"],
+      ["/craft-helpers-db.md", "Db"],
+      ["/craft-helpers-elementhelper.md", "ElementHelper"],
+      ["/craft-helpers-filehelper.md", "FileHelper"],
+      ["/craft-helpers-gql.md", "Gql"],
+      ["/craft-helpers-html.md", "Html"],
+      ["/craft-helpers-htmlpurifier.md", "HtmlPurifier"],
+      ["/craft-helpers-image.md", "Image"],
+      ["/craft-helpers-install.md", "Install"],
+      ["/craft-helpers-json.md", "Json"],
+      ["/craft-helpers-localization.md", "Localization"],
+      ["/craft-helpers-mailerhelper.md", "MailerHelper"],
+      ["/craft-helpers-migrationhelper.md", "MigrationHelper"],
+      ["/craft-helpers-number.md", "Number"],
+      ["/craft-helpers-path.md", "Path"],
+      ["/craft-helpers-projectconfig.md", "ProjectConfig"],
+      ["/craft-helpers-search.md", "Search"],
+      ["/craft-helpers-sequence.md", "Sequence"],
+      ["/craft-helpers-stringhelper.md", "StringHelper"],
+      ["/craft-helpers-stringy.md", "Stringy"],
+      ["/craft-helpers-template.md", "Template"],
+      ["/craft-helpers-urlhelper.md", "UrlHelper"],
+      ["/craft-helpers-user.md", "User"]
+    ]
+  },
+  {
+    "title": "craft\\i18n",
+    "collapsible": true,
+    "children": [
+      ["/craft-i18n-formatconverter.md", "FormatConverter"],
+      ["/craft-i18n-formatter.md", "Formatter"],
+      ["/craft-i18n-i18n.md", "I18N"],
+      ["/craft-i18n-locale.md", "Locale"],
+      ["/craft-i18n-messageformatter.md", "MessageFormatter"],
+      ["/craft-i18n-phpmessagesource.md", "PhpMessageSource"]
+    ]
+  },
+  {
+    "title": "craft\\image",
+    "collapsible": true,
+    "children": [
+      ["/craft-image-raster.md", "Raster"],
+      ["/craft-image-svg.md", "Svg"],
+      ["/craft-image-svgallowedattributes.md", "SvgAllowedAttributes"]
+    ]
+  },
+  {
+    "title": "craft\\log",
+    "collapsible": true,
+    "children": [["/craft-log-filetarget.md", "FileTarget"]]
+  },
+  {
+    "title": "craft\\mail",
+    "collapsible": true,
+    "children": [
+      ["/craft-mail-mailer.md", "Mailer"],
+      ["/craft-mail-message.md", "Message"]
+    ]
+  },
+  {
+    "title": "craft\\mail\\transportadapters",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-mail-transportadapters-basetransportadapter.md",
+        "BaseTransportAdapter"
+      ],
+      ["/craft-mail-transportadapters-gmail.md", "Gmail"],
+      ["/craft-mail-transportadapters-sendmail.md", "Sendmail"],
+      ["/craft-mail-transportadapters-smtp.md", "Smtp"],
+      [
+        "/craft-mail-transportadapters-transportadapterinterface.md",
+        "TransportAdapterInterface"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\migrations",
+    "collapsible": true,
+    "children": [
+      ["/craft-migrations-createdbcachetable.md", "CreateDbCacheTable"],
+      [
+        "/craft-migrations-creatematrixcontenttable.md",
+        "CreateMatrixContentTable"
+      ],
+      ["/craft-migrations-createphpsessiontable.md", "CreatePhpSessionTable"],
+      ["/craft-migrations-install.md", "Install"]
+    ]
+  },
+  {
+    "title": "craft\\models",
+    "collapsible": true,
+    "children": [
+      ["/craft-models-assetindexdata.md", "AssetIndexData"],
+      ["/craft-models-assettransform.md", "AssetTransform"],
+      ["/craft-models-assettransformindex.md", "AssetTransformIndex"],
+      ["/craft-models-baseentryrevisionmodel.md", "BaseEntryRevisionModel"],
+      ["/craft-models-categorygroup.md", "CategoryGroup"],
+      [
+        "/craft-models-categorygroup_sitesettings.md",
+        "CategoryGroup_SiteSettings"
+      ],
+      ["/craft-models-craftidtoken.md", "CraftIdToken"],
+      ["/craft-models-craftsupport.md", "CraftSupport"],
+      ["/craft-models-deprecationerror.md", "DeprecationError"],
+      ["/craft-models-entrydraft.md", "EntryDraft"],
+      ["/craft-models-entrytype.md", "EntryType"],
+      ["/craft-models-entryversion.md", "EntryVersion"],
+      ["/craft-models-fieldgroup.md", "FieldGroup"],
+      ["/craft-models-fieldlayout.md", "FieldLayout"],
+      ["/craft-models-fieldlayouttab.md", "FieldLayoutTab"],
+      ["/craft-models-foldercriteria.md", "FolderCriteria"],
+      ["/craft-models-gqlschema.md", "GqlSchema"],
+      ["/craft-models-gqltoken.md", "GqlToken"],
+      ["/craft-models-info.md", "Info"],
+      ["/craft-models-mailsettings.md", "MailSettings"],
+      ["/craft-models-matrixblocktype.md", "MatrixBlockType"],
+      ["/craft-models-section.md", "Section"],
+      ["/craft-models-section_sitesettings.md", "Section_SiteSettings"],
+      ["/craft-models-site.md", "Site"],
+      ["/craft-models-sitegroup.md", "SiteGroup"],
+      ["/craft-models-structure.md", "Structure"],
+      ["/craft-models-systemmessage.md", "SystemMessage"],
+      ["/craft-models-taggroup.md", "TagGroup"],
+      ["/craft-models-update.md", "Update"],
+      ["/craft-models-updaterelease.md", "UpdateRelease"],
+      ["/craft-models-updates.md", "Updates"],
+      ["/craft-models-url.md", "Url"],
+      ["/craft-models-usergroup.md", "UserGroup"],
+      ["/craft-models-volumefolder.md", "VolumeFolder"]
+    ]
+  },
+  {
+    "title": "craft\\mutex",
+    "collapsible": true,
+    "children": [["/craft-mutex-filemutex.md", "FileMutex"]]
+  },
+  {
+    "title": "craft\\queue",
+    "collapsible": true,
+    "children": [
+      ["/craft-queue-basejob.md", "BaseJob"],
+      ["/craft-queue-command.md", "Command"],
+      ["/craft-queue-infoaction.md", "InfoAction"],
+      ["/craft-queue-jobinterface.md", "JobInterface"],
+      ["/craft-queue-queue.md", "Queue"],
+      ["/craft-queue-queueinterface.md", "QueueInterface"],
+      ["/craft-queue-queuelogbehavior.md", "QueueLogBehavior"],
+      ["/craft-queue-verbosebehavior.md", "VerboseBehavior"]
+    ]
+  },
+  {
+    "title": "craft\\queue\\jobs",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-queue-jobs-applymatrixpropagationmethod.md",
+        "ApplyMatrixPropagationMethod"
+      ],
+      [
+        "/craft-queue-jobs-applynewpropagationmethod.md",
+        "ApplyNewPropagationMethod"
+      ],
+      ["/craft-queue-jobs-convertentryrevisions.md", "ConvertEntryRevisions"],
+      [
+        "/craft-queue-jobs-deletestaletemplatecaches.md",
+        "DeleteStaleTemplateCaches"
+      ],
+      ["/craft-queue-jobs-findandreplace.md", "FindAndReplace"],
+      [
+        "/craft-queue-jobs-generatependingtransforms.md",
+        "GeneratePendingTransforms"
+      ],
+      ["/craft-queue-jobs-localizerelations.md", "LocalizeRelations"],
+      ["/craft-queue-jobs-propagateelements.md", "PropagateElements"],
+      ["/craft-queue-jobs-resaveelements.md", "ResaveElements"],
+      [
+        "/craft-queue-jobs-updateelementslugsanduris.md",
+        "UpdateElementSlugsAndUris"
+      ],
+      ["/craft-queue-jobs-updatesearchindex.md", "UpdateSearchIndex"]
+    ]
+  },
+  {
+    "title": "craft\\records",
+    "collapsible": true,
+    "children": [
+      ["/craft-records-asset.md", "Asset"],
+      ["/craft-records-assetindexdata.md", "AssetIndexData"],
+      ["/craft-records-assettransform.md", "AssetTransform"],
+      ["/craft-records-category.md", "Category"],
+      ["/craft-records-categorygroup.md", "CategoryGroup"],
+      [
+        "/craft-records-categorygroup_sitesettings.md",
+        "CategoryGroup_SiteSettings"
+      ],
+      ["/craft-records-craftidtoken.md", "CraftIdToken"],
+      ["/craft-records-element.md", "Element"],
+      ["/craft-records-element_sitesettings.md", "Element_SiteSettings"],
+      ["/craft-records-entry.md", "Entry"],
+      ["/craft-records-entrytype.md", "EntryType"],
+      ["/craft-records-field.md", "Field"],
+      ["/craft-records-fieldgroup.md", "FieldGroup"],
+      ["/craft-records-fieldlayout.md", "FieldLayout"],
+      ["/craft-records-fieldlayoutfield.md", "FieldLayoutField"],
+      ["/craft-records-fieldlayouttab.md", "FieldLayoutTab"],
+      ["/craft-records-globalset.md", "GlobalSet"],
+      ["/craft-records-gqlschema.md", "GqlSchema"],
+      ["/craft-records-gqltoken.md", "GqlToken"],
+      ["/craft-records-matrixblock.md", "MatrixBlock"],
+      ["/craft-records-matrixblocktype.md", "MatrixBlockType"],
+      ["/craft-records-migration.md", "Migration"],
+      ["/craft-records-plugin.md", "Plugin"],
+      ["/craft-records-section.md", "Section"],
+      ["/craft-records-section_sitesettings.md", "Section_SiteSettings"],
+      ["/craft-records-session.md", "Session"],
+      ["/craft-records-site.md", "Site"],
+      ["/craft-records-sitegroup.md", "SiteGroup"],
+      ["/craft-records-structure.md", "Structure"],
+      ["/craft-records-structureelement.md", "StructureElement"],
+      ["/craft-records-systemmessage.md", "SystemMessage"],
+      ["/craft-records-tag.md", "Tag"],
+      ["/craft-records-taggroup.md", "TagGroup"],
+      ["/craft-records-token.md", "Token"],
+      ["/craft-records-user.md", "User"],
+      ["/craft-records-usergroup.md", "UserGroup"],
+      ["/craft-records-usergroup_user.md", "UserGroup_User"],
+      ["/craft-records-userpermission.md", "UserPermission"],
+      ["/craft-records-userpermission_user.md", "UserPermission_User"],
+      [
+        "/craft-records-userpermission_usergroup.md",
+        "UserPermission_UserGroup"
+      ],
+      ["/craft-records-volume.md", "Volume"],
+      ["/craft-records-volumefolder.md", "VolumeFolder"],
+      ["/craft-records-widget.md", "Widget"]
+    ]
+  },
+  {
+    "title": "craft\\search",
+    "collapsible": true,
+    "children": [
+      ["/craft-search-searchquery.md", "SearchQuery"],
+      ["/craft-search-searchqueryterm.md", "SearchQueryTerm"],
+      ["/craft-search-searchquerytermgroup.md", "SearchQueryTermGroup"]
+    ]
+  },
+  {
+    "title": "craft\\services",
+    "collapsible": true,
+    "children": [
+      ["/craft-services-api.md", "Api"],
+      ["/craft-services-assetindexer.md", "AssetIndexer"],
+      ["/craft-services-assettransforms.md", "AssetTransforms"],
+      ["/craft-services-assets.md", "Assets"],
+      ["/craft-services-categories.md", "Categories"],
+      ["/craft-services-composer.md", "Composer"],
+      ["/craft-services-config.md", "Config"],
+      ["/craft-services-content.md", "Content"],
+      ["/craft-services-dashboard.md", "Dashboard"],
+      ["/craft-services-deprecator.md", "Deprecator"],
+      ["/craft-services-drafts.md", "Drafts"],
+      ["/craft-services-elementindexes.md", "ElementIndexes"],
+      ["/craft-services-elements.md", "Elements"],
+      ["/craft-services-entries.md", "Entries"],
+      ["/craft-services-entryrevisions.md", "EntryRevisions"],
+      ["/craft-services-fields.md", "Fields"],
+      ["/craft-services-gc.md", "Gc"],
+      ["/craft-services-globals.md", "Globals"],
+      ["/craft-services-gql.md", "Gql"],
+      ["/craft-services-images.md", "Images"],
+      ["/craft-services-matrix.md", "Matrix"],
+      ["/craft-services-path.md", "Path"],
+      ["/craft-services-pluginstore.md", "PluginStore"],
+      ["/craft-services-plugins.md", "Plugins"],
+      ["/craft-services-projectconfig.md", "ProjectConfig"],
+      ["/craft-services-relations.md", "Relations"],
+      ["/craft-services-revisions.md", "Revisions"],
+      ["/craft-services-routes.md", "Routes"],
+      ["/craft-services-search.md", "Search"],
+      ["/craft-services-sections.md", "Sections"],
+      ["/craft-services-security.md", "Security"],
+      ["/craft-services-sites.md", "Sites"],
+      ["/craft-services-structures.md", "Structures"],
+      ["/craft-services-systemmessages.md", "SystemMessages"],
+      ["/craft-services-systemsettings.md", "SystemSettings"],
+      ["/craft-services-tags.md", "Tags"],
+      ["/craft-services-templatecaches.md", "TemplateCaches"],
+      ["/craft-services-tokens.md", "Tokens"],
+      ["/craft-services-updates.md", "Updates"],
+      ["/craft-services-usergroups.md", "UserGroups"],
+      ["/craft-services-userpermissions.md", "UserPermissions"],
+      ["/craft-services-users.md", "Users"],
+      ["/craft-services-utilities.md", "Utilities"],
+      ["/craft-services-volumes.md", "Volumes"]
+    ]
+  },
+  {
+    "title": "craft\\test",
+    "collapsible": true,
+    "children": [
+      ["/craft-test-craft.md", "Craft"],
+      ["/craft-test-craftconnector.md", "CraftConnector"],
+      ["/craft-test-eventitem.md", "EventItem"],
+      ["/craft-test-fixture.md", "Fixture"],
+      ["/craft-test-testcase.md", "TestCase"],
+      ["/craft-test-testmailer.md", "TestMailer"],
+      ["/craft-test-testsetup.md", "TestSetup"]
+    ]
+  },
+  {
+    "title": "craft\\test\\console",
+    "collapsible": true,
+    "children": [
+      ["/craft-test-console-commandtest.md", "CommandTest"],
+      ["/craft-test-console-commandtestitem.md", "CommandTestItem"],
+      ["/craft-test-console-consoletest.md", "ConsoleTest"]
+    ]
+  },
+  {
+    "title": "craft\\test\\fixtures",
+    "collapsible": true,
+    "children": [
+      ["/craft-test-fixtures-fieldfixture.md", "FieldFixture"],
+      ["/craft-test-fixtures-fieldlayoutfixture.md", "FieldLayoutFixture"]
+    ]
+  },
+  {
+    "title": "craft\\test\\fixtures\\elements",
+    "collapsible": true,
+    "children": [
+      ["/craft-test-fixtures-elements-assetfixture.md", "AssetFixture"],
+      ["/craft-test-fixtures-elements-categoryfixture.md", "CategoryFixture"],
+      ["/craft-test-fixtures-elements-elementfixture.md", "ElementFixture"],
+      ["/craft-test-fixtures-elements-entryfixture.md", "EntryFixture"],
+      ["/craft-test-fixtures-elements-globalsetfixture.md", "GlobalSetFixture"],
+      ["/craft-test-fixtures-elements-tagfixture.md", "TagFixture"],
+      ["/craft-test-fixtures-elements-userfixture.md", "UserFixture"]
+    ]
+  },
+  {
+    "title": "craft\\test\\mockclasses",
+    "collapsible": true,
+    "children": [
+      ["/craft-test-mockclasses-tostring.md", "ToString"],
+      ["/craft-test-mockclasses-twigextension.md", "TwigExtension"]
+    ]
+  },
+  {
+    "title": "craft\\test\\mockclasses\\arrayable",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-test-mockclasses-arrayable-examplearrayble.md",
+        "ExampleArrayble"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\test\\mockclasses\\components",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-test-mockclasses-components-componentexample.md",
+        "ComponentExample"
+      ],
+      [
+        "/craft-test-mockclasses-components-dependencyheavycomponentexample.md",
+        "DependencyHeavyComponentExample"
+      ],
+      [
+        "/craft-test-mockclasses-components-eventtriggeringcomponent.md",
+        "EventTriggeringComponent"
+      ],
+      [
+        "/craft-test-mockclasses-components-extendedcomponentexample.md",
+        "ExtendedComponentExample"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\test\\mockclasses\\controllers",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-test-mockclasses-controllers-testcontroller.md",
+        "TestController"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\test\\mockclasses\\elements",
+    "collapsible": true,
+    "children": [
+      ["/craft-test-mockclasses-elements-exampleelement.md", "ExampleElement"]
+    ]
+  },
+  {
+    "title": "craft\\test\\mockclasses\\gql",
+    "collapsible": true,
+    "children": [
+      ["/craft-test-mockclasses-gql-mockdirective.md", "MockDirective"],
+      ["/craft-test-mockclasses-gql-mocktype.md", "MockType"]
+    ]
+  },
+  {
+    "title": "craft\\test\\mockclasses\\models",
+    "collapsible": true,
+    "children": [
+      ["/craft-test-mockclasses-models-examplemodel.md", "ExampleModel"]
+    ]
+  },
+  {
+    "title": "craft\\test\\mockclasses\\serializable",
+    "collapsible": true,
+    "children": [
+      ["/craft-test-mockclasses-serializable-serializable.md", "Serializable"]
+    ]
+  },
+  {
+    "title": "craft\\utilities",
+    "collapsible": true,
+    "children": [
+      ["/craft-utilities-assetindexes.md", "AssetIndexes"],
+      ["/craft-utilities-clearcaches.md", "ClearCaches"],
+      ["/craft-utilities-dbbackup.md", "DbBackup"],
+      ["/craft-utilities-deprecationerrors.md", "DeprecationErrors"],
+      ["/craft-utilities-findandreplace.md", "FindAndReplace"],
+      ["/craft-utilities-migrations.md", "Migrations"],
+      ["/craft-utilities-phpinfo.md", "PhpInfo"],
+      ["/craft-utilities-queuemanager.md", "QueueManager"],
+      ["/craft-utilities-systemmessages.md", "SystemMessages"],
+      ["/craft-utilities-systemreport.md", "SystemReport"],
+      ["/craft-utilities-updates.md", "Updates"]
+    ]
+  },
+  {
+    "title": "craft\\validators",
+    "collapsible": true,
+    "children": [
+      ["/craft-validators-arrayvalidator.md", "ArrayValidator"],
+      ["/craft-validators-assetlocationvalidator.md", "AssetLocationValidator"],
+      ["/craft-validators-colorvalidator.md", "ColorValidator"],
+      ["/craft-validators-datetimevalidator.md", "DateTimeValidator"],
+      ["/craft-validators-elementurivalidator.md", "ElementUriValidator"],
+      ["/craft-validators-handlevalidator.md", "HandleValidator"],
+      ["/craft-validators-languagevalidator.md", "LanguageValidator"],
+      [
+        "/craft-validators-singlesectionurivalidator.md",
+        "SingleSectionUriValidator"
+      ],
+      ["/craft-validators-siteidvalidator.md", "SiteIdValidator"],
+      ["/craft-validators-slugvalidator.md", "SlugValidator"],
+      ["/craft-validators-stringvalidator.md", "StringValidator"],
+      ["/craft-validators-templatevalidator.md", "TemplateValidator"],
+      ["/craft-validators-uniquevalidator.md", "UniqueValidator"],
+      ["/craft-validators-uriformatvalidator.md", "UriFormatValidator"],
+      ["/craft-validators-urivalidator.md", "UriValidator"],
+      ["/craft-validators-urlvalidator.md", "UrlValidator"],
+      ["/craft-validators-userpasswordvalidator.md", "UserPasswordValidator"],
+      ["/craft-validators-usernamevalidator.md", "UsernameValidator"]
+    ]
+  },
+  {
+    "title": "craft\\volumes",
+    "collapsible": true,
+    "children": [
+      ["/craft-volumes-local.md", "Local"],
+      ["/craft-volumes-missingvolume.md", "MissingVolume"],
+      ["/craft-volumes-temp.md", "Temp"]
+    ]
+  },
+  {
+    "title": "craft\\web",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-application.md", "Application"],
+      ["/craft-web-assetbundle.md", "AssetBundle"],
+      ["/craft-web-assetmanager.md", "AssetManager"],
+      ["/craft-web-controller.md", "Controller"],
+      ["/craft-web-csvresponseformatter.md", "CsvResponseFormatter"],
+      ["/craft-web-errorhandler.md", "ErrorHandler"],
+      ["/craft-web-request.md", "Request"],
+      ["/craft-web-response.md", "Response"],
+      [
+        "/craft-web-serviceunavailablehttpexception.md",
+        "ServiceUnavailableHttpException"
+      ],
+      ["/craft-web-session.md", "Session"],
+      ["/craft-web-uploadedfile.md", "UploadedFile"],
+      ["/craft-web-urlmanager.md", "UrlManager"],
+      ["/craft-web-urlrule.md", "UrlRule"],
+      ["/craft-web-user.md", "User"],
+      ["/craft-web-view.md", "View"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\admintable",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-admintable-admintableasset.md", "AdminTableAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\assetindexes",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-assetindexes-assetindexesasset.md",
+        "AssetIndexesAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\axios",
+    "collapsible": true,
+    "children": [["/craft-web-assets-axios-axiosasset.md", "AxiosAsset"]]
+  },
+  {
+    "title": "craft\\web\\assets\\clearcaches",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-clearcaches-clearcachesasset.md", "ClearCachesAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\cp",
+    "collapsible": true,
+    "children": [["/craft-web-assets-cp-cpasset.md", "CpAsset"]]
+  },
+  {
+    "title": "craft\\web\\assets\\craftsupport",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-craftsupport-craftsupportasset.md",
+        "CraftSupportAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\d3",
+    "collapsible": true,
+    "children": [["/craft-web-assets-d3-d3asset.md", "D3Asset"]]
+  },
+  {
+    "title": "craft\\web\\assets\\dashboard",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-dashboard-dashboardasset.md", "DashboardAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\datepickeri18n",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-datepickeri18n-datepickeri18nasset.md",
+        "DatepickerI18nAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\dbbackup",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-dbbackup-dbbackupasset.md", "DbBackupAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\deprecationerrors",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-deprecationerrors-deprecationerrorsasset.md",
+        "DeprecationErrorsAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\editentry",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-editentry-editentryasset.md", "EditEntryAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\editsection",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-editsection-editsectionasset.md", "EditSectionAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\edittransform",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-edittransform-edittransformasset.md",
+        "EditTransformAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\edituser",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-edituser-edituserasset.md", "EditUserAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\elementresizedetector",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-elementresizedetector-elementresizedetectorasset.md",
+        "ElementResizeDetectorAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\fabric",
+    "collapsible": true,
+    "children": [["/craft-web-assets-fabric-fabricasset.md", "FabricAsset"]]
+  },
+  {
+    "title": "craft\\web\\assets\\feed",
+    "collapsible": true,
+    "children": [["/craft-web-assets-feed-feedasset.md", "FeedAsset"]]
+  },
+  {
+    "title": "craft\\web\\assets\\fields",
+    "collapsible": true,
+    "children": [["/craft-web-assets-fields-fieldsasset.md", "FieldsAsset"]]
+  },
+  {
+    "title": "craft\\web\\assets\\fieldsettings",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-fieldsettings-fieldsettingsasset.md",
+        "FieldSettingsAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\fileupload",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-fileupload-fileuploadasset.md", "FileUploadAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\findreplace",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-findreplace-findreplaceasset.md", "FindReplaceAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\garnish",
+    "collapsible": true,
+    "children": [["/craft-web-assets-garnish-garnishasset.md", "GarnishAsset"]]
+  },
+  {
+    "title": "craft\\web\\assets\\generalsettings",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-generalsettings-generalsettingsasset.md",
+        "GeneralSettingsAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\graphiql",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-graphiql-graphiqlasset.md", "GraphiqlAsset"],
+      ["/craft-web-assets-graphiql-vendorasset.md", "VendorAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\installer",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-installer-installerasset.md", "InstallerAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\jquerypayment",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-jquerypayment-jquerypaymentasset.md",
+        "JqueryPaymentAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\jquerytouchevents",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-jquerytouchevents-jquerytoucheventsasset.md",
+        "JqueryTouchEventsAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\jqueryui",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-jqueryui-jqueryuiasset.md", "JqueryUiAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\login",
+    "collapsible": true,
+    "children": [["/craft-web-assets-login-loginasset.md", "LoginAsset"]]
+  },
+  {
+    "title": "craft\\web\\assets\\matrix",
+    "collapsible": true,
+    "children": [["/craft-web-assets-matrix-matrixasset.md", "MatrixAsset"]]
+  },
+  {
+    "title": "craft\\web\\assets\\matrixsettings",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-matrixsettings-matrixsettingsasset.md",
+        "MatrixSettingsAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\newusers",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-newusers-newusersasset.md", "NewUsersAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\picturefill",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-picturefill-picturefillasset.md", "PicturefillAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\plugins",
+    "collapsible": true,
+    "children": [["/craft-web-assets-plugins-pluginsasset.md", "PluginsAsset"]]
+  },
+  {
+    "title": "craft\\web\\assets\\pluginstore",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-pluginstore-pluginstoreasset.md", "PluginStoreAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\pluginstoreoauth",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-pluginstoreoauth-pluginstoreoauthasset.md",
+        "PluginStoreOauthAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\positionselect",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-positionselect-positionselectasset.md",
+        "PositionSelectAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\prismjs",
+    "collapsible": true,
+    "children": [["/craft-web-assets-prismjs-prismjsasset.md", "PrismJsAsset"]]
+  },
+  {
+    "title": "craft\\web\\assets\\queuemanager",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-queuemanager-queuemanagerasset.md",
+        "QueueManagerAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\quickpost",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-quickpost-quickpostasset.md", "QuickPostAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\qunit",
+    "collapsible": true,
+    "children": [["/craft-web-assets-qunit-qunitasset.md", "QunitAsset"]]
+  },
+  {
+    "title": "craft\\web\\assets\\recententries",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-recententries-recententriesasset.md",
+        "RecentEntriesAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\routes",
+    "collapsible": true,
+    "children": [["/craft-web-assets-routes-routesasset.md", "RoutesAsset"]]
+  },
+  {
+    "title": "craft\\web\\assets\\selectize",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-selectize-selectizeasset.md", "SelectizeAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\sites",
+    "collapsible": true,
+    "children": [["/craft-web-assets-sites-sitesasset.md", "SitesAsset"]]
+  },
+  {
+    "title": "craft\\web\\assets\\systemmessages",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-systemmessages-systemmessagesasset.md",
+        "SystemMessagesAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\tablesettings",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-tablesettings-tablesettingsasset.md",
+        "TableSettingsAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\tests",
+    "collapsible": true,
+    "children": [["/craft-web-assets-tests-testsasset.md", "TestsAsset"]]
+  },
+  {
+    "title": "craft\\web\\assets\\timepicker",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-timepicker-timepickerasset.md", "TimepickerAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\updater",
+    "collapsible": true,
+    "children": [["/craft-web-assets-updater-updaterasset.md", "UpdaterAsset"]]
+  },
+  {
+    "title": "craft\\web\\assets\\updates",
+    "collapsible": true,
+    "children": [["/craft-web-assets-updates-updatesasset.md", "UpdatesAsset"]]
+  },
+  {
+    "title": "craft\\web\\assets\\updateswidget",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-updateswidget-updateswidgetasset.md",
+        "UpdatesWidgetAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\userpermissions",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-assets-userpermissions-userpermissionsasset.md",
+        "UserPermissionsAsset"
+      ]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\utilities",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-utilities-utilitiesasset.md", "UtilitiesAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\velocity",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-assets-velocity-velocityasset.md", "VelocityAsset"]
+    ]
+  },
+  {
+    "title": "craft\\web\\assets\\vue",
+    "collapsible": true,
+    "children": [["/craft-web-assets-vue-vueasset.md", "VueAsset"]]
+  },
+  {
+    "title": "craft\\web\\assets\\xregexp",
+    "collapsible": true,
+    "children": [["/craft-web-assets-xregexp-xregexpasset.md", "XregexpAsset"]]
+  },
+  {
+    "title": "craft\\web\\twig",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-twig-environment.md", "Environment"],
+      ["/craft-web-twig-extension.md", "Extension"],
+      ["/craft-web-twig-template.md", "Template"],
+      ["/craft-web-twig-templateloader.md", "TemplateLoader"],
+      ["/craft-web-twig-templateloaderexception.md", "TemplateLoaderException"]
+    ]
+  },
+  {
+    "title": "craft\\web\\twig\\nodes",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-twig-nodes-cachenode.md", "CacheNode"],
+      ["/craft-web-twig-nodes-ddnode.md", "DdNode"],
+      ["/craft-web-twig-nodes-exitnode.md", "ExitNode"],
+      ["/craft-web-twig-nodes-getattrnode.md", "GetAttrNode"],
+      ["/craft-web-twig-nodes-headernode.md", "HeaderNode"],
+      ["/craft-web-twig-nodes-hooknode.md", "HookNode"],
+      ["/craft-web-twig-nodes-namespacenode.md", "NamespaceNode"],
+      ["/craft-web-twig-nodes-navitem_node.md", "NavItem_Node"],
+      ["/craft-web-twig-nodes-navnode.md", "NavNode"],
+      ["/craft-web-twig-nodes-paginatenode.md", "PaginateNode"],
+      ["/craft-web-twig-nodes-profilenode.md", "ProfileNode"],
+      ["/craft-web-twig-nodes-redirectnode.md", "RedirectNode"],
+      ["/craft-web-twig-nodes-registerresourcenode.md", "RegisterResourceNode"],
+      ["/craft-web-twig-nodes-requireadminnode.md", "RequireAdminNode"],
+      ["/craft-web-twig-nodes-requireeditionnode.md", "RequireEditionNode"],
+      ["/craft-web-twig-nodes-requireguestnode.md", "RequireGuestNode"],
+      ["/craft-web-twig-nodes-requireloginnode.md", "RequireLoginNode"],
+      [
+        "/craft-web-twig-nodes-requirepermissionnode.md",
+        "RequirePermissionNode"
+      ],
+      ["/craft-web-twig-nodes-switchnode.md", "SwitchNode"]
+    ]
+  },
+  {
+    "title": "craft\\web\\twig\\nodevisitors",
+    "collapsible": true,
+    "children": [
+      [
+        "/craft-web-twig-nodevisitors-baseeventtagvisitor.md",
+        "BaseEventTagVisitor"
+      ],
+      ["/craft-web-twig-nodevisitors-eventtagadder.md", "EventTagAdder"],
+      ["/craft-web-twig-nodevisitors-eventtagfinder.md", "EventTagFinder"],
+      ["/craft-web-twig-nodevisitors-getattradjuster.md", "GetAttrAdjuster"],
+      ["/craft-web-twig-nodevisitors-profiler.md", "Profiler"]
+    ]
+  },
+  {
+    "title": "craft\\web\\twig\\tokenparsers",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-twig-tokenparsers-cachetokenparser.md", "CacheTokenParser"],
+      ["/craft-web-twig-tokenparsers-ddtokenparser.md", "DdTokenParser"],
+      ["/craft-web-twig-tokenparsers-exittokenparser.md", "ExitTokenParser"],
+      [
+        "/craft-web-twig-tokenparsers-headertokenparser.md",
+        "HeaderTokenParser"
+      ],
+      ["/craft-web-twig-tokenparsers-hooktokenparser.md", "HookTokenParser"],
+      [
+        "/craft-web-twig-tokenparsers-namespacetokenparser.md",
+        "NamespaceTokenParser"
+      ],
+      ["/craft-web-twig-tokenparsers-navtokenparser.md", "NavTokenParser"],
+      [
+        "/craft-web-twig-tokenparsers-paginatetokenparser.md",
+        "PaginateTokenParser"
+      ],
+      [
+        "/craft-web-twig-tokenparsers-redirecttokenparser.md",
+        "RedirectTokenParser"
+      ],
+      [
+        "/craft-web-twig-tokenparsers-registerresourcetokenparser.md",
+        "RegisterResourceTokenParser"
+      ],
+      [
+        "/craft-web-twig-tokenparsers-requireadmintokenparser.md",
+        "RequireAdminTokenParser"
+      ],
+      [
+        "/craft-web-twig-tokenparsers-requireeditiontokenparser.md",
+        "RequireEditionTokenParser"
+      ],
+      [
+        "/craft-web-twig-tokenparsers-requireguesttokenparser.md",
+        "RequireGuestTokenParser"
+      ],
+      [
+        "/craft-web-twig-tokenparsers-requirelogintokenparser.md",
+        "RequireLoginTokenParser"
+      ],
+      [
+        "/craft-web-twig-tokenparsers-requirepermissiontokenparser.md",
+        "RequirePermissionTokenParser"
+      ],
+      ["/craft-web-twig-tokenparsers-switchtokenparser.md", "SwitchTokenParser"]
+    ]
+  },
+  {
+    "title": "craft\\web\\twig\\variables",
+    "collapsible": true,
+    "children": [
+      ["/craft-web-twig-variables-categorygroups.md", "CategoryGroups"],
+      ["/craft-web-twig-variables-config.md", "Config"],
+      ["/craft-web-twig-variables-cp.md", "Cp"],
+      ["/craft-web-twig-variables-craftvariable.md", "CraftVariable"],
+      ["/craft-web-twig-variables-deprecator.md", "Deprecator"],
+      ["/craft-web-twig-variables-elementindexes.md", "ElementIndexes"],
+      ["/craft-web-twig-variables-emailmessages.md", "EmailMessages"],
+      ["/craft-web-twig-variables-feeds.md", "Feeds"],
+      ["/craft-web-twig-variables-fields.md", "Fields"],
+      ["/craft-web-twig-variables-globals.md", "Globals"],
+      ["/craft-web-twig-variables-i18n.md", "I18N"],
+      ["/craft-web-twig-variables-image.md", "Image"],
+      ["/craft-web-twig-variables-io.md", "Io"],
+      ["/craft-web-twig-variables-paginate.md", "Paginate"],
+      ["/craft-web-twig-variables-rebrand.md", "Rebrand"],
+      ["/craft-web-twig-variables-request.md", "Request"],
+      ["/craft-web-twig-variables-routes.md", "Routes"],
+      ["/craft-web-twig-variables-sections.md", "Sections"],
+      ["/craft-web-twig-variables-systemsettings.md", "SystemSettings"],
+      ["/craft-web-twig-variables-usergroups.md", "UserGroups"],
+      ["/craft-web-twig-variables-userpermissions.md", "UserPermissions"],
+      ["/craft-web-twig-variables-usersession.md", "UserSession"]
+    ]
+  },
+  {
+    "title": "craft\\widgets",
+    "collapsible": true,
+    "children": [
+      ["/craft-widgets-craftsupport.md", "CraftSupport"],
+      ["/craft-widgets-feed.md", "Feed"],
+      ["/craft-widgets-missingwidget.md", "MissingWidget"],
+      ["/craft-widgets-newusers.md", "NewUsers"],
+      ["/craft-widgets-quickpost.md", "QuickPost"],
+      ["/craft-widgets-recententries.md", "RecentEntries"],
+      ["/craft-widgets-updates.md", "Updates"]
+    ]
+  },
+  {
+    "title": "myprojecttests",
+    "collapsible": true,
+    "children": [
+      ["/myprojecttests-examplefunctionalcest.md", "ExampleFunctionalCest"],
+      ["/myprojecttests-exampleunittest.md", "ExampleUnitTest"]
+    ]
+  }
+]

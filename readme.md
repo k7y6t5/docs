@@ -40,6 +40,12 @@ Quit the process and re-run if you’ve made changes to any `.js` config files.
 npm run storybook
 ```
 
+## Running and Building
+
+```
+export NODE_OPTIONS="--max-old-space-size=8192"
+```
+
 ## Writing Tips
 
 - Keep code block line lengths up to 85 characters long to avoid horizontal scrollbars.

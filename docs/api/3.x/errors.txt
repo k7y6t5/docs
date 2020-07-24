@@ -1,0 +1,2481 @@
+Array
+(
+    [0] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/base/Element.php
+            [message] => Property $id conflicts with a defined getter getId in craft\base\Element.
+        )
+
+    [1] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/base/ElementAction.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\base\ElementAction.
+        )
+
+    [2] => Array
+        (
+            [line] => 21
+            [file] => /buddy/cms/src/base/ElementExporter.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\base\ElementExporter.
+        )
+
+    [3] => Array
+        (
+            [line] => 45
+            [file] => /buddy/cms/src/behaviors/DraftBehavior.php
+            [message] => Property $draftName conflicts with a defined getter getDraftName in craft\behaviors\DraftBehavior.
+        )
+
+    [4] => Array
+        (
+            [line] => 43
+            [file] => /buddy/cms/src/config/GeneralConfig.php
+            [message] => Property $activateAccountSuccessPath conflicts with a defined getter getActivateAccountSuccessPath in craft\config\GeneralConfig.
+        )
+
+    [5] => Array
+        (
+            [line] => 954
+            [file] => /buddy/cms/src/config/GeneralConfig.php
+            [message] => Property $verifyEmailPath conflicts with a defined getter getVerifyEmailPath in craft\config\GeneralConfig.
+        )
+
+    [6] => Array
+        (
+            [line] => 962
+            [file] => /buddy/cms/src/config/GeneralConfig.php
+            [message] => Property $verifyEmailSuccessPath conflicts with a defined getter getVerifyEmailSuccessPath in craft\config\GeneralConfig.
+        )
+
+    [7] => Array
+        (
+            [line] => 421
+            [file] => /buddy/cms/src/config/GeneralConfig.php
+            [message] => Property $invalidUserTokenPath conflicts with a defined getter getInvalidUserTokenPath in craft\config\GeneralConfig.
+        )
+
+    [8] => Array
+        (
+            [line] => 451
+            [file] => /buddy/cms/src/config/GeneralConfig.php
+            [message] => Property $loginPath conflicts with a defined getter getLoginPath in craft\config\GeneralConfig.
+        )
+
+    [9] => Array
+        (
+            [line] => 460
+            [file] => /buddy/cms/src/config/GeneralConfig.php
+            [message] => Property $logoutPath conflicts with a defined getter getLogoutPath in craft\config\GeneralConfig.
+        )
+
+    [10] => Array
+        (
+            [line] => 565
+            [file] => /buddy/cms/src/config/GeneralConfig.php
+            [message] => Property $postCpLoginRedirect conflicts with a defined getter getPostCpLoginRedirect in craft\config\GeneralConfig.
+        )
+
+    [11] => Array
+        (
+            [line] => 575
+            [file] => /buddy/cms/src/config/GeneralConfig.php
+            [message] => Property $postLoginRedirect conflicts with a defined getter getPostLoginRedirect in craft\config\GeneralConfig.
+        )
+
+    [12] => Array
+        (
+            [line] => 582
+            [file] => /buddy/cms/src/config/GeneralConfig.php
+            [message] => Property $postLogoutRedirect conflicts with a defined getter getPostLogoutRedirect in craft\config\GeneralConfig.
+        )
+
+    [13] => Array
+        (
+            [line] => 764
+            [file] => /buddy/cms/src/config/GeneralConfig.php
+            [message] => Property $setPasswordPath conflicts with a defined getter getSetPasswordPath in craft\config\GeneralConfig.
+        )
+
+    [14] => Array
+        (
+            [line] => 771
+            [file] => /buddy/cms/src/config/GeneralConfig.php
+            [message] => Property $setPasswordSuccessPath conflicts with a defined getter getSetPasswordSuccessPath in craft\config\GeneralConfig.
+        )
+
+    [15] => Array
+        (
+            [line] => 96
+            [file] => /buddy/cms/src/config/GeneralConfig.php
+            [message] => Property $backupOnUpdate conflicts with a defined getter getBackupOnUpdate in craft\config\GeneralConfig.
+        )
+
+    [16] => Array
+        (
+            [line] => 533
+            [file] => /buddy/cms/src/config/GeneralConfig.php
+            [message] => Property $pageTrigger conflicts with a defined getter getPageTrigger in craft\config\GeneralConfig.
+        )
+
+    [17] => Array
+        (
+            [file] => /buddy/cms/src/config/GeneralConfig.php
+            [message] => broken link to \craft\web\View::includeJs() in craft\config\GeneralConfig
+        )
+
+    [18] => Array
+        (
+            [file] => /buddy/cms/src/config/GeneralConfig.php
+            [message] => broken link to \craft\web\View::includeJs() in craft\config\GeneralConfig
+        )
+
+    [19] => Array
+        (
+            [file] => /buddy/cms/src/config/GeneralConfig.php
+            [message] => broken link to \craft\web\View::includeJs() in craft\config\GeneralConfig
+        )
+
+    [20] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/Controller.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\Controller.
+        )
+
+    [21] => Array
+        (
+            [file] => /buddy/cms/src/console/Controller.php
+            [message] => broken link to \Yii::createObject() in craft\console\Controller
+        )
+
+    [22] => Array
+        (
+            [line] => 43
+            [file] => /buddy/cms/src/console/actions/ClearCacheAction.php
+            [message] => Method run has no parent to inherit from in craft\console\actions\ClearCacheAction.
+        )
+
+    [23] => Array
+        (
+            [line] => 42
+            [file] => /buddy/cms/src/console/controllers/BackupController.php
+            [message] => Undefined parameter documented:  in actionDb().
+        )
+
+    [24] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/BackupController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\BackupController.
+        )
+
+    [25] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/ClearCachesController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\ClearCachesController.
+        )
+
+    [26] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/FixtureController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\FixtureController.
+        )
+
+    [27] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/GcController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\GcController.
+        )
+
+    [28] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/GraphqlController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\GraphqlController.
+        )
+
+    [29] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/IndexAssetsController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\IndexAssetsController.
+        )
+
+    [30] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/InstallController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\InstallController.
+        )
+
+    [31] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/MailerController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\MailerController.
+        )
+
+    [32] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/MigrateController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\MigrateController.
+        )
+
+    [33] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/ProjectConfigController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\ProjectConfigController.
+        )
+
+    [34] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/ResaveController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\ResaveController.
+        )
+
+    [35] => Array
+        (
+            [line] => 34
+            [file] => /buddy/cms/src/console/controllers/RestoreController.php
+            [message] => Undefined parameter documented:  in actionDb().
+        )
+
+    [36] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/RestoreController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\RestoreController.
+        )
+
+    [37] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/ServeController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\ServeController.
+        )
+
+    [38] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/SetupController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\SetupController.
+        )
+
+    [39] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/TestsController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\TestsController.
+        )
+
+    [40] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/UpdateController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\UpdateController.
+        )
+
+    [41] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/utils/AsciiFilenamesController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\utils\AsciiFilenamesController.
+        )
+
+    [42] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/utils/FixElementUidsController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\utils\FixElementUidsController.
+        )
+
+    [43] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/utils/PruneRevisionsController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\utils\PruneRevisionsController.
+        )
+
+    [44] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/console/controllers/utils/RepairController.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\console\controllers\utils\RepairController.
+        )
+
+    [45] => Array
+        (
+            [line] => 102
+            [file] => /buddy/cms/src/controllers/BaseEntriesController.php
+            [message] => Undefined parameter documented:  in docTitle().
+        )
+
+    [46] => Array
+        (
+            [line] => 123
+            [file] => /buddy/cms/src/controllers/BaseEntriesController.php
+            [message] => Undefined parameter documented:  in pageTitle().
+        )
+
+    [47] => Array
+        (
+            [line] => 72
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => Property $elementQuery conflicts with a defined getter getElementQuery in craft\controllers\ElementIndexesController.
+        )
+
+    [48] => Array
+        (
+            [line] => 29
+            [file] => /buddy/cms/src/db/Command.php
+            [message] => Method param $includeAuditColumns does not exist in parent method, @inheritdoc not possible in insert in craft\db\Command.
+        )
+
+    [49] => Array
+        (
+            [line] => 58
+            [file] => /buddy/cms/src/db/Command.php
+            [message] => Method param $includeAuditColumns does not exist in parent method, @inheritdoc not possible in batchInsert in craft\db\Command.
+        )
+
+    [50] => Array
+        (
+            [line] => 97
+            [file] => /buddy/cms/src/db/Command.php
+            [message] => Method param $includeAuditColumns does not exist in parent method, @inheritdoc not possible in upsert in craft\db\Command.
+        )
+
+    [51] => Array
+        (
+            [line] => 135
+            [file] => /buddy/cms/src/db/Command.php
+            [message] => Method param $includeAuditColumns does not exist in parent method, @inheritdoc not possible in update in craft\db\Command.
+        )
+
+    [52] => Array
+        (
+            [line] => 246
+            [file] => /buddy/cms/src/db/Migration.php
+            [message] => Method param $includeAuditColumns does not exist in parent method, @inheritdoc not possible in upsert in craft\db\Migration.
+        )
+
+    [53] => Array
+        (
+            [line] => 226
+            [file] => /buddy/cms/src/db/Paginator.php
+            [message] => Undefined parameter documented:  in setPageResults().
+        )
+
+    [54] => Array
+        (
+            [line] => 67
+            [file] => /buddy/cms/src/db/Paginator.php
+            [message] => Property $totalResults conflicts with a defined getter getTotalResults in craft\db\Paginator.
+        )
+
+    [55] => Array
+        (
+            [line] => 72
+            [file] => /buddy/cms/src/db/Paginator.php
+            [message] => Property $totalPages conflicts with a defined getter getTotalPages in craft\db\Paginator.
+        )
+
+    [56] => Array
+        (
+            [line] => 77
+            [file] => /buddy/cms/src/db/Paginator.php
+            [message] => Property $currentPage conflicts with a defined getter getCurrentPage in craft\db\Paginator.
+        )
+
+    [57] => Array
+        (
+            [line] => 77
+            [file] => /buddy/cms/src/db/Paginator.php
+            [message] => Property $currentPage conflicts with a defined setter setCurrentPage in craft\db\Paginator.
+        )
+
+    [58] => Array
+        (
+            [line] => 105
+            [file] => /buddy/cms/src/db/mysql/QueryBuilder.php
+            [message] => Property $expressionBuilders conflicts with a defined setter setExpressionBuilders in craft\db\mysql\QueryBuilder.
+        )
+
+    [59] => Array
+        (
+            [line] => 80
+            [file] => /buddy/cms/src/db/mysql/QueryBuilder.php
+            [message] => Property $conditionClasses conflicts with a defined setter setConditionClasses in craft\db\mysql\QueryBuilder.
+        )
+
+    [60] => Array
+        (
+            [line] => 141
+            [file] => /buddy/cms/src/db/mysql/Schema.php
+            [message] => Undefined parameter documented:  in getDefaultBackupCommand().
+        )
+
+    [61] => Array
+        (
+            [line] => 141
+            [file] => /buddy/cms/src/db/mysql/Schema.php
+            [message] => Undefined parameter documented:  in getDefaultBackupCommand().
+        )
+
+    [62] => Array
+        (
+            [line] => 144
+            [file] => /buddy/cms/src/db/mysql/Schema.php
+            [message] => Undefined parameter documented:  in getDefaultBackupCommand().
+        )
+
+    [63] => Array
+        (
+            [line] => 105
+            [file] => /buddy/cms/src/db/pgsql/QueryBuilder.php
+            [message] => Property $expressionBuilders conflicts with a defined setter setExpressionBuilders in craft\db\pgsql\QueryBuilder.
+        )
+
+    [64] => Array
+        (
+            [line] => 80
+            [file] => /buddy/cms/src/db/pgsql/QueryBuilder.php
+            [message] => Property $conditionClasses conflicts with a defined setter setConditionClasses in craft\db\pgsql\QueryBuilder.
+        )
+
+    [65] => Array
+        (
+            [line] => 117
+            [file] => /buddy/cms/src/db/pgsql/Schema.php
+            [message] => Undefined parameter documented:  in getDefaultBackupCommand().
+        )
+
+    [66] => Array
+        (
+            [line] => 59
+            [file] => /buddy/cms/src/debug/DeprecatedPanel.php
+            [message] => Property $error conflicts with a defined setter setError in craft\debug\DeprecatedPanel.
+        )
+
+    [67] => Array
+        (
+            [line] => 59
+            [file] => /buddy/cms/src/debug/DeprecatedPanel.php
+            [message] => Property $error conflicts with a defined getter getError in craft\debug\DeprecatedPanel.
+        )
+
+    [68] => Array
+        (
+            [line] => 59
+            [file] => /buddy/cms/src/debug/RequestPanel.php
+            [message] => Property $error conflicts with a defined setter setError in craft\debug\RequestPanel.
+        )
+
+    [69] => Array
+        (
+            [line] => 59
+            [file] => /buddy/cms/src/debug/RequestPanel.php
+            [message] => Property $error conflicts with a defined getter getError in craft\debug\RequestPanel.
+        )
+
+    [70] => Array
+        (
+            [line] => 59
+            [file] => /buddy/cms/src/debug/UserPanel.php
+            [message] => Property $error conflicts with a defined setter setError in craft\debug\UserPanel.
+        )
+
+    [71] => Array
+        (
+            [line] => 59
+            [file] => /buddy/cms/src/debug/UserPanel.php
+            [message] => Property $error conflicts with a defined getter getError in craft\debug\UserPanel.
+        )
+
+    [72] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/elements/Asset.php
+            [message] => Property $id conflicts with a defined getter getId in craft\elements\Asset.
+        )
+
+    [73] => Array
+        (
+            [line] => 536
+            [file] => /buddy/cms/src/elements/Asset.php
+            [message] => Property $filename conflicts with a defined getter getFilename in craft\elements\Asset.
+        )
+
+    [74] => Array
+        (
+            [line] => 90
+            [file] => /buddy/cms/src/elements/Asset.php
+            [message] => Property $uri conflicts with a defined getter getUri in craft\elements\Asset.
+        )
+
+    [75] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/elements/Category.php
+            [message] => Property $id conflicts with a defined getter getId in craft\elements\Category.
+        )
+
+    [76] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/elements/Entry.php
+            [message] => Property $id conflicts with a defined getter getId in craft\elements\Entry.
+        )
+
+    [77] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/elements/GlobalSet.php
+            [message] => Property $id conflicts with a defined getter getId in craft\elements\GlobalSet.
+        )
+
+    [78] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/elements/MatrixBlock.php
+            [message] => Property $id conflicts with a defined getter getId in craft\elements\MatrixBlock.
+        )
+
+    [79] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/elements/Tag.php
+            [message] => Property $id conflicts with a defined getter getId in craft\elements\Tag.
+        )
+
+    [80] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/elements/User.php
+            [message] => Property $id conflicts with a defined getter getId in craft\elements\User.
+        )
+
+    [81] => Array
+        (
+            [line] => 27
+            [file] => /buddy/cms/src/elements/actions/CopyReferenceTag.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\actions\CopyReferenceTag.
+        )
+
+    [82] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/elements/actions/DeepDuplicate.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\actions\DeepDuplicate.
+        )
+
+    [83] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/elements/actions/Delete.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\actions\Delete.
+        )
+
+    [84] => Array
+        (
+            [line] => 25
+            [file] => /buddy/cms/src/elements/actions/Delete.php
+            [message] => Property $confirmationMessage conflicts with a defined getter getConfirmationMessage in craft\elements\actions\Delete.
+        )
+
+    [85] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/elements/actions/DeleteAssets.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\actions\DeleteAssets.
+        )
+
+    [86] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/elements/actions/DeleteUsers.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\actions\DeleteUsers.
+        )
+
+    [87] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/elements/actions/DownloadAssetFile.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\actions\DownloadAssetFile.
+        )
+
+    [88] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/elements/actions/Duplicate.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\actions\Duplicate.
+        )
+
+    [89] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/elements/actions/Edit.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\actions\Edit.
+        )
+
+    [90] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/elements/actions/EditImage.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\actions\EditImage.
+        )
+
+    [91] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/elements/actions/NewChild.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\actions\NewChild.
+        )
+
+    [92] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/elements/actions/PreviewAsset.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\actions\PreviewAsset.
+        )
+
+    [93] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/elements/actions/RenameFile.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\actions\RenameFile.
+        )
+
+    [94] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/elements/actions/ReplaceFile.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\actions\ReplaceFile.
+        )
+
+    [95] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/elements/actions/Restore.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\actions\Restore.
+        )
+
+    [96] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/elements/actions/SetStatus.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\actions\SetStatus.
+        )
+
+    [97] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/elements/actions/SuspendUsers.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\actions\SuspendUsers.
+        )
+
+    [98] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/elements/actions/UnsuspendUsers.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\actions\UnsuspendUsers.
+        )
+
+    [99] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/elements/actions/View.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\actions\View.
+        )
+
+    [100] => Array
+        (
+            [line] => 21
+            [file] => /buddy/cms/src/elements/exporters/Expanded.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\exporters\Expanded.
+        )
+
+    [101] => Array
+        (
+            [line] => 21
+            [file] => /buddy/cms/src/elements/exporters/Raw.php
+            [message] => Property $elementType conflicts with a defined setter setElementType in craft\elements\exporters\Raw.
+        )
+
+    [102] => Array
+        (
+            [line] => 36
+            [file] => /buddy/cms/src/fields/MissingField.php
+            [message] => Property $settings conflicts with a defined getter getSettings in craft\fields\MissingField.
+        )
+
+    [103] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/gql/base/ObjectType.php
+            [message] => Method __construct has no parent to inherit from in craft\gql\base\ObjectType.
+        )
+
+    [104] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/gql/base/ObjectType.php
+            [message] => Method __construct has no parent to inherit from in craft\gql\base\ObjectType.
+        )
+
+    [105] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/gql/base/ObjectType.php
+            [message] => Method __construct has no parent to inherit from in craft\gql\base\ObjectType.
+        )
+
+    [106] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/gql/base/ObjectType.php
+            [message] => Method __construct has no parent to inherit from in craft\gql\base\ObjectType.
+        )
+
+    [107] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/gql/base/ObjectType.php
+            [message] => Method __construct has no parent to inherit from in craft\gql\base\ObjectType.
+        )
+
+    [108] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/gql/base/ObjectType.php
+            [message] => Method __construct has no parent to inherit from in craft\gql\base\ObjectType.
+        )
+
+    [109] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/gql/base/ObjectType.php
+            [message] => Method __construct has no parent to inherit from in craft\gql\base\ObjectType.
+        )
+
+    [110] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/gql/base/ObjectType.php
+            [message] => Method __construct has no parent to inherit from in craft\gql\base\ObjectType.
+        )
+
+    [111] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/gql/base/ObjectType.php
+            [message] => Method __construct has no parent to inherit from in craft\gql\base\ObjectType.
+        )
+
+    [112] => Array
+        (
+            [line] => 87
+            [file] => /buddy/cms/src/gql/base/Resolver.php
+            [message] => Undefined parameter documented: $parentNode in extractEagerLoadCondition().
+        )
+
+    [113] => Array
+        (
+            [line] => 88
+            [file] => /buddy/cms/src/gql/base/Resolver.php
+            [message] => Undefined parameter documented: $parentNode in extractEagerLoadCondition().
+        )
+
+    [114] => Array
+        (
+            [line] => 88
+            [file] => /buddy/cms/src/gql/base/Resolver.php
+            [message] => Undefined parameter documented: $parentNode in extractEagerLoadCondition().
+        )
+
+    [115] => Array
+        (
+            [line] => 89
+            [file] => /buddy/cms/src/gql/base/Resolver.php
+            [message] => Undefined parameter documented: $parentNode in extractEagerLoadCondition().
+        )
+
+    [116] => Array
+        (
+            [line] => 89
+            [file] => /buddy/cms/src/gql/base/Resolver.php
+            [message] => Undefined parameter documented: $parentNode in extractEagerLoadCondition().
+        )
+
+    [117] => Array
+        (
+            [line] => 60
+            [file] => /buddy/cms/src/gql/types/DateTime.php
+            [message] => Method serialize has no parent to inherit from in craft\gql\types\DateTime.
+        )
+
+    [118] => Array
+        (
+            [line] => 74
+            [file] => /buddy/cms/src/gql/types/DateTime.php
+            [message] => Method parseValue has no parent to inherit from in craft\gql\types\DateTime.
+        )
+
+    [119] => Array
+        (
+            [line] => 82
+            [file] => /buddy/cms/src/gql/types/DateTime.php
+            [message] => Method parseLiteral has no parent to inherit from in craft\gql\types\DateTime.
+        )
+
+    [120] => Array
+        (
+            [line] => 63
+            [file] => /buddy/cms/src/gql/types/Number.php
+            [message] => Method serialize has no parent to inherit from in craft\gql\types\Number.
+        )
+
+    [121] => Array
+        (
+            [line] => 84
+            [file] => /buddy/cms/src/gql/types/Number.php
+            [message] => Method parseValue has no parent to inherit from in craft\gql\types\Number.
+        )
+
+    [122] => Array
+        (
+            [line] => 96
+            [file] => /buddy/cms/src/gql/types/Number.php
+            [message] => Method parseLiteral has no parent to inherit from in craft\gql\types\Number.
+        )
+
+    [123] => Array
+        (
+            [line] => 25
+            [file] => /buddy/cms/src/gql/types/Query.php
+            [message] => Method getFieldDefinitions has no parent to inherit from in craft\gql\types\Query.
+        )
+
+    [124] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/gql/types/Query.php
+            [message] => Method getName has no parent to inherit from in craft\gql\types\Query.
+        )
+
+    [125] => Array
+        (
+            [line] => 61
+            [file] => /buddy/cms/src/gql/types/QueryArgument.php
+            [message] => Method serialize has no parent to inherit from in craft\gql\types\QueryArgument.
+        )
+
+    [126] => Array
+        (
+            [line] => 74
+            [file] => /buddy/cms/src/gql/types/QueryArgument.php
+            [message] => Method parseValue has no parent to inherit from in craft\gql\types\QueryArgument.
+        )
+
+    [127] => Array
+        (
+            [line] => 86
+            [file] => /buddy/cms/src/gql/types/QueryArgument.php
+            [message] => Method parseLiteral has no parent to inherit from in craft\gql\types\QueryArgument.
+        )
+
+    [128] => Array
+        (
+            [line] => 70
+            [file] => /buddy/cms/src/gql/types/generators/GlobalSetType.php
+            [message] => Method getName has no parent to inherit from in craft\gql\types\generators\GlobalSetType.
+        )
+
+    [129] => Array
+        (
+            [line] => 73
+            [file] => /buddy/cms/src/gql/types/generators/TableRowType.php
+            [message] => Method getName has no parent to inherit from in craft\gql\types\generators\TableRowType.
+        )
+
+    [130] => Array
+        (
+            [line] => 125
+            [file] => /buddy/cms/src/helpers/Api.php
+            [message] => Undefined parameter documented:  in processResponseHeaders().
+        )
+
+    [131] => Array
+        (
+            [line] => 125
+            [file] => /buddy/cms/src/helpers/Api.php
+            [message] => Undefined parameter documented:  in processResponseHeaders().
+        )
+
+    [132] => Array
+        (
+            [line] => 68
+            [file] => /buddy/cms/src/helpers/ArrayHelper.php
+            [message] => Undefined parameter documented:  in prepend().
+        )
+
+    [133] => Array
+        (
+            [line] => 90
+            [file] => /buddy/cms/src/helpers/ArrayHelper.php
+            [message] => Undefined parameter documented:  in append().
+        )
+
+    [134] => Array
+        (
+            [line] => 104
+            [file] => /buddy/cms/src/helpers/ArrayHelper.php
+            [message] => Undefined parameter documented:  in prependOrAppend().
+        )
+
+    [135] => Array
+        (
+            [line] => 262
+            [file] => /buddy/cms/src/helpers/Assets.php
+            [message] => Undefined parameter documented:  in sortFolderTree().
+        )
+
+    [136] => Array
+        (
+            [line] => 263
+            [file] => /buddy/cms/src/helpers/Assets.php
+            [message] => Undefined parameter documented:  in sortFolderTree().
+        )
+
+    [137] => Array
+        (
+            [line] => 263
+            [file] => /buddy/cms/src/helpers/Assets.php
+            [message] => Undefined parameter documented:  in sortFolderTree().
+        )
+
+    [138] => Array
+        (
+            [line] => 271
+            [file] => /buddy/cms/src/helpers/Assets.php
+            [message] => Undefined parameter documented:  in sortFolderTree().
+        )
+
+    [139] => Array
+        (
+            [line] => 271
+            [file] => /buddy/cms/src/helpers/Assets.php
+            [message] => Undefined parameter documented:  in sortFolderTree().
+        )
+
+    [140] => Array
+        (
+            [line] => 29
+            [file] => /buddy/cms/src/helpers/Search.php
+            [message] => Undefined parameter documented:  in normalizeKeywords().
+        )
+
+    [141] => Array
+        (
+            [line] => 29
+            [file] => /buddy/cms/src/helpers/Search.php
+            [message] => Undefined parameter documented:  in normalizeKeywords().
+        )
+
+    [142] => Array
+        (
+            [line] => 232
+            [file] => /buddy/cms/src/i18n/Locale.php
+            [message] => Property $id conflicts with a defined getter getId in craft\i18n\Locale.
+        )
+
+    [143] => Array
+        (
+            [line] => 24
+            [file] => /buddy/cms/src/image/SvgAllowedAttributes.php
+            [message] => Method getAttributes has no parent to inherit from in craft\image\SvgAllowedAttributes.
+        )
+
+    [144] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/models/BaseEntryRevisionModel.php
+            [message] => Property $id conflicts with a defined getter getId in craft\models\BaseEntryRevisionModel.
+        )
+
+    [145] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/models/EntryDraft.php
+            [message] => Property $id conflicts with a defined getter getId in craft\models\EntryDraft.
+        )
+
+    [146] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/models/EntryVersion.php
+            [message] => Property $id conflicts with a defined getter getId in craft\models\EntryVersion.
+        )
+
+    [147] => Array
+        (
+            [line] => 76
+            [file] => /buddy/cms/src/models/Site.php
+            [message] => Property $baseUrl conflicts with a defined getter getBaseUrl in craft\models\Site.
+        )
+
+    [148] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/queue/BaseJob.php
+            [message] => Property $description conflicts with a defined getter getDescription in craft\queue\BaseJob.
+        )
+
+    [149] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/queue/Command.php
+            [message] => Property $help conflicts with a defined getter getHelp in craft\queue\Command.
+        )
+
+    [150] => Array
+        (
+            [file] => /buddy/cms/src/queue/Command.php
+            [message] => broken link to \Yii::createObject() in craft\queue\Command
+        )
+
+    [151] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/queue/jobs/ApplyMatrixPropagationMethod.php
+            [message] => Property $description conflicts with a defined getter getDescription in craft\queue\jobs\ApplyMatrixPropagationMethod.
+        )
+
+    [152] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/queue/jobs/ApplyNewPropagationMethod.php
+            [message] => Property $description conflicts with a defined getter getDescription in craft\queue\jobs\ApplyNewPropagationMethod.
+        )
+
+    [153] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/queue/jobs/ConvertEntryRevisions.php
+            [message] => Property $description conflicts with a defined getter getDescription in craft\queue\jobs\ConvertEntryRevisions.
+        )
+
+    [154] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/queue/jobs/DeleteStaleTemplateCaches.php
+            [message] => Property $description conflicts with a defined getter getDescription in craft\queue\jobs\DeleteStaleTemplateCaches.
+        )
+
+    [155] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/queue/jobs/FindAndReplace.php
+            [message] => Property $description conflicts with a defined getter getDescription in craft\queue\jobs\FindAndReplace.
+        )
+
+    [156] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/queue/jobs/GeneratePendingTransforms.php
+            [message] => Property $description conflicts with a defined getter getDescription in craft\queue\jobs\GeneratePendingTransforms.
+        )
+
+    [157] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/queue/jobs/LocalizeRelations.php
+            [message] => Property $description conflicts with a defined getter getDescription in craft\queue\jobs\LocalizeRelations.
+        )
+
+    [158] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/queue/jobs/PropagateElements.php
+            [message] => Property $description conflicts with a defined getter getDescription in craft\queue\jobs\PropagateElements.
+        )
+
+    [159] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/queue/jobs/ResaveElements.php
+            [message] => Property $description conflicts with a defined getter getDescription in craft\queue\jobs\ResaveElements.
+        )
+
+    [160] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/queue/jobs/UpdateElementSlugsAndUris.php
+            [message] => Property $description conflicts with a defined getter getDescription in craft\queue\jobs\UpdateElementSlugsAndUris.
+        )
+
+    [161] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/queue/jobs/UpdateSearchIndex.php
+            [message] => Property $description conflicts with a defined getter getDescription in craft\queue\jobs\UpdateSearchIndex.
+        )
+
+    [162] => Array
+        (
+            [line] => 637
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in propagateElements().
+        )
+
+    [163] => Array
+        (
+            [line] => 1153
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElementById().
+        )
+
+    [164] => Array
+        (
+            [line] => 1195
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElement().
+        )
+
+    [165] => Array
+        (
+            [line] => 637
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in propagateElements().
+        )
+
+    [166] => Array
+        (
+            [line] => 1153
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElementById().
+        )
+
+    [167] => Array
+        (
+            [line] => 1195
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElement().
+        )
+
+    [168] => Array
+        (
+            [line] => 637
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in propagateElements().
+        )
+
+    [169] => Array
+        (
+            [line] => 1153
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElementById().
+        )
+
+    [170] => Array
+        (
+            [line] => 1195
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElement().
+        )
+
+    [171] => Array
+        (
+            [line] => 637
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in propagateElements().
+        )
+
+    [172] => Array
+        (
+            [line] => 1153
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElementById().
+        )
+
+    [173] => Array
+        (
+            [line] => 1195
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElement().
+        )
+
+    [174] => Array
+        (
+            [line] => 637
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in propagateElements().
+        )
+
+    [175] => Array
+        (
+            [line] => 1159
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElementById().
+        )
+
+    [176] => Array
+        (
+            [line] => 1201
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElement().
+        )
+
+    [177] => Array
+        (
+            [line] => 637
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in propagateElements().
+        )
+
+    [178] => Array
+        (
+            [line] => 1163
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElementById().
+        )
+
+    [179] => Array
+        (
+            [line] => 1205
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElement().
+        )
+
+    [180] => Array
+        (
+            [line] => 637
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in propagateElements().
+        )
+
+    [181] => Array
+        (
+            [line] => 1163
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElementById().
+        )
+
+    [182] => Array
+        (
+            [line] => 1205
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElement().
+        )
+
+    [183] => Array
+        (
+            [line] => 638
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in propagateElements().
+        )
+
+    [184] => Array
+        (
+            [line] => 1164
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElementById().
+        )
+
+    [185] => Array
+        (
+            [line] => 1206
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElement().
+        )
+
+    [186] => Array
+        (
+            [line] => 638
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in propagateElements().
+        )
+
+    [187] => Array
+        (
+            [line] => 1164
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElementById().
+        )
+
+    [188] => Array
+        (
+            [line] => 1206
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElement().
+        )
+
+    [189] => Array
+        (
+            [line] => 1164
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElementById().
+        )
+
+    [190] => Array
+        (
+            [line] => 1206
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElement().
+        )
+
+    [191] => Array
+        (
+            [line] => 1164
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElementById().
+        )
+
+    [192] => Array
+        (
+            [line] => 1206
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElement().
+        )
+
+    [193] => Array
+        (
+            [line] => 1192
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElementById().
+        )
+
+    [194] => Array
+        (
+            [line] => 1234
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElement().
+        )
+
+    [195] => Array
+        (
+            [line] => 1199
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElementById().
+        )
+
+    [196] => Array
+        (
+            [line] => 1241
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElement().
+        )
+
+    [197] => Array
+        (
+            [line] => 1204
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElementById().
+        )
+
+    [198] => Array
+        (
+            [line] => 1246
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElement().
+        )
+
+    [199] => Array
+        (
+            [line] => 1207
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElementById().
+        )
+
+    [200] => Array
+        (
+            [line] => 1249
+            [file] => /buddy/cms/src/services/Elements.php
+            [message] => Undefined parameter documented:  in deleteElement().
+        )
+
+    [201] => Array
+        (
+            [line] => 793
+            [file] => /buddy/cms/src/services/Gql.php
+            [message] => Undefined parameter documented:  in deleteSchema().
+        )
+
+    [202] => Array
+        (
+            [line] => 803
+            [file] => /buddy/cms/src/services/Gql.php
+            [message] => Undefined parameter documented:  in deleteSchema().
+        )
+
+    [203] => Array
+        (
+            [line] => 803
+            [file] => /buddy/cms/src/services/Gql.php
+            [message] => Undefined parameter documented:  in deleteSchema().
+        )
+
+    [204] => Array
+        (
+            [line] => 42
+            [file] => /buddy/cms/src/services/Images.php
+            [message] => Property $supportedImageFormats conflicts with a defined getter getSupportedImageFormats in craft\services\Images.
+        )
+
+    [205] => Array
+        (
+            [line] => 228
+            [file] => /buddy/cms/src/services/Routes.php
+            [message] => Undefined parameter documented: $routeId in deleteRouteByUid().
+        )
+
+    [206] => Array
+        (
+            [line] => 279
+            [file] => /buddy/cms/src/services/Routes.php
+            [message] => Undefined parameter documented: $routeIds in updateRouteOrder().
+        )
+
+    [207] => Array
+        (
+            [line] => 228
+            [file] => /buddy/cms/src/services/Routes.php
+            [message] => Undefined parameter documented: $routeId in deleteRouteByUid().
+        )
+
+    [208] => Array
+        (
+            [line] => 279
+            [file] => /buddy/cms/src/services/Routes.php
+            [message] => Undefined parameter documented: $routeIds in updateRouteOrder().
+        )
+
+    [209] => Array
+        (
+            [line] => 228
+            [file] => /buddy/cms/src/services/Routes.php
+            [message] => Undefined parameter documented: $routeId in deleteRouteByUid().
+        )
+
+    [210] => Array
+        (
+            [line] => 279
+            [file] => /buddy/cms/src/services/Routes.php
+            [message] => Undefined parameter documented: $routeIds in updateRouteOrder().
+        )
+
+    [211] => Array
+        (
+            [line] => 279
+            [file] => /buddy/cms/src/services/Routes.php
+            [message] => Undefined parameter documented: $routeIds in updateRouteOrder().
+        )
+
+    [212] => Array
+        (
+            [line] => 119
+            [file] => /buddy/cms/src/test/Craft.php
+            [message] => Method _initialize has no parent to inherit from in craft\test\Craft.
+        )
+
+    [213] => Array
+        (
+            [line] => 631
+            [file] => /buddy/cms/src/test/Craft.php
+            [message] => Method recreateClient has no parent to inherit from in craft\test\Craft.
+        )
+
+    [214] => Array
+        (
+            [line] => 37
+            [file] => /buddy/cms/src/test/CraftConnector.php
+            [message] => Method getEmails has no parent to inherit from in craft\test\CraftConnector.
+        )
+
+    [215] => Array
+        (
+            [line] => 66
+            [file] => /buddy/cms/src/test/CraftConnector.php
+            [message] => Method mockMailer has no parent to inherit from in craft\test\CraftConnector.
+        )
+
+    [216] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/test/mockclasses/elements/ExampleElement.php
+            [message] => Property $id conflicts with a defined getter getId in craft\test\mockclasses\elements\ExampleElement.
+        )
+
+    [217] => Array
+        (
+            [line] => 24
+            [file] => /buddy/cms/src/test/mockclasses/elements/ExampleElement.php
+            [message] => Property $uriFormat conflicts with a defined getter getUriFormat in craft\test\mockclasses\elements\ExampleElement.
+        )
+
+    [218] => Array
+        (
+            [line] => 31
+            [file] => /buddy/cms/src/test/mockclasses/gql/MockType.php
+            [message] => Method getName has no parent to inherit from in craft\test\mockclasses\gql\MockType.
+        )
+
+    [219] => Array
+        (
+            [line] => 36
+            [file] => /buddy/cms/src/volumes/MissingVolume.php
+            [message] => Property $settings conflicts with a defined getter getSettings in craft\volumes\MissingVolume.
+        )
+
+    [220] => Array
+        (
+            [line] => 889
+            [file] => /buddy/cms/src/web/Request.php
+            [message] => Method param $filterOptions does not exist in parent method, @inheritdoc not possible in getUserIP in craft\web\Request.
+        )
+
+    [221] => Array
+        (
+            [line] => 915
+            [file] => /buddy/cms/src/web/Request.php
+            [message] => Method param $filterOptions does not exist in parent method, @inheritdoc not possible in getRemoteIP in craft\web\Request.
+        )
+
+    [222] => Array
+        (
+            [line] => 259
+            [file] => /buddy/cms/src/web/UrlManager.php
+            [message] => Method param $rules does not exist in parent method, @inheritdoc not possible in buildRules in craft\web\UrlManager.
+        )
+
+    [223] => Array
+        (
+            [line] => 1492
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in invokeHook().
+        )
+
+    [224] => Array
+        (
+            [line] => 1551
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [225] => Array
+        (
+            [line] => 1551
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [226] => Array
+        (
+            [line] => 1599
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [227] => Array
+        (
+            [line] => 1599
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [228] => Array
+        (
+            [line] => 1492
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in invokeHook().
+        )
+
+    [229] => Array
+        (
+            [line] => 1551
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [230] => Array
+        (
+            [line] => 1551
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [231] => Array
+        (
+            [line] => 1599
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [232] => Array
+        (
+            [line] => 1599
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [233] => Array
+        (
+            [line] => 1493
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in invokeHook().
+        )
+
+    [234] => Array
+        (
+            [line] => 1552
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [235] => Array
+        (
+            [line] => 1552
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [236] => Array
+        (
+            [line] => 1600
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [237] => Array
+        (
+            [line] => 1600
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [238] => Array
+        (
+            [line] => 1493
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in invokeHook().
+        )
+
+    [239] => Array
+        (
+            [line] => 1552
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [240] => Array
+        (
+            [line] => 1552
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [241] => Array
+        (
+            [line] => 1600
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [242] => Array
+        (
+            [line] => 1600
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [243] => Array
+        (
+            [line] => 1526
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in invokeHook().
+        )
+
+    [244] => Array
+        (
+            [line] => 1585
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [245] => Array
+        (
+            [line] => 1585
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [246] => Array
+        (
+            [line] => 1633
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [247] => Array
+        (
+            [line] => 1633
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [248] => Array
+        (
+            [line] => 1531
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in invokeHook().
+        )
+
+    [249] => Array
+        (
+            [line] => 1590
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [250] => Array
+        (
+            [line] => 1590
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [251] => Array
+        (
+            [line] => 1638
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [252] => Array
+        (
+            [line] => 1638
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [253] => Array
+        (
+            [line] => 1546
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in invokeHook().
+        )
+
+    [254] => Array
+        (
+            [line] => 1605
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [255] => Array
+        (
+            [line] => 1605
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [256] => Array
+        (
+            [line] => 1653
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [257] => Array
+        (
+            [line] => 1653
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [258] => Array
+        (
+            [line] => 1554
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in invokeHook().
+        )
+
+    [259] => Array
+        (
+            [line] => 1613
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [260] => Array
+        (
+            [line] => 1613
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [261] => Array
+        (
+            [line] => 1661
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [262] => Array
+        (
+            [line] => 1661
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [263] => Array
+        (
+            [line] => 1549
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in invokeHook().
+        )
+
+    [264] => Array
+        (
+            [line] => 1608
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [265] => Array
+        (
+            [line] => 1608
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [266] => Array
+        (
+            [line] => 1656
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [267] => Array
+        (
+            [line] => 1656
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [268] => Array
+        (
+            [line] => 1532
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in invokeHook().
+        )
+
+    [269] => Array
+        (
+            [line] => 1591
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [270] => Array
+        (
+            [line] => 1591
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [271] => Array
+        (
+            [line] => 1639
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [272] => Array
+        (
+            [line] => 1639
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [273] => Array
+        (
+            [line] => 1532
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in invokeHook().
+        )
+
+    [274] => Array
+        (
+            [line] => 1591
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [275] => Array
+        (
+            [line] => 1591
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderTemplate().
+        )
+
+    [276] => Array
+        (
+            [line] => 1639
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [277] => Array
+        (
+            [line] => 1639
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Undefined parameter documented:  in beforeRenderPageTemplate().
+        )
+
+    [278] => Array
+        (
+            [line] => 103
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Property $dynamicPlaceholders conflicts with a defined getter getDynamicPlaceholders in craft\web\View.
+        )
+
+    [279] => Array
+        (
+            [line] => 103
+            [file] => /buddy/cms/src/web/View.php
+            [message] => Property $dynamicPlaceholders conflicts with a defined setter setDynamicPlaceholders in craft\web\View.
+        )
+
+    [280] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/web/twig/Environment.php
+            [message] => Method __construct has no parent to inherit from in craft\web\twig\Environment.
+        )
+
+    [281] => Array
+        (
+            [line] => 37
+            [file] => /buddy/cms/src/web/twig/Environment.php
+            [message] => Method loadTemplate has no parent to inherit from in craft\web\twig\Environment.
+        )
+
+    [282] => Array
+        (
+            [line] => 57
+            [file] => /buddy/cms/src/web/twig/Environment.php
+            [message] => Method compileSource has no parent to inherit from in craft\web\twig\Environment.
+        )
+
+    [283] => Array
+        (
+            [line] => 101
+            [file] => /buddy/cms/src/web/twig/Extension.php
+            [message] => Method getNodeVisitors has no parent to inherit from in craft\web\twig\Extension.
+        )
+
+    [284] => Array
+        (
+            [line] => 114
+            [file] => /buddy/cms/src/web/twig/Extension.php
+            [message] => Method getTokenParsers has no parent to inherit from in craft\web\twig\Extension.
+        )
+
+    [285] => Array
+        (
+            [line] => 200
+            [file] => /buddy/cms/src/web/twig/Extension.php
+            [message] => Method getFilters has no parent to inherit from in craft\web\twig\Extension.
+        )
+
+    [286] => Array
+        (
+            [line] => 266
+            [file] => /buddy/cms/src/web/twig/Extension.php
+            [message] => Method getTests has no parent to inherit from in craft\web\twig\Extension.
+        )
+
+    [287] => Array
+        (
+            [line] => 892
+            [file] => /buddy/cms/src/web/twig/Extension.php
+            [message] => Method getFunctions has no parent to inherit from in craft\web\twig\Extension.
+        )
+
+    [288] => Array
+        (
+            [line] => 1173
+            [file] => /buddy/cms/src/web/twig/Extension.php
+            [message] => Method getGlobals has no parent to inherit from in craft\web\twig\Extension.
+        )
+
+    [289] => Array
+        (
+            [line] => 44
+            [file] => /buddy/cms/src/web/twig/TemplateLoader.php
+            [message] => Method exists has no parent to inherit from in craft\web\twig\TemplateLoader.
+        )
+
+    [290] => Array
+        (
+            [line] => 52
+            [file] => /buddy/cms/src/web/twig/TemplateLoader.php
+            [message] => Method getSourceContext has no parent to inherit from in craft\web\twig\TemplateLoader.
+        )
+
+    [291] => Array
+        (
+            [line] => 31
+            [file] => /buddy/cms/src/web/twig/nodes/CacheNode.php
+            [message] => Method compile has no parent to inherit from in craft\web\twig\nodes\CacheNode.
+        )
+
+    [292] => Array
+        (
+            [line] => 25
+            [file] => /buddy/cms/src/web/twig/nodes/DdNode.php
+            [message] => Method compile has no parent to inherit from in craft\web\twig\nodes\DdNode.
+        )
+
+    [293] => Array
+        (
+            [line] => 40
+            [file] => /buddy/cms/src/web/twig/nodes/ExitNode.php
+            [message] => Method compile has no parent to inherit from in craft\web\twig\nodes\ExitNode.
+        )
+
+    [294] => Array
+        (
+            [line] => 40
+            [file] => /buddy/cms/src/web/twig/nodes/GetAttrNode.php
+            [message] => Method compile has no parent to inherit from in craft\web\twig\nodes\GetAttrNode.
+        )
+
+    [295] => Array
+        (
+            [line] => 24
+            [file] => /buddy/cms/src/web/twig/nodes/HeaderNode.php
+            [message] => Method compile has no parent to inherit from in craft\web\twig\nodes\HeaderNode.
+        )
+
+    [296] => Array
+        (
+            [line] => 24
+            [file] => /buddy/cms/src/web/twig/nodes/HookNode.php
+            [message] => Method compile has no parent to inherit from in craft\web\twig\nodes\HookNode.
+        )
+
+    [297] => Array
+        (
+            [line] => 25
+            [file] => /buddy/cms/src/web/twig/nodes/NamespaceNode.php
+            [message] => Method compile has no parent to inherit from in craft\web\twig\nodes\NamespaceNode.
+        )
+
+    [298] => Array
+        (
+            [line] => 47
+            [file] => /buddy/cms/src/web/twig/nodes/NavItem_Node.php
+            [message] => Method compile has no parent to inherit from in craft\web\twig\nodes\NavItem_Node.
+        )
+
+    [299] => Array
+        (
+            [line] => 53
+            [file] => /buddy/cms/src/web/twig/nodes/NavNode.php
+            [message] => Method compile has no parent to inherit from in craft\web\twig\nodes\NavNode.
+        )
+
+    [300] => Array
+        (
+            [line] => 24
+            [file] => /buddy/cms/src/web/twig/nodes/PaginateNode.php
+            [message] => Method compile has no parent to inherit from in craft\web\twig\nodes\PaginateNode.
+        )
+
+    [301] => Array
+        (
+            [line] => 37
+            [file] => /buddy/cms/src/web/twig/nodes/ProfileNode.php
+            [message] => Method compile has no parent to inherit from in craft\web\twig\nodes\ProfileNode.
+        )
+
+    [302] => Array
+        (
+            [line] => 25
+            [file] => /buddy/cms/src/web/twig/nodes/RedirectNode.php
+            [message] => Method compile has no parent to inherit from in craft\web\twig\nodes\RedirectNode.
+        )
+
+    [303] => Array
+        (
+            [line] => 27
+            [file] => /buddy/cms/src/web/twig/nodes/RegisterResourceNode.php
+            [message] => Method compile has no parent to inherit from in craft\web\twig\nodes\RegisterResourceNode.
+        )
+
+    [304] => Array
+        (
+            [line] => 25
+            [file] => /buddy/cms/src/web/twig/nodes/RequireAdminNode.php
+            [message] => Method compile has no parent to inherit from in craft\web\twig\nodes\RequireAdminNode.
+        )
+
+    [305] => Array
+        (
+            [line] => 25
+            [file] => /buddy/cms/src/web/twig/nodes/RequireEditionNode.php
+            [message] => Method compile has no parent to inherit from in craft\web\twig\nodes\RequireEditionNode.
+        )
+
+    [306] => Array
+        (
+            [line] => 24
+            [file] => /buddy/cms/src/web/twig/nodes/RequirePermissionNode.php
+            [message] => Method compile has no parent to inherit from in craft\web\twig\nodes\RequirePermissionNode.
+        )
+
+    [307] => Array
+        (
+            [line] => 25
+            [file] => /buddy/cms/src/web/twig/nodes/SwitchNode.php
+            [message] => Method compile has no parent to inherit from in craft\web\twig\nodes\SwitchNode.
+        )
+
+    [308] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/web/twig/nodevisitors/EventTagAdder.php
+            [message] => Method enterNode has no parent to inherit from in craft\web\twig\nodevisitors\EventTagAdder.
+        )
+
+    [309] => Array
+        (
+            [line] => 51
+            [file] => /buddy/cms/src/web/twig/nodevisitors/EventTagAdder.php
+            [message] => Method leaveNode has no parent to inherit from in craft\web\twig\nodevisitors\EventTagAdder.
+        )
+
+    [310] => Array
+        (
+            [line] => 59
+            [file] => /buddy/cms/src/web/twig/nodevisitors/EventTagAdder.php
+            [message] => Method getPriority has no parent to inherit from in craft\web\twig\nodevisitors\EventTagAdder.
+        )
+
+    [311] => Array
+        (
+            [line] => 29
+            [file] => /buddy/cms/src/web/twig/nodevisitors/EventTagFinder.php
+            [message] => Method enterNode has no parent to inherit from in craft\web\twig\nodevisitors\EventTagFinder.
+        )
+
+    [312] => Array
+        (
+            [line] => 79
+            [file] => /buddy/cms/src/web/twig/nodevisitors/EventTagFinder.php
+            [message] => Method leaveNode has no parent to inherit from in craft\web\twig\nodevisitors\EventTagFinder.
+        )
+
+    [313] => Array
+        (
+            [line] => 87
+            [file] => /buddy/cms/src/web/twig/nodevisitors/EventTagFinder.php
+            [message] => Method getPriority has no parent to inherit from in craft\web\twig\nodevisitors\EventTagFinder.
+        )
+
+    [314] => Array
+        (
+            [line] => 27
+            [file] => /buddy/cms/src/web/twig/nodevisitors/GetAttrAdjuster.php
+            [message] => Method enterNode has no parent to inherit from in craft\web\twig\nodevisitors\GetAttrAdjuster.
+        )
+
+    [315] => Array
+        (
+            [line] => 57
+            [file] => /buddy/cms/src/web/twig/nodevisitors/GetAttrAdjuster.php
+            [message] => Method leaveNode has no parent to inherit from in craft\web\twig\nodevisitors\GetAttrAdjuster.
+        )
+
+    [316] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/web/twig/nodevisitors/GetAttrAdjuster.php
+            [message] => Method getPriority has no parent to inherit from in craft\web\twig\nodevisitors\GetAttrAdjuster.
+        )
+
+    [317] => Array
+        (
+            [line] => 31
+            [file] => /buddy/cms/src/web/twig/nodevisitors/Profiler.php
+            [message] => Method enterNode has no parent to inherit from in craft\web\twig\nodevisitors\Profiler.
+        )
+
+    [318] => Array
+        (
+            [line] => 39
+            [file] => /buddy/cms/src/web/twig/nodevisitors/Profiler.php
+            [message] => Method leaveNode has no parent to inherit from in craft\web\twig\nodevisitors\Profiler.
+        )
+
+    [319] => Array
+        (
+            [line] => 73
+            [file] => /buddy/cms/src/web/twig/nodevisitors/Profiler.php
+            [message] => Method getPriority has no parent to inherit from in craft\web\twig\nodevisitors\Profiler.
+        )
+
+    [320] => Array
+        (
+            [line] => 34
+            [file] => /buddy/cms/src/web/twig/tokenparsers/CacheTokenParser.php
+            [message] => Method parse has no parent to inherit from in craft\web\twig\tokenparsers\CacheTokenParser.
+        )
+
+    [321] => Array
+        (
+            [line] => 26
+            [file] => /buddy/cms/src/web/twig/tokenparsers/DdTokenParser.php
+            [message] => Method parse has no parent to inherit from in craft\web\twig\tokenparsers\DdTokenParser.
+        )
+
+    [322] => Array
+        (
+            [line] => 45
+            [file] => /buddy/cms/src/web/twig/tokenparsers/DdTokenParser.php
+            [message] => Method getTag has no parent to inherit from in craft\web\twig\tokenparsers\DdTokenParser.
+        )
+
+    [323] => Array
+        (
+            [line] => 26
+            [file] => /buddy/cms/src/web/twig/tokenparsers/ExitTokenParser.php
+            [message] => Method parse has no parent to inherit from in craft\web\twig\tokenparsers\ExitTokenParser.
+        )
+
+    [324] => Array
+        (
+            [line] => 47
+            [file] => /buddy/cms/src/web/twig/tokenparsers/ExitTokenParser.php
+            [message] => Method getTag has no parent to inherit from in craft\web\twig\tokenparsers\ExitTokenParser.
+        )
+
+    [325] => Array
+        (
+            [line] => 26
+            [file] => /buddy/cms/src/web/twig/tokenparsers/HeaderTokenParser.php
+            [message] => Method parse has no parent to inherit from in craft\web\twig\tokenparsers\HeaderTokenParser.
+        )
+
+    [326] => Array
+        (
+            [line] => 44
+            [file] => /buddy/cms/src/web/twig/tokenparsers/HeaderTokenParser.php
+            [message] => Method getTag has no parent to inherit from in craft\web\twig\tokenparsers\HeaderTokenParser.
+        )
+
+    [327] => Array
+        (
+            [line] => 26
+            [file] => /buddy/cms/src/web/twig/tokenparsers/HookTokenParser.php
+            [message] => Method getTag has no parent to inherit from in craft\web\twig\tokenparsers\HookTokenParser.
+        )
+
+    [328] => Array
+        (
+            [line] => 34
+            [file] => /buddy/cms/src/web/twig/tokenparsers/HookTokenParser.php
+            [message] => Method parse has no parent to inherit from in craft\web\twig\tokenparsers\HookTokenParser.
+        )
+
+    [329] => Array
+        (
+            [line] => 26
+            [file] => /buddy/cms/src/web/twig/tokenparsers/NamespaceTokenParser.php
+            [message] => Method getTag has no parent to inherit from in craft\web\twig\tokenparsers\NamespaceTokenParser.
+        )
+
+    [330] => Array
+        (
+            [line] => 34
+            [file] => /buddy/cms/src/web/twig/tokenparsers/NamespaceTokenParser.php
+            [message] => Method parse has no parent to inherit from in craft\web\twig\tokenparsers\NamespaceTokenParser.
+        )
+
+    [331] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/web/twig/tokenparsers/NavTokenParser.php
+            [message] => Method getTag has no parent to inherit from in craft\web\twig\tokenparsers\NavTokenParser.
+        )
+
+    [332] => Array
+        (
+            [line] => 36
+            [file] => /buddy/cms/src/web/twig/tokenparsers/NavTokenParser.php
+            [message] => Method parse has no parent to inherit from in craft\web\twig\tokenparsers\NavTokenParser.
+        )
+
+    [333] => Array
+        (
+            [line] => 27
+            [file] => /buddy/cms/src/web/twig/tokenparsers/PaginateTokenParser.php
+            [message] => Method parse has no parent to inherit from in craft\web\twig\tokenparsers\PaginateTokenParser.
+        )
+
+    [334] => Array
+        (
+            [line] => 58
+            [file] => /buddy/cms/src/web/twig/tokenparsers/PaginateTokenParser.php
+            [message] => Method getTag has no parent to inherit from in craft\web\twig\tokenparsers\PaginateTokenParser.
+        )
+
+    [335] => Array
+        (
+            [line] => 27
+            [file] => /buddy/cms/src/web/twig/tokenparsers/RedirectTokenParser.php
+            [message] => Method parse has no parent to inherit from in craft\web\twig\tokenparsers\RedirectTokenParser.
+        )
+
+    [336] => Array
+        (
+            [line] => 59
+            [file] => /buddy/cms/src/web/twig/tokenparsers/RedirectTokenParser.php
+            [message] => Method getTag has no parent to inherit from in craft\web\twig\tokenparsers\RedirectTokenParser.
+        )
+
+    [337] => Array
+        (
+            [line] => 79
+            [file] => /buddy/cms/src/web/twig/tokenparsers/RegisterResourceTokenParser.php
+            [message] => Method parse has no parent to inherit from in craft\web\twig\tokenparsers\RegisterResourceTokenParser.
+        )
+
+    [338] => Array
+        (
+            [line] => 168
+            [file] => /buddy/cms/src/web/twig/tokenparsers/RegisterResourceTokenParser.php
+            [message] => Method getTag has no parent to inherit from in craft\web\twig\tokenparsers\RegisterResourceTokenParser.
+        )
+
+    [339] => Array
+        (
+            [line] => 26
+            [file] => /buddy/cms/src/web/twig/tokenparsers/RequireAdminTokenParser.php
+            [message] => Method parse has no parent to inherit from in craft\web\twig\tokenparsers\RequireAdminTokenParser.
+        )
+
+    [340] => Array
+        (
+            [line] => 41
+            [file] => /buddy/cms/src/web/twig/tokenparsers/RequireAdminTokenParser.php
+            [message] => Method getTag has no parent to inherit from in craft\web\twig\tokenparsers\RequireAdminTokenParser.
+        )
+
+    [341] => Array
+        (
+            [line] => 26
+            [file] => /buddy/cms/src/web/twig/tokenparsers/RequireEditionTokenParser.php
+            [message] => Method parse has no parent to inherit from in craft\web\twig\tokenparsers\RequireEditionTokenParser.
+        )
+
+    [342] => Array
+        (
+            [line] => 44
+            [file] => /buddy/cms/src/web/twig/tokenparsers/RequireEditionTokenParser.php
+            [message] => Method getTag has no parent to inherit from in craft\web\twig\tokenparsers\RequireEditionTokenParser.
+        )
+
+    [343] => Array
+        (
+            [line] => 26
+            [file] => /buddy/cms/src/web/twig/tokenparsers/RequireGuestTokenParser.php
+            [message] => Method parse has no parent to inherit from in craft\web\twig\tokenparsers\RequireGuestTokenParser.
+        )
+
+    [344] => Array
+        (
+            [line] => 41
+            [file] => /buddy/cms/src/web/twig/tokenparsers/RequireGuestTokenParser.php
+            [message] => Method getTag has no parent to inherit from in craft\web\twig\tokenparsers\RequireGuestTokenParser.
+        )
+
+    [345] => Array
+        (
+            [line] => 26
+            [file] => /buddy/cms/src/web/twig/tokenparsers/RequireLoginTokenParser.php
+            [message] => Method parse has no parent to inherit from in craft\web\twig\tokenparsers\RequireLoginTokenParser.
+        )
+
+    [346] => Array
+        (
+            [line] => 41
+            [file] => /buddy/cms/src/web/twig/tokenparsers/RequireLoginTokenParser.php
+            [message] => Method getTag has no parent to inherit from in craft\web\twig\tokenparsers\RequireLoginTokenParser.
+        )
+
+    [347] => Array
+        (
+            [line] => 26
+            [file] => /buddy/cms/src/web/twig/tokenparsers/RequirePermissionTokenParser.php
+            [message] => Method parse has no parent to inherit from in craft\web\twig\tokenparsers\RequirePermissionTokenParser.
+        )
+
+    [348] => Array
+        (
+            [line] => 44
+            [file] => /buddy/cms/src/web/twig/tokenparsers/RequirePermissionTokenParser.php
+            [message] => Method getTag has no parent to inherit from in craft\web\twig\tokenparsers\RequirePermissionTokenParser.
+        )
+
+    [349] => Array
+        (
+            [line] => 29
+            [file] => /buddy/cms/src/web/twig/tokenparsers/SwitchTokenParser.php
+            [message] => Method getTag has no parent to inherit from in craft\web\twig\tokenparsers\SwitchTokenParser.
+        )
+
+    [350] => Array
+        (
+            [line] => 37
+            [file] => /buddy/cms/src/web/twig/tokenparsers/SwitchTokenParser.php
+            [message] => Method parse has no parent to inherit from in craft\web\twig\tokenparsers\SwitchTokenParser.
+        )
+
+    [351] => Array
+        (
+            [line] => 47
+            [file] => /buddy/cms/src/widgets/Feed.php
+            [message] => Property $title conflicts with a defined getter getTitle in craft\widgets\Feed.
+        )
+
+    [352] => Array
+        (
+            [line] => 36
+            [file] => /buddy/cms/src/widgets/MissingWidget.php
+            [message] => Property $settings conflicts with a defined getter getSettings in craft\widgets\MissingWidget.
+        )
+
+    [353] => Array
+        (
+            [file] => /buddy/cms/vendor/yiisoft/yii2/base/Application.php
+            [message] => broken link to Yii::$container in yii\base\Application
+        )
+
+    [354] => Array
+        (
+            [file] => /buddy/cms/vendor/yiisoft/yii2/base/Application.php
+            [message] => broken link to Yii::$container in yii\base\Application
+        )
+
+)

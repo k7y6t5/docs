@@ -15,6 +15,8 @@ Everything here is about building with Craft CMS.
     <LinkPanel title="Craft Commerce" subtitle="Custom, extensible ecommerce." link="/commerce/3.x/" icon="/docs/icons/commerce.svg" />
 </div>
 
+- [Feed Me](/feed-me/)
+
 ## Follow Tutorials
 
 Self-contained, step-by-step training materials.
@@ -28,6 +30,12 @@ Complete projects you can use to learn or jump start your own.
 <div class="w-full flex -mx-2">
     <LinkPanel title="Blog Starter" subtitle="craftcms/starter-blog" link="https://github.com/craftcms/starter-blog" :repo="true" />
 </div>
+
+## Browse API Documentation
+
+- [Craft CMS Class Reference](/api/3.x/)
+- [Craft Commerce Class Reference](/commerce/api/3.x/)
+- [Craftnet API](/craftnet/api/)
 
 ## Explore Popular Resources
 

@@ -1,0 +1,2558 @@
+Array
+(
+    [0] => Array
+        (
+            [line] => 128
+            [file] => /buddy/commerce/src/Plugin.php
+            [message] => No short description for element '$schemaVersion'
+        )
+
+    [1] => Array
+        (
+            [line] => 102
+            [file] => /buddy/commerce/src/Plugin.php
+            [message] => No docblock for element 'editions'
+        )
+
+    [2] => Array
+        (
+            [line] => 128
+            [file] => /buddy/commerce/src/Plugin.php
+            [message] => No short description for element '$schemaVersion'
+        )
+
+    [3] => Array
+        (
+            [line] => 102
+            [file] => /buddy/commerce/src/Plugin.php
+            [message] => No docblock for element 'editions'
+        )
+
+    [4] => Array
+        (
+            [line] => 124
+            [file] => /buddy/commerce/src/Plugin.php
+            [message] => No short description for element '$schemaVersion'
+        )
+
+    [5] => Array
+        (
+            [line] => 98
+            [file] => /buddy/commerce/src/Plugin.php
+            [message] => No docblock for element 'editions'
+        )
+
+    [6] => Array
+        (
+            [line] => 124
+            [file] => /buddy/commerce/src/Plugin.php
+            [message] => No short description for element '$schemaVersion'
+        )
+
+    [7] => Array
+        (
+            [line] => 98
+            [file] => /buddy/commerce/src/Plugin.php
+            [message] => No docblock for element 'editions'
+        )
+
+    [8] => Array
+        (
+            [line] => 124
+            [file] => /buddy/commerce/src/Plugin.php
+            [message] => No short description for element '$schemaVersion'
+        )
+
+    [9] => Array
+        (
+            [line] => 98
+            [file] => /buddy/commerce/src/Plugin.php
+            [message] => No docblock for element 'editions'
+        )
+
+    [10] => Array
+        (
+            [line] => 124
+            [file] => /buddy/commerce/src/Plugin.php
+            [message] => No short description for element '$schemaVersion'
+        )
+
+    [11] => Array
+        (
+            [line] => 98
+            [file] => /buddy/commerce/src/Plugin.php
+            [message] => No docblock for element 'editions'
+        )
+
+    [12] => Array
+        (
+            [line] => 124
+            [file] => /buddy/commerce/src/Plugin.php
+            [message] => No short description for element '$schemaVersion'
+        )
+
+    [13] => Array
+        (
+            [line] => 98
+            [file] => /buddy/commerce/src/Plugin.php
+            [message] => No docblock for element 'editions'
+        )
+
+    [14] => Array
+        (
+            [line] => 12
+            [file] => /buddy/commerce/src/base/OrderDeprecatedTrait.php
+            [message] => No docblock for element 'craft\commerce\base\OrderDeprecatedTrait'
+        )
+
+    [15] => Array
+        (
+            [line] => 20
+            [file] => /buddy/commerce/src/base/StatTrait.php
+            [message] => No short description for element '$cache'
+        )
+
+    [16] => Array
+        (
+            [line] => 30
+            [file] => /buddy/commerce/src/base/StatTrait.php
+            [message] => No short description for element '$dateRange'
+        )
+
+    [17] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/base/StatTrait.php
+            [message] => No short description for element '$weekStartDay'
+        )
+
+    [18] => Array
+        (
+            [line] => 40
+            [file] => /buddy/commerce/src/base/StatTrait.php
+            [message] => No short description for element '$_handle'
+        )
+
+    [19] => Array
+        (
+            [line] => 46
+            [file] => /buddy/commerce/src/controllers/CartController.php
+            [message] => No docblock for element 'init'
+        )
+
+    [20] => Array
+        (
+            [line] => 46
+            [file] => /buddy/commerce/src/controllers/CartController.php
+            [message] => No docblock for element 'init'
+        )
+
+    [21] => Array
+        (
+            [line] => 43
+            [file] => /buddy/commerce/src/controllers/CartController.php
+            [message] => No docblock for element 'init'
+        )
+
+    [22] => Array
+        (
+            [line] => 43
+            [file] => /buddy/commerce/src/controllers/CartController.php
+            [message] => No docblock for element 'init'
+        )
+
+    [23] => Array
+        (
+            [line] => 43
+            [file] => /buddy/commerce/src/controllers/CartController.php
+            [message] => No docblock for element 'init'
+        )
+
+    [24] => Array
+        (
+            [line] => 39
+            [file] => /buddy/commerce/src/controllers/OrderSettingsController.php
+            [message] => No docblock for element 'actionSave'
+        )
+
+    [25] => Array
+        (
+            [line] => 71
+            [file] => /buddy/commerce/src/controllers/OrderStatusesController.php
+            [message] => No docblock for element 'actionSave'
+        )
+
+    [26] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/controllers/PaymentsController.php
+            [message] => No docblock for element 'init'
+        )
+
+    [27] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/controllers/PaymentsController.php
+            [message] => No docblock for element 'init'
+        )
+
+    [28] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/controllers/PaymentsController.php
+            [message] => No docblock for element 'init'
+        )
+
+    [29] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/controllers/PaymentsController.php
+            [message] => No docblock for element 'init'
+        )
+
+    [30] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/controllers/PaymentsController.php
+            [message] => No docblock for element 'init'
+        )
+
+    [31] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/controllers/PaymentsController.php
+            [message] => No docblock for element 'init'
+        )
+
+    [32] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/controllers/PaymentsController.php
+            [message] => No docblock for element 'init'
+        )
+
+    [33] => Array
+        (
+            [line] => 34
+            [file] => /buddy/commerce/src/controllers/PaymentsController.php
+            [message] => No docblock for element 'init'
+        )
+
+    [34] => Array
+        (
+            [line] => 18
+            [file] => /buddy/commerce/src/controllers/PromotionsController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [35] => Array
+        (
+            [line] => 15
+            [file] => /buddy/commerce/src/controllers/StoreLocationController.php
+            [message] => No docblock for element 'craft\commerce\controllers\StoreLocationController'
+        )
+
+    [36] => Array
+        (
+            [line] => 933
+            [file] => /buddy/commerce/src/elements/Order.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [37] => Array
+        (
+            [line] => 933
+            [file] => /buddy/commerce/src/elements/Order.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [38] => Array
+        (
+            [line] => 970
+            [file] => /buddy/commerce/src/elements/Order.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [39] => Array
+        (
+            [line] => 970
+            [file] => /buddy/commerce/src/elements/Order.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [40] => Array
+        (
+            [line] => 971
+            [file] => /buddy/commerce/src/elements/Order.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [41] => Array
+        (
+            [line] => 971
+            [file] => /buddy/commerce/src/elements/Order.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [42] => Array
+        (
+            [line] => 971
+            [file] => /buddy/commerce/src/elements/Order.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [43] => Array
+        (
+            [line] => 971
+            [file] => /buddy/commerce/src/elements/Order.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [44] => Array
+        (
+            [line] => 971
+            [file] => /buddy/commerce/src/elements/Order.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [45] => Array
+        (
+            [line] => 972
+            [file] => /buddy/commerce/src/elements/Order.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [46] => Array
+        (
+            [line] => 972
+            [file] => /buddy/commerce/src/elements/Order.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [47] => Array
+        (
+            [line] => 172
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$productId'
+        )
+
+    [48] => Array
+        (
+            [line] => 177
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$isDefault'
+        )
+
+    [49] => Array
+        (
+            [line] => 192
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$sortOrder'
+        )
+
+    [50] => Array
+        (
+            [line] => 197
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$width'
+        )
+
+    [51] => Array
+        (
+            [line] => 202
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$height'
+        )
+
+    [52] => Array
+        (
+            [line] => 207
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$length'
+        )
+
+    [53] => Array
+        (
+            [line] => 212
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$weight'
+        )
+
+    [54] => Array
+        (
+            [line] => 217
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$stock'
+        )
+
+    [55] => Array
+        (
+            [line] => 222
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$hasUnlimitedStock'
+        )
+
+    [56] => Array
+        (
+            [line] => 227
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$minQty'
+        )
+
+    [57] => Array
+        (
+            [line] => 232
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$maxQty'
+        )
+
+    [58] => Array
+        (
+            [line] => 174
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$productId'
+        )
+
+    [59] => Array
+        (
+            [line] => 179
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$isDefault'
+        )
+
+    [60] => Array
+        (
+            [line] => 194
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$sortOrder'
+        )
+
+    [61] => Array
+        (
+            [line] => 199
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$width'
+        )
+
+    [62] => Array
+        (
+            [line] => 204
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$height'
+        )
+
+    [63] => Array
+        (
+            [line] => 209
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$length'
+        )
+
+    [64] => Array
+        (
+            [line] => 214
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$weight'
+        )
+
+    [65] => Array
+        (
+            [line] => 219
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$stock'
+        )
+
+    [66] => Array
+        (
+            [line] => 224
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$hasUnlimitedStock'
+        )
+
+    [67] => Array
+        (
+            [line] => 229
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$minQty'
+        )
+
+    [68] => Array
+        (
+            [line] => 234
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$maxQty'
+        )
+
+    [69] => Array
+        (
+            [line] => 175
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$productId'
+        )
+
+    [70] => Array
+        (
+            [line] => 180
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$isDefault'
+        )
+
+    [71] => Array
+        (
+            [line] => 195
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$sortOrder'
+        )
+
+    [72] => Array
+        (
+            [line] => 200
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$width'
+        )
+
+    [73] => Array
+        (
+            [line] => 205
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$height'
+        )
+
+    [74] => Array
+        (
+            [line] => 210
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$length'
+        )
+
+    [75] => Array
+        (
+            [line] => 215
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$weight'
+        )
+
+    [76] => Array
+        (
+            [line] => 220
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$stock'
+        )
+
+    [77] => Array
+        (
+            [line] => 225
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$hasUnlimitedStock'
+        )
+
+    [78] => Array
+        (
+            [line] => 230
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$minQty'
+        )
+
+    [79] => Array
+        (
+            [line] => 235
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$maxQty'
+        )
+
+    [80] => Array
+        (
+            [line] => 175
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$productId'
+        )
+
+    [81] => Array
+        (
+            [line] => 180
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$isDefault'
+        )
+
+    [82] => Array
+        (
+            [line] => 195
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$sortOrder'
+        )
+
+    [83] => Array
+        (
+            [line] => 200
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$width'
+        )
+
+    [84] => Array
+        (
+            [line] => 205
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$height'
+        )
+
+    [85] => Array
+        (
+            [line] => 210
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$length'
+        )
+
+    [86] => Array
+        (
+            [line] => 215
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$weight'
+        )
+
+    [87] => Array
+        (
+            [line] => 220
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$stock'
+        )
+
+    [88] => Array
+        (
+            [line] => 225
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$hasUnlimitedStock'
+        )
+
+    [89] => Array
+        (
+            [line] => 230
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$minQty'
+        )
+
+    [90] => Array
+        (
+            [line] => 235
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$maxQty'
+        )
+
+    [91] => Array
+        (
+            [line] => 175
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$productId'
+        )
+
+    [92] => Array
+        (
+            [line] => 180
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$isDefault'
+        )
+
+    [93] => Array
+        (
+            [line] => 195
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$sortOrder'
+        )
+
+    [94] => Array
+        (
+            [line] => 200
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$width'
+        )
+
+    [95] => Array
+        (
+            [line] => 205
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$height'
+        )
+
+    [96] => Array
+        (
+            [line] => 210
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$length'
+        )
+
+    [97] => Array
+        (
+            [line] => 215
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$weight'
+        )
+
+    [98] => Array
+        (
+            [line] => 220
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$stock'
+        )
+
+    [99] => Array
+        (
+            [line] => 225
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$hasUnlimitedStock'
+        )
+
+    [100] => Array
+        (
+            [line] => 230
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$minQty'
+        )
+
+    [101] => Array
+        (
+            [line] => 235
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$maxQty'
+        )
+
+    [102] => Array
+        (
+            [line] => 175
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$productId'
+        )
+
+    [103] => Array
+        (
+            [line] => 180
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$isDefault'
+        )
+
+    [104] => Array
+        (
+            [line] => 195
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$sortOrder'
+        )
+
+    [105] => Array
+        (
+            [line] => 200
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$width'
+        )
+
+    [106] => Array
+        (
+            [line] => 205
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$height'
+        )
+
+    [107] => Array
+        (
+            [line] => 210
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$length'
+        )
+
+    [108] => Array
+        (
+            [line] => 215
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$weight'
+        )
+
+    [109] => Array
+        (
+            [line] => 220
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$stock'
+        )
+
+    [110] => Array
+        (
+            [line] => 225
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$hasUnlimitedStock'
+        )
+
+    [111] => Array
+        (
+            [line] => 230
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$minQty'
+        )
+
+    [112] => Array
+        (
+            [line] => 235
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$maxQty'
+        )
+
+    [113] => Array
+        (
+            [line] => 175
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$productId'
+        )
+
+    [114] => Array
+        (
+            [line] => 180
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$isDefault'
+        )
+
+    [115] => Array
+        (
+            [line] => 195
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$sortOrder'
+        )
+
+    [116] => Array
+        (
+            [line] => 200
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$width'
+        )
+
+    [117] => Array
+        (
+            [line] => 205
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$height'
+        )
+
+    [118] => Array
+        (
+            [line] => 210
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$length'
+        )
+
+    [119] => Array
+        (
+            [line] => 215
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$weight'
+        )
+
+    [120] => Array
+        (
+            [line] => 220
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$stock'
+        )
+
+    [121] => Array
+        (
+            [line] => 225
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$hasUnlimitedStock'
+        )
+
+    [122] => Array
+        (
+            [line] => 230
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$minQty'
+        )
+
+    [123] => Array
+        (
+            [line] => 235
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$maxQty'
+        )
+
+    [124] => Array
+        (
+            [line] => 176
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$productId'
+        )
+
+    [125] => Array
+        (
+            [line] => 181
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$isDefault'
+        )
+
+    [126] => Array
+        (
+            [line] => 196
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$sortOrder'
+        )
+
+    [127] => Array
+        (
+            [line] => 201
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$width'
+        )
+
+    [128] => Array
+        (
+            [line] => 206
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$height'
+        )
+
+    [129] => Array
+        (
+            [line] => 211
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$length'
+        )
+
+    [130] => Array
+        (
+            [line] => 216
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$weight'
+        )
+
+    [131] => Array
+        (
+            [line] => 221
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$stock'
+        )
+
+    [132] => Array
+        (
+            [line] => 226
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$hasUnlimitedStock'
+        )
+
+    [133] => Array
+        (
+            [line] => 231
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$minQty'
+        )
+
+    [134] => Array
+        (
+            [line] => 236
+            [file] => /buddy/commerce/src/elements/Variant.php
+            [message] => No short description for element '$maxQty'
+        )
+
+    [135] => Array
+        (
+            [line] => 30
+            [file] => /buddy/commerce/src/elements/actions/UpdateOrderStatus.php
+            [message] => No short description for element '$orderStatusId'
+        )
+
+    [136] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/elements/actions/UpdateOrderStatus.php
+            [message] => No short description for element '$message'
+        )
+
+    [137] => Array
+        (
+            [line] => 118
+            [file] => /buddy/commerce/src/elements/db/SubscriptionQuery.php
+            [message] => No short description for element '$defaultOrderBy'
+        )
+
+    [138] => Array
+        (
+            [line] => 118
+            [file] => /buddy/commerce/src/elements/db/SubscriptionQuery.php
+            [message] => No short description for element '$defaultOrderBy'
+        )
+
+    [139] => Array
+        (
+            [line] => 56
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$product'
+        )
+
+    [140] => Array
+        (
+            [line] => 61
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$productId'
+        )
+
+    [141] => Array
+        (
+            [line] => 66
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$typeId'
+        )
+
+    [142] => Array
+        (
+            [line] => 71
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$isDefault'
+        )
+
+    [143] => Array
+        (
+            [line] => 76
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$stock'
+        )
+
+    [144] => Array
+        (
+            [line] => 81
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$hasStock'
+        )
+
+    [145] => Array
+        (
+            [line] => 86
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$price'
+        )
+
+    [146] => Array
+        (
+            [line] => 91
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$hasSales'
+        )
+
+    [147] => Array
+        (
+            [line] => 106
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$minQty'
+        )
+
+    [148] => Array
+        (
+            [line] => 111
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$maxQty'
+        )
+
+    [149] => Array
+        (
+            [line] => 56
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$product'
+        )
+
+    [150] => Array
+        (
+            [line] => 61
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$productId'
+        )
+
+    [151] => Array
+        (
+            [line] => 66
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$typeId'
+        )
+
+    [152] => Array
+        (
+            [line] => 71
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$isDefault'
+        )
+
+    [153] => Array
+        (
+            [line] => 76
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$stock'
+        )
+
+    [154] => Array
+        (
+            [line] => 81
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$hasStock'
+        )
+
+    [155] => Array
+        (
+            [line] => 86
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$price'
+        )
+
+    [156] => Array
+        (
+            [line] => 91
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$hasSales'
+        )
+
+    [157] => Array
+        (
+            [line] => 106
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$minQty'
+        )
+
+    [158] => Array
+        (
+            [line] => 111
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$maxQty'
+        )
+
+    [159] => Array
+        (
+            [line] => 56
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$product'
+        )
+
+    [160] => Array
+        (
+            [line] => 61
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$productId'
+        )
+
+    [161] => Array
+        (
+            [line] => 66
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$typeId'
+        )
+
+    [162] => Array
+        (
+            [line] => 71
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$isDefault'
+        )
+
+    [163] => Array
+        (
+            [line] => 76
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$stock'
+        )
+
+    [164] => Array
+        (
+            [line] => 81
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$hasStock'
+        )
+
+    [165] => Array
+        (
+            [line] => 86
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$price'
+        )
+
+    [166] => Array
+        (
+            [line] => 91
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$hasSales'
+        )
+
+    [167] => Array
+        (
+            [line] => 106
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$minQty'
+        )
+
+    [168] => Array
+        (
+            [line] => 111
+            [file] => /buddy/commerce/src/elements/db/VariantQuery.php
+            [message] => No short description for element '$maxQty'
+        )
+
+    [169] => Array
+        (
+            [line] => 14
+            [file] => /buddy/commerce/src/elements/traits/OrderDeprecatedTrait.php
+            [message] => No docblock for element 'craft\commerce\elements\traits\OrderDeprecatedTrait'
+        )
+
+    [170] => Array
+        (
+            [line] => 16
+            [file] => /buddy/commerce/src/elements/traits/OrderDeprecatedTrait.php
+            [message] => No docblock for element 'craft\commerce\elements\traits\OrderDeprecatedTrait'
+        )
+
+    [171] => Array
+        (
+            [line] => 20
+            [file] => /buddy/commerce/src/elements/traits/OrderElementTrait.php
+            [message] => No docblock for element 'craft\commerce\elements\traits\OrderElementTrait'
+        )
+
+    [172] => Array
+        (
+            [line] => 20
+            [file] => /buddy/commerce/src/elements/traits/OrderElementTrait.php
+            [message] => No docblock for element 'craft\commerce\elements\traits\OrderElementTrait'
+        )
+
+    [173] => Array
+        (
+            [line] => 20
+            [file] => /buddy/commerce/src/elements/traits/OrderElementTrait.php
+            [message] => No docblock for element 'craft\commerce\elements\traits\OrderElementTrait'
+        )
+
+    [174] => Array
+        (
+            [line] => 19
+            [file] => /buddy/commerce/src/elements/traits/OrderElementTrait.php
+            [message] => No docblock for element 'craft\commerce\elements\traits\OrderElementTrait'
+        )
+
+    [175] => Array
+        (
+            [line] => 30
+            [file] => /buddy/commerce/src/engines/Tax.php
+            [message] => No docblock for element 'taxAdjusterClass'
+        )
+
+    [176] => Array
+        (
+            [line] => 31
+            [file] => /buddy/commerce/src/engines/Tax.php
+            [message] => No docblock for element 'taxAdjusterClass'
+        )
+
+    [177] => Array
+        (
+            [line] => 31
+            [file] => /buddy/commerce/src/engines/Tax.php
+            [message] => No docblock for element 'taxAdjusterClass'
+        )
+
+    [178] => Array
+        (
+            [line] => 34
+            [file] => /buddy/commerce/src/events/ModifyCartInfoEvent.php
+            [message] => No short description for element '$cart'
+        )
+
+    [179] => Array
+        (
+            [line] => 34
+            [file] => /buddy/commerce/src/events/ModifyCartInfoEvent.php
+            [message] => No short description for element '$cart'
+        )
+
+    [180] => Array
+        (
+            [line] => 24
+            [file] => /buddy/commerce/src/events/PdfEvent.php
+            [message] => No short description for element '$order'
+        )
+
+    [181] => Array
+        (
+            [line] => 29
+            [file] => /buddy/commerce/src/events/PdfEvent.php
+            [message] => No short description for element '$option'
+        )
+
+    [182] => Array
+        (
+            [line] => 34
+            [file] => /buddy/commerce/src/events/PdfEvent.php
+            [message] => No short description for element '$template'
+        )
+
+    [183] => Array
+        (
+            [line] => 39
+            [file] => /buddy/commerce/src/events/PdfEvent.php
+            [message] => No short description for element '$variables'
+        )
+
+    [184] => Array
+        (
+            [line] => 17
+            [file] => /buddy/commerce/src/events/ProcessPaymentEvent.php
+            [message] => No docblock for element 'craft\commerce\events\ProcessPaymentEvent'
+        )
+
+    [185] => Array
+        (
+            [line] => 37
+            [file] => /buddy/commerce/src/events/ProcessPaymentEvent.php
+            [message] => No short description for element '$response'
+        )
+
+    [186] => Array
+        (
+            [line] => 20
+            [file] => /buddy/commerce/src/events/ReportEvent.php
+            [message] => No docblock for element '$startDate'
+        )
+
+    [187] => Array
+        (
+            [line] => 20
+            [file] => /buddy/commerce/src/events/ReportEvent.php
+            [message] => No short description for element '$startDate'
+        )
+
+    [188] => Array
+        (
+            [line] => 21
+            [file] => /buddy/commerce/src/events/ReportEvent.php
+            [message] => No docblock for element '$endDate'
+        )
+
+    [189] => Array
+        (
+            [line] => 21
+            [file] => /buddy/commerce/src/events/ReportEvent.php
+            [message] => No short description for element '$endDate'
+        )
+
+    [190] => Array
+        (
+            [line] => 22
+            [file] => /buddy/commerce/src/events/ReportEvent.php
+            [message] => No docblock for element '$status'
+        )
+
+    [191] => Array
+        (
+            [line] => 22
+            [file] => /buddy/commerce/src/events/ReportEvent.php
+            [message] => No short description for element '$status'
+        )
+
+    [192] => Array
+        (
+            [line] => 23
+            [file] => /buddy/commerce/src/events/ReportEvent.php
+            [message] => No docblock for element '$orderQuery'
+        )
+
+    [193] => Array
+        (
+            [line] => 23
+            [file] => /buddy/commerce/src/events/ReportEvent.php
+            [message] => No short description for element '$orderQuery'
+        )
+
+    [194] => Array
+        (
+            [line] => 24
+            [file] => /buddy/commerce/src/events/ReportEvent.php
+            [message] => No docblock for element '$columns'
+        )
+
+    [195] => Array
+        (
+            [line] => 24
+            [file] => /buddy/commerce/src/events/ReportEvent.php
+            [message] => No short description for element '$columns'
+        )
+
+    [196] => Array
+        (
+            [line] => 25
+            [file] => /buddy/commerce/src/events/ReportEvent.php
+            [message] => No docblock for element '$orders'
+        )
+
+    [197] => Array
+        (
+            [line] => 25
+            [file] => /buddy/commerce/src/events/ReportEvent.php
+            [message] => No short description for element '$orders'
+        )
+
+    [198] => Array
+        (
+            [line] => 26
+            [file] => /buddy/commerce/src/events/ReportEvent.php
+            [message] => No docblock for element '$format'
+        )
+
+    [199] => Array
+        (
+            [line] => 26
+            [file] => /buddy/commerce/src/events/ReportEvent.php
+            [message] => No short description for element '$format'
+        )
+
+    [200] => Array
+        (
+            [line] => 19
+            [file] => /buddy/commerce/src/exports/LineItemExport.php
+            [message] => No docblock for element 'craft\commerce\exports\LineItemExport'
+        )
+
+    [201] => Array
+        (
+            [line] => 19
+            [file] => /buddy/commerce/src/exports/OrderExport.php
+            [message] => No docblock for element 'craft\commerce\exports\OrderExport'
+        )
+
+    [202] => Array
+        (
+            [line] => 25
+            [file] => /buddy/commerce/src/fields/Products.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [203] => Array
+        (
+            [line] => 48
+            [file] => /buddy/commerce/src/fields/Products.php
+            [message] => No docblock for element 'getInputHtml'
+        )
+
+    [204] => Array
+        (
+            [line] => 29
+            [file] => /buddy/commerce/src/fields/Products.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [205] => Array
+        (
+            [line] => 52
+            [file] => /buddy/commerce/src/fields/Products.php
+            [message] => No docblock for element 'getInputHtml'
+        )
+
+    [206] => Array
+        (
+            [line] => 34
+            [file] => /buddy/commerce/src/gateways/Manual.php
+            [message] => No short description for element '$onlyAllowForZeroPriceOrders'
+        )
+
+    [207] => Array
+        (
+            [line] => 31
+            [file] => /buddy/commerce/src/gateways/MissingGateway.php
+            [message] => No docblock for element '__set'
+        )
+
+    [208] => Array
+        (
+            [line] => 181
+            [file] => /buddy/commerce/src/models/Discount.php
+            [message] => No short description for element '$dateCreated'
+        )
+
+    [209] => Array
+        (
+            [line] => 186
+            [file] => /buddy/commerce/src/models/Discount.php
+            [message] => No short description for element '$dateUpdated'
+        )
+
+    [210] => Array
+        (
+            [line] => 181
+            [file] => /buddy/commerce/src/models/Discount.php
+            [message] => No short description for element '$dateCreated'
+        )
+
+    [211] => Array
+        (
+            [line] => 186
+            [file] => /buddy/commerce/src/models/Discount.php
+            [message] => No short description for element '$dateUpdated'
+        )
+
+    [212] => Array
+        (
+            [line] => 151
+            [file] => /buddy/commerce/src/models/LineItem.php
+            [message] => No short description for element '$dateCreated'
+        )
+
+    [213] => Array
+        (
+            [line] => 174
+            [file] => /buddy/commerce/src/models/LineItem.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [214] => Array
+        (
+            [line] => 149
+            [file] => /buddy/commerce/src/models/LineItem.php
+            [message] => No short description for element '$dateCreated'
+        )
+
+    [215] => Array
+        (
+            [line] => 172
+            [file] => /buddy/commerce/src/models/LineItem.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [216] => Array
+        (
+            [line] => 150
+            [file] => /buddy/commerce/src/models/LineItem.php
+            [message] => No short description for element '$dateCreated'
+        )
+
+    [217] => Array
+        (
+            [line] => 173
+            [file] => /buddy/commerce/src/models/LineItem.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [218] => Array
+        (
+            [line] => 150
+            [file] => /buddy/commerce/src/models/LineItem.php
+            [message] => No short description for element '$dateCreated'
+        )
+
+    [219] => Array
+        (
+            [line] => 150
+            [file] => /buddy/commerce/src/models/LineItem.php
+            [message] => No short description for element '$dateCreated'
+        )
+
+    [220] => Array
+        (
+            [line] => 150
+            [file] => /buddy/commerce/src/models/LineItem.php
+            [message] => No short description for element '$dateCreated'
+        )
+
+    [221] => Array
+        (
+            [line] => 160
+            [file] => /buddy/commerce/src/models/LineItem.php
+            [message] => No short description for element '$dateCreated'
+        )
+
+    [222] => Array
+        (
+            [line] => 160
+            [file] => /buddy/commerce/src/models/LineItem.php
+            [message] => No short description for element '$dateCreated'
+        )
+
+    [223] => Array
+        (
+            [line] => 72
+            [file] => /buddy/commerce/src/models/LineItemStatus.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [224] => Array
+        (
+            [line] => 91
+            [file] => /buddy/commerce/src/models/OrderAdjustment.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [225] => Array
+        (
+            [line] => 92
+            [file] => /buddy/commerce/src/models/OrderAdjustment.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [226] => Array
+        (
+            [line] => 61
+            [file] => /buddy/commerce/src/models/OrderHistory.php
+            [message] => No short description for element '$dateCreated'
+        )
+
+    [227] => Array
+        (
+            [line] => 69
+            [file] => /buddy/commerce/src/models/ProductTypeSite.php
+            [message] => No short description for element '$uriFormatIsRequired'
+        )
+
+    [228] => Array
+        (
+            [line] => 84
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$emailSenderAddressPlaceholder'
+        )
+
+    [229] => Array
+        (
+            [line] => 89
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$emailSenderNamePlaceholder'
+        )
+
+    [230] => Array
+        (
+            [line] => 94
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$minimumTotalPriceStrategy'
+        )
+
+    [231] => Array
+        (
+            [line] => 99
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$paymentCurrency'
+        )
+
+    [232] => Array
+        (
+            [line] => 104
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$paymentMethodSettings'
+        )
+
+    [233] => Array
+        (
+            [line] => 109
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$purgeInactiveCarts'
+        )
+
+    [234] => Array
+        (
+            [line] => 129
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$gatewayPostRedirectTemplate'
+        )
+
+    [235] => Array
+        (
+            [line] => 134
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$useBillingAddressForTax'
+        )
+
+    [236] => Array
+        (
+            [line] => 139
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$validateBusinessTaxIdAsVatId'
+        )
+
+    [237] => Array
+        (
+            [line] => 144
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$requireShippingAddressAtCheckout'
+        )
+
+    [238] => Array
+        (
+            [line] => 149
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$requireBillingAddressAtCheckout'
+        )
+
+    [239] => Array
+        (
+            [line] => 154
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$requireShippingMethodSelectionAtCheckout'
+        )
+
+    [240] => Array
+        (
+            [line] => 159
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$autoSetNewCartAddresses'
+        )
+
+    [241] => Array
+        (
+            [line] => 170
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$pdfAllowRemoteImages'
+        )
+
+    [242] => Array
+        (
+            [line] => 186
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$cartVariable'
+        )
+
+    [243] => Array
+        (
+            [line] => 191
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$gatewaySettings'
+        )
+
+    [244] => Array
+        (
+            [line] => 196
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$updateBillingDetailsUrl'
+        )
+
+    [245] => Array
+        (
+            [line] => 202
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$showCustomerInfoTab'
+        )
+
+    [246] => Array
+        (
+            [line] => 208
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$validateCartCustomFieldsOnSubmission'
+        )
+
+    [247] => Array
+        (
+            [line] => 84
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$emailSenderAddressPlaceholder'
+        )
+
+    [248] => Array
+        (
+            [line] => 89
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$emailSenderNamePlaceholder'
+        )
+
+    [249] => Array
+        (
+            [line] => 94
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$minimumTotalPriceStrategy'
+        )
+
+    [250] => Array
+        (
+            [line] => 99
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$paymentCurrency'
+        )
+
+    [251] => Array
+        (
+            [line] => 104
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$paymentMethodSettings'
+        )
+
+    [252] => Array
+        (
+            [line] => 109
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$purgeInactiveCarts'
+        )
+
+    [253] => Array
+        (
+            [line] => 129
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$gatewayPostRedirectTemplate'
+        )
+
+    [254] => Array
+        (
+            [line] => 134
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$useBillingAddressForTax'
+        )
+
+    [255] => Array
+        (
+            [line] => 139
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$validateBusinessTaxIdAsVatId'
+        )
+
+    [256] => Array
+        (
+            [line] => 144
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$requireShippingAddressAtCheckout'
+        )
+
+    [257] => Array
+        (
+            [line] => 149
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$requireBillingAddressAtCheckout'
+        )
+
+    [258] => Array
+        (
+            [line] => 154
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$requireShippingMethodSelectionAtCheckout'
+        )
+
+    [259] => Array
+        (
+            [line] => 159
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$autoSetNewCartAddresses'
+        )
+
+    [260] => Array
+        (
+            [line] => 170
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$pdfAllowRemoteImages'
+        )
+
+    [261] => Array
+        (
+            [line] => 186
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$cartVariable'
+        )
+
+    [262] => Array
+        (
+            [line] => 191
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$gatewaySettings'
+        )
+
+    [263] => Array
+        (
+            [line] => 196
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$updateBillingDetailsUrl'
+        )
+
+    [264] => Array
+        (
+            [line] => 202
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$showCustomerInfoTab'
+        )
+
+    [265] => Array
+        (
+            [line] => 208
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$validateCartCustomFieldsOnSubmission'
+        )
+
+    [266] => Array
+        (
+            [line] => 83
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$emailSenderAddressPlaceholder'
+        )
+
+    [267] => Array
+        (
+            [line] => 88
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$emailSenderNamePlaceholder'
+        )
+
+    [268] => Array
+        (
+            [line] => 93
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$minimumTotalPriceStrategy'
+        )
+
+    [269] => Array
+        (
+            [line] => 98
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$paymentCurrency'
+        )
+
+    [270] => Array
+        (
+            [line] => 103
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$paymentMethodSettings'
+        )
+
+    [271] => Array
+        (
+            [line] => 108
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$purgeInactiveCarts'
+        )
+
+    [272] => Array
+        (
+            [line] => 128
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$gatewayPostRedirectTemplate'
+        )
+
+    [273] => Array
+        (
+            [line] => 133
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$useBillingAddressForTax'
+        )
+
+    [274] => Array
+        (
+            [line] => 138
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$validateBusinessTaxIdAsVatId'
+        )
+
+    [275] => Array
+        (
+            [line] => 143
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$requireShippingAddressAtCheckout'
+        )
+
+    [276] => Array
+        (
+            [line] => 148
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$requireBillingAddressAtCheckout'
+        )
+
+    [277] => Array
+        (
+            [line] => 153
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$requireShippingMethodSelectionAtCheckout'
+        )
+
+    [278] => Array
+        (
+            [line] => 158
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$autoSetNewCartAddresses'
+        )
+
+    [279] => Array
+        (
+            [line] => 169
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$pdfAllowRemoteImages'
+        )
+
+    [280] => Array
+        (
+            [line] => 185
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$cartVariable'
+        )
+
+    [281] => Array
+        (
+            [line] => 190
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$gatewaySettings'
+        )
+
+    [282] => Array
+        (
+            [line] => 195
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$updateBillingDetailsUrl'
+        )
+
+    [283] => Array
+        (
+            [line] => 201
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$showCustomerInfoTab'
+        )
+
+    [284] => Array
+        (
+            [line] => 207
+            [file] => /buddy/commerce/src/models/Settings.php
+            [message] => No short description for element '$validateCartCustomFieldsOnSubmission'
+        )
+
+    [285] => Array
+        (
+            [line] => 30
+            [file] => /buddy/commerce/src/models/ShippingMethod.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [286] => Array
+        (
+            [line] => 29
+            [file] => /buddy/commerce/src/models/ShippingMethod.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [287] => Array
+        (
+            [line] => 367
+            [file] => /buddy/commerce/src/models/ShippingRule.php
+            [message] => No docblock for element 'getMaxRate'
+        )
+
+    [288] => Array
+        (
+            [line] => 167
+            [file] => /buddy/commerce/src/models/Transaction.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [289] => Array
+        (
+            [line] => 64
+            [file] => /buddy/commerce/src/models/payments/CreditCardPaymentForm.php
+            [message] => No short description for element '$threeDSecure'
+        )
+
+    [290] => Array
+        (
+            [line] => 63
+            [file] => /buddy/commerce/src/models/payments/CreditCardPaymentForm.php
+            [message] => No short description for element '$threeDSecure'
+        )
+
+    [291] => Array
+        (
+            [line] => 26
+            [file] => /buddy/commerce/src/models/responses/Dummy.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [292] => Array
+        (
+            [line] => 25
+            [file] => /buddy/commerce/src/models/responses/Dummy.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [293] => Array
+        (
+            [line] => 25
+            [file] => /buddy/commerce/src/models/subscriptions/SubscriptionForm.php
+            [message] => No short description for element '$trialDays'
+        )
+
+    [294] => Array
+        (
+            [line] => 29
+            [file] => /buddy/commerce/src/queue/jobs/ConsolidateGuestOrders.php
+            [message] => No short description for element '$emails'
+        )
+
+    [295] => Array
+        (
+            [line] => 29
+            [file] => /buddy/commerce/src/queue/jobs/ConsolidateGuestOrders.php
+            [message] => No short description for element '$emails'
+        )
+
+    [296] => Array
+        (
+            [line] => 29
+            [file] => /buddy/commerce/src/queue/jobs/ConsolidateGuestOrders.php
+            [message] => No short description for element '$emails'
+        )
+
+    [297] => Array
+        (
+            [line] => 29
+            [file] => /buddy/commerce/src/queue/jobs/ConsolidateGuestOrders.php
+            [message] => No short description for element '$emails'
+        )
+
+    [298] => Array
+        (
+            [line] => 27
+            [file] => /buddy/commerce/src/queue/jobs/ConsolidateGuestOrders.php
+            [message] => No short description for element '$emails'
+        )
+
+    [299] => Array
+        (
+            [line] => 14
+            [file] => /buddy/commerce/src/queue/jobs/SendEmail.php
+            [message] => No docblock for element 'craft\commerce\queue\jobs\SendEmail'
+        )
+
+    [300] => Array
+        (
+            [line] => 38
+            [file] => /buddy/commerce/src/queue/jobs/SendEmail.php
+            [message] => No docblock for element 'execute'
+        )
+
+    [301] => Array
+        (
+            [line] => 54
+            [file] => /buddy/commerce/src/queue/jobs/SendEmail.php
+            [message] => No docblock for element 'defaultDescription'
+        )
+
+    [302] => Array
+        (
+            [line] => 14
+            [file] => /buddy/commerce/src/queue/jobs/SendEmail.php
+            [message] => No docblock for element 'craft\commerce\queue\jobs\SendEmail'
+        )
+
+    [303] => Array
+        (
+            [line] => 38
+            [file] => /buddy/commerce/src/queue/jobs/SendEmail.php
+            [message] => No docblock for element 'execute'
+        )
+
+    [304] => Array
+        (
+            [line] => 54
+            [file] => /buddy/commerce/src/queue/jobs/SendEmail.php
+            [message] => No docblock for element 'defaultDescription'
+        )
+
+    [305] => Array
+        (
+            [line] => 54
+            [file] => /buddy/commerce/src/records/Transaction.php
+            [message] => No short description for element '$total'
+        )
+
+    [306] => Array
+        (
+            [line] => 34
+            [file] => /buddy/commerce/src/stats/TotalOrdersByCountry.php
+            [message] => No docblock for element '$limit'
+        )
+
+    [307] => Array
+        (
+            [line] => 34
+            [file] => /buddy/commerce/src/stats/TotalOrdersByCountry.php
+            [message] => No short description for element '$limit'
+        )
+
+    [308] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/test/fixtures/elements/ProductFixture.php
+            [message] => No short description for element '$productTypeIds'
+        )
+
+    [309] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/test/fixtures/elements/ProductFixture.php
+            [message] => No short description for element '$productTypeIds'
+        )
+
+    [310] => Array
+        (
+            [line] => 21
+            [file] => /buddy/commerce/src/test/mockclasses/Purchasable.php
+            [message] => No docblock for element '$isPromotable'
+        )
+
+    [311] => Array
+        (
+            [line] => 21
+            [file] => /buddy/commerce/src/test/mockclasses/Purchasable.php
+            [message] => No short description for element '$isPromotable'
+        )
+
+    [312] => Array
+        (
+            [line] => 21
+            [file] => /buddy/commerce/src/test/mockclasses/Purchasable.php
+            [message] => No docblock for element '$isPromotable'
+        )
+
+    [313] => Array
+        (
+            [line] => 21
+            [file] => /buddy/commerce/src/test/mockclasses/Purchasable.php
+            [message] => No short description for element '$isPromotable'
+        )
+
+    [314] => Array
+        (
+            [line] => 23
+            [file] => /buddy/commerce/src/test/mockclasses/Purchasable.php
+            [message] => No docblock for element '$price'
+        )
+
+    [315] => Array
+        (
+            [line] => 23
+            [file] => /buddy/commerce/src/test/mockclasses/Purchasable.php
+            [message] => No short description for element '$price'
+        )
+
+    [316] => Array
+        (
+            [line] => 28
+            [file] => /buddy/commerce/src/web/assets/commerceui/CommerceUiAsset.php
+            [message] => No short description for element '$appJs'
+        )
+
+    [317] => Array
+        (
+            [line] => 33
+            [file] => /buddy/commerce/src/web/assets/commerceui/CommerceUiAsset.php
+            [message] => No short description for element '$appCss'
+        )
+
+    [318] => Array
+        (
+            [line] => 28
+            [file] => /buddy/commerce/src/web/assets/commerceui/CommerceUiAsset.php
+            [message] => No short description for element '$appJs'
+        )
+
+    [319] => Array
+        (
+            [line] => 33
+            [file] => /buddy/commerce/src/web/assets/commerceui/CommerceUiAsset.php
+            [message] => No short description for element '$appCss'
+        )
+
+    [320] => Array
+        (
+            [line] => 43
+            [file] => /buddy/commerce/src/web/assets/statwidgets/StatWidgetsAsset.php
+            [message] => No docblock for element 'registerAssetFiles'
+        )
+
+    [321] => Array
+        (
+            [line] => 33
+            [file] => /buddy/commerce/src/web/twig/CraftVariableBehavior.php
+            [message] => No short description for element '$commerce'
+        )
+
+    [322] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/web/twig/CraftVariableBehavior.php
+            [message] => No docblock for element 'init'
+        )
+
+    [323] => Array
+        (
+            [line] => 32
+            [file] => /buddy/commerce/src/widgets/AverageOrderTotal.php
+            [message] => No short description for element '$startDate'
+        )
+
+    [324] => Array
+        (
+            [line] => 37
+            [file] => /buddy/commerce/src/widgets/AverageOrderTotal.php
+            [message] => No short description for element '$endDate'
+        )
+
+    [325] => Array
+        (
+            [line] => 42
+            [file] => /buddy/commerce/src/widgets/AverageOrderTotal.php
+            [message] => No short description for element '$dateRange'
+        )
+
+    [326] => Array
+        (
+            [line] => 32
+            [file] => /buddy/commerce/src/widgets/NewCustomers.php
+            [message] => No short description for element '$startDate'
+        )
+
+    [327] => Array
+        (
+            [line] => 37
+            [file] => /buddy/commerce/src/widgets/NewCustomers.php
+            [message] => No short description for element '$endDate'
+        )
+
+    [328] => Array
+        (
+            [line] => 42
+            [file] => /buddy/commerce/src/widgets/NewCustomers.php
+            [message] => No short description for element '$dateRange'
+        )
+
+    [329] => Array
+        (
+            [line] => 31
+            [file] => /buddy/commerce/src/widgets/Orders.php
+            [message] => No short description for element '$orderStatusId'
+        )
+
+    [330] => Array
+        (
+            [line] => 36
+            [file] => /buddy/commerce/src/widgets/Orders.php
+            [message] => No short description for element '$limit'
+        )
+
+    [331] => Array
+        (
+            [line] => 32
+            [file] => /buddy/commerce/src/widgets/RepeatCustomers.php
+            [message] => No short description for element '$startDate'
+        )
+
+    [332] => Array
+        (
+            [line] => 37
+            [file] => /buddy/commerce/src/widgets/RepeatCustomers.php
+            [message] => No short description for element '$endDate'
+        )
+
+    [333] => Array
+        (
+            [line] => 42
+            [file] => /buddy/commerce/src/widgets/RepeatCustomers.php
+            [message] => No short description for element '$dateRange'
+        )
+
+    [334] => Array
+        (
+            [line] => 33
+            [file] => /buddy/commerce/src/widgets/TopCustomers.php
+            [message] => No short description for element '$startDate'
+        )
+
+    [335] => Array
+        (
+            [line] => 38
+            [file] => /buddy/commerce/src/widgets/TopCustomers.php
+            [message] => No short description for element '$endDate'
+        )
+
+    [336] => Array
+        (
+            [line] => 43
+            [file] => /buddy/commerce/src/widgets/TopCustomers.php
+            [message] => No short description for element '$dateRange'
+        )
+
+    [337] => Array
+        (
+            [line] => 33
+            [file] => /buddy/commerce/src/widgets/TopProductTypes.php
+            [message] => No short description for element '$startDate'
+        )
+
+    [338] => Array
+        (
+            [line] => 38
+            [file] => /buddy/commerce/src/widgets/TopProductTypes.php
+            [message] => No short description for element '$endDate'
+        )
+
+    [339] => Array
+        (
+            [line] => 43
+            [file] => /buddy/commerce/src/widgets/TopProductTypes.php
+            [message] => No short description for element '$dateRange'
+        )
+
+    [340] => Array
+        (
+            [line] => 33
+            [file] => /buddy/commerce/src/widgets/TopProducts.php
+            [message] => No short description for element '$startDate'
+        )
+
+    [341] => Array
+        (
+            [line] => 38
+            [file] => /buddy/commerce/src/widgets/TopProducts.php
+            [message] => No short description for element '$endDate'
+        )
+
+    [342] => Array
+        (
+            [line] => 43
+            [file] => /buddy/commerce/src/widgets/TopProducts.php
+            [message] => No short description for element '$dateRange'
+        )
+
+    [343] => Array
+        (
+            [line] => 33
+            [file] => /buddy/commerce/src/widgets/TopPurchasables.php
+            [message] => No short description for element '$startDate'
+        )
+
+    [344] => Array
+        (
+            [line] => 38
+            [file] => /buddy/commerce/src/widgets/TopPurchasables.php
+            [message] => No short description for element '$endDate'
+        )
+
+    [345] => Array
+        (
+            [line] => 43
+            [file] => /buddy/commerce/src/widgets/TopPurchasables.php
+            [message] => No short description for element '$dateRange'
+        )
+
+    [346] => Array
+        (
+            [line] => 33
+            [file] => /buddy/commerce/src/widgets/TotalOrders.php
+            [message] => No short description for element '$startDate'
+        )
+
+    [347] => Array
+        (
+            [line] => 38
+            [file] => /buddy/commerce/src/widgets/TotalOrders.php
+            [message] => No short description for element '$endDate'
+        )
+
+    [348] => Array
+        (
+            [line] => 43
+            [file] => /buddy/commerce/src/widgets/TotalOrders.php
+            [message] => No short description for element '$dateRange'
+        )
+
+    [349] => Array
+        (
+            [line] => 48
+            [file] => /buddy/commerce/src/widgets/TotalOrders.php
+            [message] => No short description for element '$showChart'
+        )
+
+    [350] => Array
+        (
+            [line] => 55
+            [file] => /buddy/commerce/src/widgets/TotalOrders.php
+            [message] => No docblock for element 'init'
+        )
+
+    [351] => Array
+        (
+            [line] => 107
+            [file] => /buddy/commerce/src/widgets/TotalOrders.php
+            [message] => No docblock for element 'getSubtitle'
+        )
+
+    [352] => Array
+        (
+            [line] => 33
+            [file] => /buddy/commerce/src/widgets/TotalOrdersByCountry.php
+            [message] => No short description for element '$startDate'
+        )
+
+    [353] => Array
+        (
+            [line] => 38
+            [file] => /buddy/commerce/src/widgets/TotalOrdersByCountry.php
+            [message] => No short description for element '$endDate'
+        )
+
+    [354] => Array
+        (
+            [line] => 43
+            [file] => /buddy/commerce/src/widgets/TotalOrdersByCountry.php
+            [message] => No short description for element '$dateRange'
+        )
+
+    [355] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/widgets/TotalRevenue.php
+            [message] => No short description for element '$startDate'
+        )
+
+    [356] => Array
+        (
+            [line] => 40
+            [file] => /buddy/commerce/src/widgets/TotalRevenue.php
+            [message] => No short description for element '$endDate'
+        )
+
+    [357] => Array
+        (
+            [line] => 45
+            [file] => /buddy/commerce/src/widgets/TotalRevenue.php
+            [message] => No short description for element '$dateRange'
+        )
+
+    [358] => Array
+        (
+            [line] => 50
+            [file] => /buddy/commerce/src/widgets/TotalRevenue.php
+            [message] => No short description for element '$showOrderCount'
+        )
+
+    [359] => Array
+        (
+            [line] => 88
+            [file] => /buddy/commerce/src/widgets/TotalRevenue.php
+            [message] => No docblock for element 'getTitle'
+        )
+
+    [360] => Array
+        (
+            [line] => 35
+            [file] => /buddy/commerce/src/widgets/TotalRevenue.php
+            [message] => No short description for element '$startDate'
+        )
+
+    [361] => Array
+        (
+            [line] => 40
+            [file] => /buddy/commerce/src/widgets/TotalRevenue.php
+            [message] => No short description for element '$endDate'
+        )
+
+    [362] => Array
+        (
+            [line] => 45
+            [file] => /buddy/commerce/src/widgets/TotalRevenue.php
+            [message] => No short description for element '$dateRange'
+        )
+
+    [363] => Array
+        (
+            [line] => 50
+            [file] => /buddy/commerce/src/widgets/TotalRevenue.php
+            [message] => No short description for element '$showOrderCount'
+        )
+
+    [364] => Array
+        (
+            [line] => 88
+            [file] => /buddy/commerce/src/widgets/TotalRevenue.php
+            [message] => No docblock for element 'getTitle'
+        )
+
+)

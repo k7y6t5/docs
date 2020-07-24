@@ -1,0 +1,2019 @@
+Array
+(
+    [0] => Array
+        (
+            [line] => 24
+            [file] => /buddy/cms/src/base/AssetPreviewHandler.php
+            [message] => No short description for element '$asset'
+        )
+
+    [1] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/base/ClonefixTrait.php
+            [message] => No docblock for element '__clone'
+        )
+
+    [2] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/base/ElementAction.php
+            [message] => No short description for element '$elementType'
+        )
+
+    [3] => Array
+        (
+            [line] => 21
+            [file] => /buddy/cms/src/base/ElementExporter.php
+            [message] => No short description for element '$elementType'
+        )
+
+    [4] => Array
+        (
+            [line] => 25
+            [file] => /buddy/cms/src/base/RequestTrait.php
+            [message] => No short description for element '$isWebrootAliasSetDynamically'
+        )
+
+    [5] => Array
+        (
+            [line] => 30
+            [file] => /buddy/cms/src/base/RequestTrait.php
+            [message] => No short description for element '$isWebAliasSetDynamically'
+        )
+
+    [6] => Array
+        (
+            [line] => 42
+            [file] => /buddy/cms/src/behaviors/EnvAttributeParserBehavior.php
+            [message] => No short description for element '$owner'
+        )
+
+    [7] => Array
+        (
+            [line] => 42
+            [file] => /buddy/cms/src/behaviors/EnvAttributeParserBehavior.php
+            [message] => No short description for element '$owner'
+        )
+
+    [8] => Array
+        (
+            [line] => 27
+            [file] => /buddy/cms/src/console/actions/ClearCacheAction.php
+            [message] => No short description for element '$action'
+        )
+
+    [9] => Array
+        (
+            [line] => 32
+            [file] => /buddy/cms/src/console/actions/ClearCacheAction.php
+            [message] => No short description for element '$label'
+        )
+
+    [10] => Array
+        (
+            [line] => 37
+            [file] => /buddy/cms/src/console/actions/ClearCacheAction.php
+            [message] => No short description for element '$params'
+        )
+
+    [11] => Array
+        (
+            [line] => 27
+            [file] => /buddy/cms/src/console/actions/ClearCacheAction.php
+            [message] => No short description for element '$action'
+        )
+
+    [12] => Array
+        (
+            [line] => 32
+            [file] => /buddy/cms/src/console/actions/ClearCacheAction.php
+            [message] => No short description for element '$label'
+        )
+
+    [13] => Array
+        (
+            [line] => 37
+            [file] => /buddy/cms/src/console/actions/ClearCacheAction.php
+            [message] => No short description for element '$params'
+        )
+
+    [14] => Array
+        (
+            [line] => 59
+            [file] => /buddy/cms/src/console/controllers/InstallController.php
+            [message] => No docblock for element '$defaultAction'
+        )
+
+    [15] => Array
+        (
+            [line] => 59
+            [file] => /buddy/cms/src/console/controllers/InstallController.php
+            [message] => No short description for element '$defaultAction'
+        )
+
+    [16] => Array
+        (
+            [line] => 40
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$elementType'
+        )
+
+    [17] => Array
+        (
+            [line] => 45
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$context'
+        )
+
+    [18] => Array
+        (
+            [line] => 50
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$sourceKey'
+        )
+
+    [19] => Array
+        (
+            [line] => 55
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$source'
+        )
+
+    [20] => Array
+        (
+            [line] => 60
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$viewState'
+        )
+
+    [21] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$paginated'
+        )
+
+    [22] => Array
+        (
+            [line] => 70
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$elementQuery'
+        )
+
+    [23] => Array
+        (
+            [line] => 75
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$actions'
+        )
+
+    [24] => Array
+        (
+            [line] => 80
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$exporters'
+        )
+
+    [25] => Array
+        (
+            [line] => 41
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$elementType'
+        )
+
+    [26] => Array
+        (
+            [line] => 46
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$context'
+        )
+
+    [27] => Array
+        (
+            [line] => 51
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$sourceKey'
+        )
+
+    [28] => Array
+        (
+            [line] => 56
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$source'
+        )
+
+    [29] => Array
+        (
+            [line] => 61
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$viewState'
+        )
+
+    [30] => Array
+        (
+            [line] => 67
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$paginated'
+        )
+
+    [31] => Array
+        (
+            [line] => 72
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$elementQuery'
+        )
+
+    [32] => Array
+        (
+            [line] => 77
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$actions'
+        )
+
+    [33] => Array
+        (
+            [line] => 82
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$exporters'
+        )
+
+    [34] => Array
+        (
+            [line] => 41
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$elementType'
+        )
+
+    [35] => Array
+        (
+            [line] => 46
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$context'
+        )
+
+    [36] => Array
+        (
+            [line] => 51
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$sourceKey'
+        )
+
+    [37] => Array
+        (
+            [line] => 56
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$source'
+        )
+
+    [38] => Array
+        (
+            [line] => 61
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$viewState'
+        )
+
+    [39] => Array
+        (
+            [line] => 67
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$paginated'
+        )
+
+    [40] => Array
+        (
+            [line] => 72
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$elementQuery'
+        )
+
+    [41] => Array
+        (
+            [line] => 77
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$actions'
+        )
+
+    [42] => Array
+        (
+            [line] => 82
+            [file] => /buddy/cms/src/controllers/ElementIndexesController.php
+            [message] => No short description for element '$exporters'
+        )
+
+    [43] => Array
+        (
+            [line] => 13
+            [file] => /buddy/cms/src/controllers/NotFoundController.php
+            [message] => No docblock for element 'craft\controllers\NotFoundController'
+        )
+
+    [44] => Array
+        (
+            [line] => 31
+            [file] => /buddy/cms/src/controllers/UtilitiesController.php
+            [message] => No docblock for element 'craft\controllers\UtilitiesController'
+        )
+
+    [45] => Array
+        (
+            [line] => 30
+            [file] => /buddy/cms/src/controllers/UtilitiesController.php
+            [message] => No docblock for element 'craft\controllers\UtilitiesController'
+        )
+
+    [46] => Array
+        (
+            [line] => 30
+            [file] => /buddy/cms/src/controllers/UtilitiesController.php
+            [message] => No docblock for element 'craft\controllers\UtilitiesController'
+        )
+
+    [47] => Array
+        (
+            [line] => 10
+            [file] => /buddy/cms/src/db/mysql/ColumnSchema.php
+            [message] => No docblock for element 'craft\db\mysql\ColumnSchema'
+        )
+
+    [48] => Array
+        (
+            [line] => 66
+            [file] => /buddy/cms/src/elements/db/MatrixBlockQuery.php
+            [message] => No short description for element '$ownerSiteId'
+        )
+
+    [49] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/errors/MissingAssetException.php
+            [message] => No short description for element '$indexEntry'
+        )
+
+    [50] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/errors/MissingAssetException.php
+            [message] => No short description for element '$volume'
+        )
+
+    [51] => Array
+        (
+            [line] => 38
+            [file] => /buddy/cms/src/errors/MissingAssetException.php
+            [message] => No short description for element '$folder'
+        )
+
+    [52] => Array
+        (
+            [line] => 43
+            [file] => /buddy/cms/src/errors/MissingAssetException.php
+            [message] => No short description for element '$filename'
+        )
+
+    [53] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/events/AssetPreviewEvent.php
+            [message] => No short description for element '$previewHandler'
+        )
+
+    [54] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/events/GenerateTransformEvent.php
+            [message] => No short description for element '$image'
+        )
+
+    [55] => Array
+        (
+            [line] => 56
+            [file] => /buddy/cms/src/fields/Color.php
+            [message] => No docblock for element 'getSettingsHtml'
+        )
+
+    [56] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/fields/data/OptionData.php
+            [message] => No short description for element '$label'
+        )
+
+    [57] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/fields/data/OptionData.php
+            [message] => No short description for element '$value'
+        )
+
+    [58] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/fields/data/OptionData.php
+            [message] => No short description for element '$selected'
+        )
+
+    [59] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/gql/directives/Transform.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [60] => Array
+        (
+            [line] => 26
+            [file] => /buddy/cms/src/gql/types/DateTime.php
+            [message] => No short description for element '$name'
+        )
+
+    [61] => Array
+        (
+            [line] => 31
+            [file] => /buddy/cms/src/gql/types/DateTime.php
+            [message] => No short description for element '$description'
+        )
+
+    [62] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/gql/types/DateTime.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [63] => Array
+        (
+            [line] => 29
+            [file] => /buddy/cms/src/gql/types/Number.php
+            [message] => No short description for element '$name'
+        )
+
+    [64] => Array
+        (
+            [line] => 34
+            [file] => /buddy/cms/src/gql/types/Number.php
+            [message] => No short description for element '$description'
+        )
+
+    [65] => Array
+        (
+            [line] => 36
+            [file] => /buddy/cms/src/gql/types/Number.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [66] => Array
+        (
+            [line] => 27
+            [file] => /buddy/cms/src/gql/types/QueryArgument.php
+            [message] => No short description for element '$name'
+        )
+
+    [67] => Array
+        (
+            [line] => 32
+            [file] => /buddy/cms/src/gql/types/QueryArgument.php
+            [message] => No short description for element '$description'
+        )
+
+    [68] => Array
+        (
+            [line] => 34
+            [file] => /buddy/cms/src/gql/types/QueryArgument.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [69] => Array
+        (
+            [line] => 24
+            [file] => /buddy/cms/src/models/CraftIdToken.php
+            [message] => No short description for element '$id'
+        )
+
+    [70] => Array
+        (
+            [line] => 29
+            [file] => /buddy/cms/src/models/CraftIdToken.php
+            [message] => No short description for element '$userId'
+        )
+
+    [71] => Array
+        (
+            [line] => 34
+            [file] => /buddy/cms/src/models/CraftIdToken.php
+            [message] => No short description for element '$accessToken'
+        )
+
+    [72] => Array
+        (
+            [line] => 39
+            [file] => /buddy/cms/src/models/CraftIdToken.php
+            [message] => No short description for element '$expiryDate'
+        )
+
+    [73] => Array
+        (
+            [line] => 44
+            [file] => /buddy/cms/src/models/CraftIdToken.php
+            [message] => No short description for element '$dateCreated'
+        )
+
+    [74] => Array
+        (
+            [line] => 49
+            [file] => /buddy/cms/src/models/CraftIdToken.php
+            [message] => No short description for element '$dateUpdated'
+        )
+
+    [75] => Array
+        (
+            [line] => 54
+            [file] => /buddy/cms/src/models/CraftIdToken.php
+            [message] => No short description for element '$uid'
+        )
+
+    [76] => Array
+        (
+            [line] => 63
+            [file] => /buddy/cms/src/models/FolderCriteria.php
+            [message] => No short description for element '$uid'
+        )
+
+    [77] => Array
+        (
+            [line] => 47
+            [file] => /buddy/cms/src/models/GqlSchema.php
+            [message] => No short description for element '$uid'
+        )
+
+    [78] => Array
+        (
+            [line] => 55
+            [file] => /buddy/cms/src/models/GqlSchema.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [79] => Array
+        (
+            [line] => 73
+            [file] => /buddy/cms/src/models/GqlToken.php
+            [message] => No short description for element '$uid'
+        )
+
+    [80] => Array
+        (
+            [line] => 90
+            [file] => /buddy/cms/src/models/GqlToken.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [81] => Array
+        (
+            [line] => 74
+            [file] => /buddy/cms/src/models/GqlToken.php
+            [message] => No short description for element '$uid'
+        )
+
+    [82] => Array
+        (
+            [line] => 91
+            [file] => /buddy/cms/src/models/GqlToken.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [83] => Array
+        (
+            [line] => 74
+            [file] => /buddy/cms/src/models/GqlToken.php
+            [message] => No short description for element '$uid'
+        )
+
+    [84] => Array
+        (
+            [line] => 91
+            [file] => /buddy/cms/src/models/GqlToken.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [85] => Array
+        (
+            [line] => 74
+            [file] => /buddy/cms/src/models/GqlToken.php
+            [message] => No short description for element '$uid'
+        )
+
+    [86] => Array
+        (
+            [line] => 91
+            [file] => /buddy/cms/src/models/GqlToken.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [87] => Array
+        (
+            [line] => 61
+            [file] => /buddy/cms/src/models/MatrixBlockType.php
+            [message] => No short description for element '$hasFieldErrors'
+        )
+
+    [88] => Array
+        (
+            [line] => 66
+            [file] => /buddy/cms/src/models/MatrixBlockType.php
+            [message] => No short description for element '$uid'
+        )
+
+    [89] => Array
+        (
+            [line] => 26
+            [file] => /buddy/cms/src/queue/Command.php
+            [message] => No short description for element '$queue'
+        )
+
+    [90] => Array
+        (
+            [line] => 31
+            [file] => /buddy/cms/src/queue/Command.php
+            [message] => No short description for element '$defaultAction'
+        )
+
+    [91] => Array
+        (
+            [line] => 25
+            [file] => /buddy/cms/src/queue/InfoAction.php
+            [message] => No short description for element '$queue'
+        )
+
+    [92] => Array
+        (
+            [line] => 24
+            [file] => /buddy/cms/src/search/SearchQueryTerm.php
+            [message] => No short description for element '$exclude'
+        )
+
+    [93] => Array
+        (
+            [line] => 29
+            [file] => /buddy/cms/src/search/SearchQueryTerm.php
+            [message] => No short description for element '$exact'
+        )
+
+    [94] => Array
+        (
+            [line] => 34
+            [file] => /buddy/cms/src/search/SearchQueryTerm.php
+            [message] => No short description for element '$subLeft'
+        )
+
+    [95] => Array
+        (
+            [line] => 39
+            [file] => /buddy/cms/src/search/SearchQueryTerm.php
+            [message] => No short description for element '$subRight'
+        )
+
+    [96] => Array
+        (
+            [line] => 44
+            [file] => /buddy/cms/src/search/SearchQueryTerm.php
+            [message] => No short description for element '$attribute'
+        )
+
+    [97] => Array
+        (
+            [line] => 49
+            [file] => /buddy/cms/src/search/SearchQueryTerm.php
+            [message] => No short description for element '$term'
+        )
+
+    [98] => Array
+        (
+            [line] => 54
+            [file] => /buddy/cms/src/search/SearchQueryTerm.php
+            [message] => No short description for element '$phrase'
+        )
+
+    [99] => Array
+        (
+            [line] => 22
+            [file] => /buddy/cms/src/search/SearchQueryTermGroup.php
+            [message] => No short description for element '$terms'
+        )
+
+    [100] => Array
+        (
+            [line] => 35
+            [file] => /buddy/cms/src/services/Api.php
+            [message] => No short description for element '$client'
+        )
+
+    [101] => Array
+        (
+            [line] => 35
+            [file] => /buddy/cms/src/services/Api.php
+            [message] => No short description for element '$client'
+        )
+
+    [102] => Array
+        (
+            [line] => 35
+            [file] => /buddy/cms/src/services/Api.php
+            [message] => No short description for element '$client'
+        )
+
+    [103] => Array
+        (
+            [line] => 41
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No short description for element '$composerRepoUrl'
+        )
+
+    [104] => Array
+        (
+            [line] => 46
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No short description for element '$disablePackagist'
+        )
+
+    [105] => Array
+        (
+            [line] => 467
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No docblock for element 'findCraftRepo'
+        )
+
+    [106] => Array
+        (
+            [line] => 482
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No docblock for element 'findDisablePackagist'
+        )
+
+    [107] => Array
+        (
+            [line] => 41
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No short description for element '$composerRepoUrl'
+        )
+
+    [108] => Array
+        (
+            [line] => 46
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No short description for element '$disablePackagist'
+        )
+
+    [109] => Array
+        (
+            [line] => 467
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No docblock for element 'findCraftRepo'
+        )
+
+    [110] => Array
+        (
+            [line] => 482
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No docblock for element 'findDisablePackagist'
+        )
+
+    [111] => Array
+        (
+            [line] => 41
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No short description for element '$composerRepoUrl'
+        )
+
+    [112] => Array
+        (
+            [line] => 46
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No short description for element '$disablePackagist'
+        )
+
+    [113] => Array
+        (
+            [line] => 467
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No docblock for element 'findCraftRepo'
+        )
+
+    [114] => Array
+        (
+            [line] => 482
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No docblock for element 'findDisablePackagist'
+        )
+
+    [115] => Array
+        (
+            [line] => 41
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No short description for element '$composerRepoUrl'
+        )
+
+    [116] => Array
+        (
+            [line] => 46
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No short description for element '$disablePackagist'
+        )
+
+    [117] => Array
+        (
+            [line] => 467
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No docblock for element 'findCraftRepo'
+        )
+
+    [118] => Array
+        (
+            [line] => 482
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No docblock for element 'findDisablePackagist'
+        )
+
+    [119] => Array
+        (
+            [line] => 41
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No short description for element '$composerRepoUrl'
+        )
+
+    [120] => Array
+        (
+            [line] => 46
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No short description for element '$disablePackagist'
+        )
+
+    [121] => Array
+        (
+            [line] => 467
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No docblock for element 'findCraftRepo'
+        )
+
+    [122] => Array
+        (
+            [line] => 482
+            [file] => /buddy/cms/src/services/Composer.php
+            [message] => No docblock for element 'findDisablePackagist'
+        )
+
+    [123] => Array
+        (
+            [line] => 43
+            [file] => /buddy/cms/src/services/Content.php
+            [message] => No short description for element '$contentTable'
+        )
+
+    [124] => Array
+        (
+            [line] => 48
+            [file] => /buddy/cms/src/services/Content.php
+            [message] => No short description for element '$fieldColumnPrefix'
+        )
+
+    [125] => Array
+        (
+            [line] => 53
+            [file] => /buddy/cms/src/services/Content.php
+            [message] => No short description for element '$fieldContext'
+        )
+
+    [126] => Array
+        (
+            [line] => 43
+            [file] => /buddy/cms/src/services/Content.php
+            [message] => No short description for element '$contentTable'
+        )
+
+    [127] => Array
+        (
+            [line] => 48
+            [file] => /buddy/cms/src/services/Content.php
+            [message] => No short description for element '$fieldColumnPrefix'
+        )
+
+    [128] => Array
+        (
+            [line] => 53
+            [file] => /buddy/cms/src/services/Content.php
+            [message] => No short description for element '$fieldContext'
+        )
+
+    [129] => Array
+        (
+            [line] => 43
+            [file] => /buddy/cms/src/services/Content.php
+            [message] => No short description for element '$contentTable'
+        )
+
+    [130] => Array
+        (
+            [line] => 48
+            [file] => /buddy/cms/src/services/Content.php
+            [message] => No short description for element '$fieldColumnPrefix'
+        )
+
+    [131] => Array
+        (
+            [line] => 53
+            [file] => /buddy/cms/src/services/Content.php
+            [message] => No short description for element '$fieldContext'
+        )
+
+    [132] => Array
+        (
+            [line] => 168
+            [file] => /buddy/cms/src/services/Fields.php
+            [message] => No short description for element '$oldFieldColumnPrefix'
+        )
+
+    [133] => Array
+        (
+            [line] => 168
+            [file] => /buddy/cms/src/services/Fields.php
+            [message] => No short description for element '$oldFieldColumnPrefix'
+        )
+
+    [134] => Array
+        (
+            [line] => 168
+            [file] => /buddy/cms/src/services/Fields.php
+            [message] => No short description for element '$oldFieldColumnPrefix'
+        )
+
+    [135] => Array
+        (
+            [line] => 168
+            [file] => /buddy/cms/src/services/Fields.php
+            [message] => No short description for element '$oldFieldColumnPrefix'
+        )
+
+    [136] => Array
+        (
+            [line] => 168
+            [file] => /buddy/cms/src/services/Fields.php
+            [message] => No short description for element '$oldFieldColumnPrefix'
+        )
+
+    [137] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/services/SystemSettings.php
+            [message] => No short description for element '$defaults'
+        )
+
+    [138] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/services/SystemSettings.php
+            [message] => No short description for element '$defaults'
+        )
+
+    [139] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/services/SystemSettings.php
+            [message] => No short description for element '$defaults'
+        )
+
+    [140] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/services/SystemSettings.php
+            [message] => No short description for element '$defaults'
+        )
+
+    [141] => Array
+        (
+            [line] => 29
+            [file] => /buddy/cms/src/services/SystemSettings.php
+            [message] => No short description for element '$defaults'
+        )
+
+    [142] => Array
+        (
+            [line] => 41
+            [file] => /buddy/cms/src/services/Updates.php
+            [message] => No short description for element '$cacheKey'
+        )
+
+    [143] => Array
+        (
+            [line] => 41
+            [file] => /buddy/cms/src/services/Updates.php
+            [message] => No short description for element '$cacheKey'
+        )
+
+    [144] => Array
+        (
+            [line] => 41
+            [file] => /buddy/cms/src/services/Updates.php
+            [message] => No short description for element '$cacheKey'
+        )
+
+    [145] => Array
+        (
+            [line] => 41
+            [file] => /buddy/cms/src/services/Updates.php
+            [message] => No short description for element '$cacheKey'
+        )
+
+    [146] => Array
+        (
+            [line] => 78
+            [file] => /buddy/cms/src/test/Craft.php
+            [message] => No short description for element '$currentTest'
+        )
+
+    [147] => Array
+        (
+            [line] => 78
+            [file] => /buddy/cms/src/test/Craft.php
+            [message] => No short description for element '$currentTest'
+        )
+
+    [148] => Array
+        (
+            [line] => 75
+            [file] => /buddy/cms/src/test/Craft.php
+            [message] => No short description for element '$currentTest'
+        )
+
+    [149] => Array
+        (
+            [line] => 32
+            [file] => /buddy/cms/src/test/CraftConnector.php
+            [message] => No short description for element '$emails'
+        )
+
+    [150] => Array
+        (
+            [line] => 32
+            [file] => /buddy/cms/src/test/CraftConnector.php
+            [message] => No short description for element '$emails'
+        )
+
+    [151] => Array
+        (
+            [line] => 32
+            [file] => /buddy/cms/src/test/CraftConnector.php
+            [message] => No short description for element '$emails'
+        )
+
+    [152] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/test/EventItem.php
+            [message] => No short description for element '$type'
+        )
+
+    [153] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/test/EventItem.php
+            [message] => No short description for element '$desiredValue'
+        )
+
+    [154] => Array
+        (
+            [line] => 38
+            [file] => /buddy/cms/src/test/EventItem.php
+            [message] => No short description for element '$eventPropName'
+        )
+
+    [155] => Array
+        (
+            [line] => 43
+            [file] => /buddy/cms/src/test/EventItem.php
+            [message] => No short description for element '$desiredClass'
+        )
+
+    [156] => Array
+        (
+            [line] => 27
+            [file] => /buddy/cms/src/test/Fixture.php
+            [message] => No short description for element '$ids'
+        )
+
+    [157] => Array
+        (
+            [line] => 27
+            [file] => /buddy/cms/src/test/TestMailer.php
+            [message] => No short description for element '$messageClass'
+        )
+
+    [158] => Array
+        (
+            [line] => 32
+            [file] => /buddy/cms/src/test/TestMailer.php
+            [message] => No short description for element '$callback'
+        )
+
+    [159] => Array
+        (
+            [line] => 35
+            [file] => /buddy/cms/src/test/console/CommandTest.php
+            [message] => No short description for element '$test'
+        )
+
+    [160] => Array
+        (
+            [line] => 40
+            [file] => /buddy/cms/src/test/console/CommandTest.php
+            [message] => No short description for element '$command'
+        )
+
+    [161] => Array
+        (
+            [line] => 45
+            [file] => /buddy/cms/src/test/console/CommandTest.php
+            [message] => No short description for element '$parameters'
+        )
+
+    [162] => Array
+        (
+            [line] => 50
+            [file] => /buddy/cms/src/test/console/CommandTest.php
+            [message] => No short description for element '$ignoreStdOut'
+        )
+
+    [163] => Array
+        (
+            [line] => 55
+            [file] => /buddy/cms/src/test/console/CommandTest.php
+            [message] => No short description for element '$expectedExitCode'
+        )
+
+    [164] => Array
+        (
+            [line] => 60
+            [file] => /buddy/cms/src/test/console/CommandTest.php
+            [message] => No short description for element '$hasExecuted'
+        )
+
+    [165] => Array
+        (
+            [line] => 65
+            [file] => /buddy/cms/src/test/console/CommandTest.php
+            [message] => No short description for element '$eventChain'
+        )
+
+    [166] => Array
+        (
+            [line] => 70
+            [file] => /buddy/cms/src/test/console/CommandTest.php
+            [message] => No short description for element '$currentIndex'
+        )
+
+    [167] => Array
+        (
+            [line] => 75
+            [file] => /buddy/cms/src/test/console/CommandTest.php
+            [message] => No short description for element '$controller'
+        )
+
+    [168] => Array
+        (
+            [line] => 80
+            [file] => /buddy/cms/src/test/console/CommandTest.php
+            [message] => No short description for element '$actionId'
+        )
+
+    [169] => Array
+        (
+            [line] => 85
+            [file] => /buddy/cms/src/test/console/CommandTest.php
+            [message] => No short description for element '$desiredExitCode'
+        )
+
+    [170] => Array
+        (
+            [line] => 90
+            [file] => /buddy/cms/src/test/console/CommandTest.php
+            [message] => No short description for element '$eventChainItemsHandled'
+        )
+
+    [171] => Array
+        (
+            [line] => 24
+            [file] => /buddy/cms/src/test/console/CommandTestItem.php
+            [message] => No short description for element '$desiredOutput'
+        )
+
+    [172] => Array
+        (
+            [line] => 29
+            [file] => /buddy/cms/src/test/console/CommandTestItem.php
+            [message] => No short description for element '$options'
+        )
+
+    [173] => Array
+        (
+            [line] => 34
+            [file] => /buddy/cms/src/test/console/CommandTestItem.php
+            [message] => No short description for element '$prompt'
+        )
+
+    [174] => Array
+        (
+            [line] => 39
+            [file] => /buddy/cms/src/test/console/CommandTestItem.php
+            [message] => No short description for element '$type'
+        )
+
+    [175] => Array
+        (
+            [line] => 44
+            [file] => /buddy/cms/src/test/console/CommandTestItem.php
+            [message] => No short description for element '$message'
+        )
+
+    [176] => Array
+        (
+            [line] => 49
+            [file] => /buddy/cms/src/test/console/CommandTestItem.php
+            [message] => No short description for element '$default'
+        )
+
+    [177] => Array
+        (
+            [line] => 54
+            [file] => /buddy/cms/src/test/console/CommandTestItem.php
+            [message] => No short description for element '$returnValue'
+        )
+
+    [178] => Array
+        (
+            [line] => 59
+            [file] => /buddy/cms/src/test/console/CommandTestItem.php
+            [message] => No short description for element '$withScriptName'
+        )
+
+    [179] => Array
+        (
+            [line] => 38
+            [file] => /buddy/cms/src/test/fixtures/elements/AssetFixture.php
+            [message] => No short description for element '$volumeIds'
+        )
+
+    [180] => Array
+        (
+            [line] => 43
+            [file] => /buddy/cms/src/test/fixtures/elements/AssetFixture.php
+            [message] => No short description for element '$folderIds'
+        )
+
+    [181] => Array
+        (
+            [line] => 53
+            [file] => /buddy/cms/src/test/fixtures/elements/AssetFixture.php
+            [message] => No short description for element '$sourceAssetPath'
+        )
+
+    [182] => Array
+        (
+            [line] => 58
+            [file] => /buddy/cms/src/test/fixtures/elements/AssetFixture.php
+            [message] => No short description for element '$destinationAssetPath'
+        )
+
+    [183] => Array
+        (
+            [line] => 38
+            [file] => /buddy/cms/src/test/fixtures/elements/AssetFixture.php
+            [message] => No short description for element '$volumeIds'
+        )
+
+    [184] => Array
+        (
+            [line] => 43
+            [file] => /buddy/cms/src/test/fixtures/elements/AssetFixture.php
+            [message] => No short description for element '$folderIds'
+        )
+
+    [185] => Array
+        (
+            [line] => 53
+            [file] => /buddy/cms/src/test/fixtures/elements/AssetFixture.php
+            [message] => No short description for element '$sourceAssetPath'
+        )
+
+    [186] => Array
+        (
+            [line] => 58
+            [file] => /buddy/cms/src/test/fixtures/elements/AssetFixture.php
+            [message] => No short description for element '$destinationAssetPath'
+        )
+
+    [187] => Array
+        (
+            [line] => 38
+            [file] => /buddy/cms/src/test/fixtures/elements/AssetFixture.php
+            [message] => No short description for element '$volumeIds'
+        )
+
+    [188] => Array
+        (
+            [line] => 43
+            [file] => /buddy/cms/src/test/fixtures/elements/AssetFixture.php
+            [message] => No short description for element '$folderIds'
+        )
+
+    [189] => Array
+        (
+            [line] => 53
+            [file] => /buddy/cms/src/test/fixtures/elements/AssetFixture.php
+            [message] => No short description for element '$sourceAssetPath'
+        )
+
+    [190] => Array
+        (
+            [line] => 58
+            [file] => /buddy/cms/src/test/fixtures/elements/AssetFixture.php
+            [message] => No short description for element '$destinationAssetPath'
+        )
+
+    [191] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/test/fixtures/elements/CategoryFixture.php
+            [message] => No short description for element '$groupIds'
+        )
+
+    [192] => Array
+        (
+            [line] => 35
+            [file] => /buddy/cms/src/test/fixtures/elements/ElementFixture.php
+            [message] => No short description for element '$siteIds'
+        )
+
+    [193] => Array
+        (
+            [line] => 35
+            [file] => /buddy/cms/src/test/fixtures/elements/ElementFixture.php
+            [message] => No short description for element '$siteIds'
+        )
+
+    [194] => Array
+        (
+            [line] => 35
+            [file] => /buddy/cms/src/test/fixtures/elements/ElementFixture.php
+            [message] => No short description for element '$siteIds'
+        )
+
+    [195] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/test/fixtures/elements/EntryFixture.php
+            [message] => No short description for element '$sectionIds'
+        )
+
+    [196] => Array
+        (
+            [line] => 38
+            [file] => /buddy/cms/src/test/fixtures/elements/EntryFixture.php
+            [message] => No short description for element '$typeIds'
+        )
+
+    [197] => Array
+        (
+            [line] => 40
+            [file] => /buddy/cms/src/test/fixtures/elements/GlobalSetFixture.php
+            [message] => No short description for element '$useActiveRecord'
+        )
+
+    [198] => Array
+        (
+            [line] => 34
+            [file] => /buddy/cms/src/test/fixtures/elements/TagFixture.php
+            [message] => No short description for element '$groupIds'
+        )
+
+    [199] => Array
+        (
+            [line] => 7
+            [file] => /buddy/cms/src/test/internal/example-test-suite/tests/functional/ExampleFunctionalCest.php
+            [message] => No docblock for element 'myprojecttests\ExampleFunctionalCest'
+        )
+
+    [200] => Array
+        (
+            [line] => 9
+            [file] => /buddy/cms/src/test/internal/example-test-suite/tests/unit/ExampleUnitTest.php
+            [message] => No docblock for element 'myprojecttests\ExampleUnitTest'
+        )
+
+    [201] => Array
+        (
+            [line] => 14
+            [file] => /buddy/cms/src/test/internal/example-test-suite/tests/unit/ExampleUnitTest.php
+            [message] => No short description for element '$tester'
+        )
+
+    [202] => Array
+        (
+            [line] => 27
+            [file] => /buddy/cms/src/test/mockclasses/arrayable/ExampleArrayble.php
+            [message] => No short description for element '$exampleArrayableParam'
+        )
+
+    [203] => Array
+        (
+            [line] => 32
+            [file] => /buddy/cms/src/test/mockclasses/arrayable/ExampleArrayble.php
+            [message] => No short description for element '$extraField'
+        )
+
+    [204] => Array
+        (
+            [line] => 27
+            [file] => /buddy/cms/src/test/mockclasses/arrayable/ExampleArrayble.php
+            [message] => No short description for element '$exampleArrayableParam'
+        )
+
+    [205] => Array
+        (
+            [line] => 32
+            [file] => /buddy/cms/src/test/mockclasses/arrayable/ExampleArrayble.php
+            [message] => No short description for element '$extraField'
+        )
+
+    [206] => Array
+        (
+            [line] => 24
+            [file] => /buddy/cms/src/test/mockclasses/controllers/TestController.php
+            [message] => No short description for element '$allowAnonymous'
+        )
+
+    [207] => Array
+        (
+            [line] => 24
+            [file] => /buddy/cms/src/test/mockclasses/elements/ExampleElement.php
+            [message] => No short description for element '$uriFormat'
+        )
+
+    [208] => Array
+        (
+            [line] => 26
+            [file] => /buddy/cms/src/test/mockclasses/elements/ExampleElement.php
+            [message] => No docblock for element '$someField'
+        )
+
+    [209] => Array
+        (
+            [line] => 26
+            [file] => /buddy/cms/src/test/mockclasses/elements/ExampleElement.php
+            [message] => No short description for element '$someField'
+        )
+
+    [210] => Array
+        (
+            [line] => 24
+            [file] => /buddy/cms/src/test/mockclasses/elements/ExampleElement.php
+            [message] => No short description for element '$uriFormat'
+        )
+
+    [211] => Array
+        (
+            [line] => 29
+            [file] => /buddy/cms/src/test/mockclasses/elements/ExampleElement.php
+            [message] => No short description for element '$someField'
+        )
+
+    [212] => Array
+        (
+            [line] => 16
+            [file] => /buddy/cms/src/test/mockclasses/gql/MockType.php
+            [message] => No short description for element '$name'
+        )
+
+    [213] => Array
+        (
+            [line] => 36
+            [file] => /buddy/cms/src/test/mockclasses/gql/MockType.php
+            [message] => No docblock for element 'serialize'
+        )
+
+    [214] => Array
+        (
+            [line] => 41
+            [file] => /buddy/cms/src/test/mockclasses/gql/MockType.php
+            [message] => No docblock for element 'parseValue'
+        )
+
+    [215] => Array
+        (
+            [line] => 46
+            [file] => /buddy/cms/src/test/mockclasses/gql/MockType.php
+            [message] => No docblock for element 'parseLiteral'
+        )
+
+    [216] => Array
+        (
+            [line] => 24
+            [file] => /buddy/cms/src/test/mockclasses/models/ExampleModel.php
+            [message] => No short description for element '$exampleParam'
+        )
+
+    [217] => Array
+        (
+            [line] => 29
+            [file] => /buddy/cms/src/test/mockclasses/models/ExampleModel.php
+            [message] => No short description for element '$exampleDateParam'
+        )
+
+    [218] => Array
+        (
+            [line] => 34
+            [file] => /buddy/cms/src/test/mockclasses/models/ExampleModel.php
+            [message] => No short description for element '$dateCreated'
+        )
+
+    [219] => Array
+        (
+            [line] => 39
+            [file] => /buddy/cms/src/test/mockclasses/models/ExampleModel.php
+            [message] => No short description for element '$dateUpdated'
+        )
+
+    [220] => Array
+        (
+            [line] => 24
+            [file] => /buddy/cms/src/test/mockclasses/models/ExampleModel.php
+            [message] => No short description for element '$exampleParam'
+        )
+
+    [221] => Array
+        (
+            [line] => 29
+            [file] => /buddy/cms/src/test/mockclasses/models/ExampleModel.php
+            [message] => No short description for element '$exampleDateParam'
+        )
+
+    [222] => Array
+        (
+            [line] => 34
+            [file] => /buddy/cms/src/test/mockclasses/models/ExampleModel.php
+            [message] => No short description for element '$dateCreated'
+        )
+
+    [223] => Array
+        (
+            [line] => 39
+            [file] => /buddy/cms/src/test/mockclasses/models/ExampleModel.php
+            [message] => No short description for element '$dateUpdated'
+        )
+
+    [224] => Array
+        (
+            [line] => 24
+            [file] => /buddy/cms/src/validators/HandleValidator.php
+            [message] => No short description for element '$handlePattern'
+        )
+
+    [225] => Array
+        (
+            [line] => 29
+            [file] => /buddy/cms/src/validators/HandleValidator.php
+            [message] => No short description for element '$baseReservedWords'
+        )
+
+    [226] => Array
+        (
+            [line] => 61
+            [file] => /buddy/cms/src/validators/HandleValidator.php
+            [message] => No short description for element '$reservedWords'
+        )
+
+    [227] => Array
+        (
+            [line] => 27
+            [file] => /buddy/cms/src/validators/LanguageValidator.php
+            [message] => No short description for element '$onlySiteLanguages'
+        )
+
+    [228] => Array
+        (
+            [line] => 32
+            [file] => /buddy/cms/src/validators/LanguageValidator.php
+            [message] => No short description for element '$notAllowed'
+        )
+
+    [229] => Array
+        (
+            [line] => 24
+            [file] => /buddy/cms/src/validators/UriValidator.php
+            [message] => No short description for element '$pattern'
+        )
+
+    [230] => Array
+        (
+            [line] => 67
+            [file] => /buddy/cms/src/web/Request.php
+            [message] => No short description for element '$maxPageNum'
+        )
+
+    [231] => Array
+        (
+            [line] => 158
+            [file] => /buddy/cms/src/web/Request.php
+            [message] => No short description for element '$_token'
+        )
+
+    [232] => Array
+        (
+            [line] => 67
+            [file] => /buddy/cms/src/web/Request.php
+            [message] => No short description for element '$maxPageNum'
+        )
+
+    [233] => Array
+        (
+            [line] => 158
+            [file] => /buddy/cms/src/web/Request.php
+            [message] => No short description for element '$_token'
+        )
+
+    [234] => Array
+        (
+            [line] => 67
+            [file] => /buddy/cms/src/web/Request.php
+            [message] => No short description for element '$maxPageNum'
+        )
+
+    [235] => Array
+        (
+            [line] => 158
+            [file] => /buddy/cms/src/web/Request.php
+            [message] => No short description for element '$_token'
+        )
+
+    [236] => Array
+        (
+            [line] => 67
+            [file] => /buddy/cms/src/web/Request.php
+            [message] => No short description for element '$maxPageNum'
+        )
+
+    [237] => Array
+        (
+            [line] => 158
+            [file] => /buddy/cms/src/web/Request.php
+            [message] => No short description for element '$_token'
+        )
+
+    [238] => Array
+        (
+            [line] => 158
+            [file] => /buddy/cms/src/web/Request.php
+            [message] => No short description for element '$_token'
+        )
+
+    [239] => Array
+        (
+            [line] => 17
+            [file] => /buddy/cms/src/web/assets/axios/AxiosAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [240] => Array
+        (
+            [line] => 17
+            [file] => /buddy/cms/src/web/assets/axios/AxiosAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [241] => Array
+        (
+            [line] => 19
+            [file] => /buddy/cms/src/web/assets/axios/AxiosAsset.php
+            [message] => No docblock for element '$js'
+        )
+
+    [242] => Array
+        (
+            [line] => 19
+            [file] => /buddy/cms/src/web/assets/axios/AxiosAsset.php
+            [message] => No short description for element '$js'
+        )
+
+    [243] => Array
+        (
+            [line] => 21
+            [file] => /buddy/cms/src/web/assets/graphiql/GraphiqlAsset.php
+            [message] => No docblock for element '$depends'
+        )
+
+    [244] => Array
+        (
+            [line] => 21
+            [file] => /buddy/cms/src/web/assets/graphiql/GraphiqlAsset.php
+            [message] => No short description for element '$depends'
+        )
+
+    [245] => Array
+        (
+            [line] => 25
+            [file] => /buddy/cms/src/web/assets/graphiql/GraphiqlAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [246] => Array
+        (
+            [line] => 25
+            [file] => /buddy/cms/src/web/assets/graphiql/GraphiqlAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [247] => Array
+        (
+            [line] => 27
+            [file] => /buddy/cms/src/web/assets/graphiql/GraphiqlAsset.php
+            [message] => No docblock for element '$js'
+        )
+
+    [248] => Array
+        (
+            [line] => 27
+            [file] => /buddy/cms/src/web/assets/graphiql/GraphiqlAsset.php
+            [message] => No short description for element '$js'
+        )
+
+    [249] => Array
+        (
+            [line] => 31
+            [file] => /buddy/cms/src/web/assets/graphiql/GraphiqlAsset.php
+            [message] => No docblock for element '$css'
+        )
+
+    [250] => Array
+        (
+            [line] => 31
+            [file] => /buddy/cms/src/web/assets/graphiql/GraphiqlAsset.php
+            [message] => No short description for element '$css'
+        )
+
+    [251] => Array
+        (
+            [line] => 21
+            [file] => /buddy/cms/src/web/assets/graphiql/VendorAsset.php
+            [message] => No docblock for element '$depends'
+        )
+
+    [252] => Array
+        (
+            [line] => 21
+            [file] => /buddy/cms/src/web/assets/graphiql/VendorAsset.php
+            [message] => No short description for element '$depends'
+        )
+
+    [253] => Array
+        (
+            [line] => 17
+            [file] => /buddy/cms/src/web/assets/vue/VueAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [254] => Array
+        (
+            [line] => 17
+            [file] => /buddy/cms/src/web/assets/vue/VueAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [255] => Array
+        (
+            [line] => 19
+            [file] => /buddy/cms/src/web/assets/vue/VueAsset.php
+            [message] => No docblock for element '$js'
+        )
+
+    [256] => Array
+        (
+            [line] => 19
+            [file] => /buddy/cms/src/web/assets/vue/VueAsset.php
+            [message] => No short description for element '$js'
+        )
+
+    [257] => Array
+        (
+            [line] => 77
+            [file] => /buddy/cms/src/web/twig/Extension.php
+            [message] => No short description for element '$view'
+        )
+
+    [258] => Array
+        (
+            [line] => 82
+            [file] => /buddy/cms/src/web/twig/Extension.php
+            [message] => No short description for element '$environment'
+        )
+
+    [259] => Array
+        (
+            [line] => 77
+            [file] => /buddy/cms/src/web/twig/Extension.php
+            [message] => No short description for element '$view'
+        )
+
+    [260] => Array
+        (
+            [line] => 82
+            [file] => /buddy/cms/src/web/twig/Extension.php
+            [message] => No short description for element '$environment'
+        )
+
+    [261] => Array
+        (
+            [line] => 77
+            [file] => /buddy/cms/src/web/twig/Extension.php
+            [message] => No short description for element '$view'
+        )
+
+    [262] => Array
+        (
+            [line] => 82
+            [file] => /buddy/cms/src/web/twig/Extension.php
+            [message] => No short description for element '$environment'
+        )
+
+    [263] => Array
+        (
+            [line] => 77
+            [file] => /buddy/cms/src/web/twig/Extension.php
+            [message] => No short description for element '$view'
+        )
+
+    [264] => Array
+        (
+            [line] => 82
+            [file] => /buddy/cms/src/web/twig/Extension.php
+            [message] => No short description for element '$environment'
+        )
+
+    [265] => Array
+        (
+            [line] => 78
+            [file] => /buddy/cms/src/web/twig/Extension.php
+            [message] => No short description for element '$view'
+        )
+
+    [266] => Array
+        (
+            [line] => 83
+            [file] => /buddy/cms/src/web/twig/Extension.php
+            [message] => No short description for element '$environment'
+        )
+
+    [267] => Array
+        (
+            [line] => 79
+            [file] => /buddy/cms/src/web/twig/Extension.php
+            [message] => No short description for element '$view'
+        )
+
+    [268] => Array
+        (
+            [line] => 84
+            [file] => /buddy/cms/src/web/twig/Extension.php
+            [message] => No short description for element '$environment'
+        )
+
+    [269] => Array
+        (
+            [line] => 29
+            [file] => /buddy/cms/src/web/twig/TemplateLoader.php
+            [message] => No short description for element '$view'
+        )
+
+    [270] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/web/twig/TemplateLoaderException.php
+            [message] => No short description for element '$template'
+        )
+
+    [271] => Array
+        (
+            [line] => 27
+            [file] => /buddy/cms/src/web/twig/nodes/NavNode.php
+            [message] => No short description for element '$navItemNode'
+        )
+
+    [272] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/web/twig/variables/Image.php
+            [message] => No short description for element '$path'
+        )
+
+    [273] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/web/twig/variables/Image.php
+            [message] => No short description for element '$url'
+        )
+
+    [274] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/web/twig/variables/Image.php
+            [message] => No short description for element '$size'
+        )
+
+    [275] => Array
+        (
+            [line] => 23
+            [file] => /buddy/cms/src/web/twig/variables/Image.php
+            [message] => No short description for element '$path'
+        )
+
+    [276] => Array
+        (
+            [line] => 28
+            [file] => /buddy/cms/src/web/twig/variables/Image.php
+            [message] => No short description for element '$url'
+        )
+
+    [277] => Array
+        (
+            [line] => 33
+            [file] => /buddy/cms/src/web/twig/variables/Image.php
+            [message] => No short description for element '$size'
+        )
+
+    [278] => Array
+        (
+            [line] => 48
+            [file] => /buddy/cms/src/web/twig/variables/Paginate.php
+            [message] => No short description for element '$first'
+        )
+
+    [279] => Array
+        (
+            [line] => 53
+            [file] => /buddy/cms/src/web/twig/variables/Paginate.php
+            [message] => No short description for element '$last'
+        )
+
+    [280] => Array
+        (
+            [line] => 58
+            [file] => /buddy/cms/src/web/twig/variables/Paginate.php
+            [message] => No short description for element '$total'
+        )
+
+    [281] => Array
+        (
+            [line] => 63
+            [file] => /buddy/cms/src/web/twig/variables/Paginate.php
+            [message] => No short description for element '$currentPage'
+        )
+
+    [282] => Array
+        (
+            [line] => 68
+            [file] => /buddy/cms/src/web/twig/variables/Paginate.php
+            [message] => No short description for element '$totalPages'
+        )
+
+    [283] => Array
+        (
+            [line] => 48
+            [file] => /buddy/cms/src/web/twig/variables/Paginate.php
+            [message] => No short description for element '$first'
+        )
+
+    [284] => Array
+        (
+            [line] => 53
+            [file] => /buddy/cms/src/web/twig/variables/Paginate.php
+            [message] => No short description for element '$last'
+        )
+
+    [285] => Array
+        (
+            [line] => 58
+            [file] => /buddy/cms/src/web/twig/variables/Paginate.php
+            [message] => No short description for element '$total'
+        )
+
+    [286] => Array
+        (
+            [line] => 63
+            [file] => /buddy/cms/src/web/twig/variables/Paginate.php
+            [message] => No short description for element '$currentPage'
+        )
+
+    [287] => Array
+        (
+            [line] => 68
+            [file] => /buddy/cms/src/web/twig/variables/Paginate.php
+            [message] => No short description for element '$totalPages'
+        )
+
+)

@@ -1,0 +1,956 @@
+{
+  "3.x": [
+    {
+      "title": "craft\\commerce",
+      "collapsible": true,
+      "children": [["/craft-commerce-plugin.md", "Plugin"]]
+    },
+    {
+      "title": "craft\\commerce\\adjusters",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-adjusters-discount.md", "Discount"],
+        ["/craft-commerce-adjusters-shipping.md", "Shipping"],
+        ["/craft-commerce-adjusters-tax.md", "Tax"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\base",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-commerce-base-addresszoneinterface.md",
+          "AddressZoneInterface"
+        ],
+        ["/craft-commerce-base-adjusterinterface.md", "AdjusterInterface"],
+        ["/craft-commerce-base-gateway.md", "Gateway"],
+        ["/craft-commerce-base-gatewayinterface.md", "GatewayInterface"],
+        ["/craft-commerce-base-gatewaytrait.md", "GatewayTrait"],
+        ["/craft-commerce-base-model.md", "Model"],
+        [
+          "/craft-commerce-base-orderdeprecatedtrait.md",
+          "OrderDeprecatedTrait"
+        ],
+        ["/craft-commerce-base-plan.md", "Plan"],
+        ["/craft-commerce-base-planinterface.md", "PlanInterface"],
+        ["/craft-commerce-base-plantrait.md", "PlanTrait"],
+        ["/craft-commerce-base-purchasable.md", "Purchasable"],
+        [
+          "/craft-commerce-base-purchasableinterface.md",
+          "PurchasableInterface"
+        ],
+        [
+          "/craft-commerce-base-requestresponseinterface.md",
+          "RequestResponseInterface"
+        ],
+        ["/craft-commerce-base-shippingmethod.md", "ShippingMethod"],
+        [
+          "/craft-commerce-base-shippingmethodinterface.md",
+          "ShippingMethodInterface"
+        ],
+        [
+          "/craft-commerce-base-shippingruleinterface.md",
+          "ShippingRuleInterface"
+        ],
+        ["/craft-commerce-base-stat.md", "Stat"],
+        ["/craft-commerce-base-statinterface.md", "StatInterface"],
+        ["/craft-commerce-base-stattrait.md", "StatTrait"],
+        ["/craft-commerce-base-subscriptiongateway.md", "SubscriptionGateway"],
+        [
+          "/craft-commerce-base-subscriptiongatewayinterface.md",
+          "SubscriptionGatewayInterface"
+        ],
+        [
+          "/craft-commerce-base-subscriptionresponseinterface.md",
+          "SubscriptionResponseInterface"
+        ],
+        ["/craft-commerce-base-taxengineinterface.md", "TaxEngineInterface"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\behaviors",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-commerce-behaviors-currencyattributebehavior.md",
+          "CurrencyAttributeBehavior"
+        ]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\controllers",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-commerce-controllers-addressescontroller.md",
+          "AddressesController"
+        ],
+        [
+          "/craft-commerce-controllers-baseadmincontroller.md",
+          "BaseAdminController"
+        ],
+        ["/craft-commerce-controllers-basecontroller.md", "BaseController"],
+        ["/craft-commerce-controllers-basecpcontroller.md", "BaseCpController"],
+        [
+          "/craft-commerce-controllers-basefrontendcontroller.md",
+          "BaseFrontEndController"
+        ],
+        [
+          "/craft-commerce-controllers-baseshippingsettingscontroller.md",
+          "BaseShippingSettingsController"
+        ],
+        [
+          "/craft-commerce-controllers-basestoresettingscontroller.md",
+          "BaseStoreSettingsController"
+        ],
+        [
+          "/craft-commerce-controllers-basetaxsettingscontroller.md",
+          "BaseTaxSettingsController"
+        ],
+        ["/craft-commerce-controllers-cartcontroller.md", "CartController"],
+        [
+          "/craft-commerce-controllers-countriescontroller.md",
+          "CountriesController"
+        ],
+        [
+          "/craft-commerce-controllers-customeraddressescontroller.md",
+          "CustomerAddressesController"
+        ],
+        [
+          "/craft-commerce-controllers-customerscontroller.md",
+          "CustomersController"
+        ],
+        [
+          "/craft-commerce-controllers-discountscontroller.md",
+          "DiscountsController"
+        ],
+        [
+          "/craft-commerce-controllers-donationscontroller.md",
+          "DonationsController"
+        ],
+        [
+          "/craft-commerce-controllers-downloadscontroller.md",
+          "DownloadsController"
+        ],
+        ["/craft-commerce-controllers-emailscontroller.md", "EmailsController"],
+        [
+          "/craft-commerce-controllers-formulascontroller.md",
+          "FormulasController"
+        ],
+        [
+          "/craft-commerce-controllers-gatewayscontroller.md",
+          "GatewaysController"
+        ],
+        [
+          "/craft-commerce-controllers-lineitemstatusescontroller.md",
+          "LineItemStatusesController"
+        ],
+        [
+          "/craft-commerce-controllers-liteshippingcontroller.md",
+          "LiteShippingController"
+        ],
+        [
+          "/craft-commerce-controllers-litetaxcontroller.md",
+          "LiteTaxController"
+        ],
+        [
+          "/craft-commerce-controllers-ordersettingscontroller.md",
+          "OrderSettingsController"
+        ],
+        [
+          "/craft-commerce-controllers-orderstatusescontroller.md",
+          "OrderStatusesController"
+        ],
+        ["/craft-commerce-controllers-orderscontroller.md", "OrdersController"],
+        [
+          "/craft-commerce-controllers-paymentcurrenciescontroller.md",
+          "PaymentCurrenciesController"
+        ],
+        [
+          "/craft-commerce-controllers-paymentsourcescontroller.md",
+          "PaymentSourcesController"
+        ],
+        [
+          "/craft-commerce-controllers-paymentscontroller.md",
+          "PaymentsController"
+        ],
+        ["/craft-commerce-controllers-planscontroller.md", "PlansController"],
+        [
+          "/craft-commerce-controllers-producttypescontroller.md",
+          "ProductTypesController"
+        ],
+        [
+          "/craft-commerce-controllers-productscontroller.md",
+          "ProductsController"
+        ],
+        [
+          "/craft-commerce-controllers-productspreviewcontroller.md",
+          "ProductsPreviewController"
+        ],
+        [
+          "/craft-commerce-controllers-promotionscontroller.md",
+          "PromotionsController"
+        ],
+        ["/craft-commerce-controllers-salescontroller.md", "SalesController"],
+        [
+          "/craft-commerce-controllers-settingscontroller.md",
+          "SettingsController"
+        ],
+        [
+          "/craft-commerce-controllers-shippingcategoriescontroller.md",
+          "ShippingCategoriesController"
+        ],
+        [
+          "/craft-commerce-controllers-shippingmethodscontroller.md",
+          "ShippingMethodsController"
+        ],
+        [
+          "/craft-commerce-controllers-shippingrulescontroller.md",
+          "ShippingRulesController"
+        ],
+        [
+          "/craft-commerce-controllers-shippingzonescontroller.md",
+          "ShippingZonesController"
+        ],
+        ["/craft-commerce-controllers-statescontroller.md", "StatesController"],
+        [
+          "/craft-commerce-controllers-storelocationcontroller.md",
+          "StoreLocationController"
+        ],
+        [
+          "/craft-commerce-controllers-subscriptionscontroller.md",
+          "SubscriptionsController"
+        ],
+        [
+          "/craft-commerce-controllers-taxcategoriescontroller.md",
+          "TaxCategoriesController"
+        ],
+        [
+          "/craft-commerce-controllers-taxratescontroller.md",
+          "TaxRatesController"
+        ],
+        [
+          "/craft-commerce-controllers-taxzonescontroller.md",
+          "TaxZonesController"
+        ],
+        [
+          "/craft-commerce-controllers-webhookscontroller.md",
+          "WebhooksController"
+        ]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\db",
+      "collapsible": true,
+      "children": [["/craft-commerce-db-table.md", "Table"]]
+    },
+    {
+      "title": "craft\\commerce\\elements",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-elements-donation.md", "Donation"],
+        ["/craft-commerce-elements-order.md", "Order"],
+        ["/craft-commerce-elements-product.md", "Product"],
+        ["/craft-commerce-elements-subscription.md", "Subscription"],
+        ["/craft-commerce-elements-variant.md", "Variant"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\elements\\actions",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-commerce-elements-actions-creatediscount.md",
+          "CreateDiscount"
+        ],
+        ["/craft-commerce-elements-actions-createsale.md", "CreateSale"],
+        ["/craft-commerce-elements-actions-deleteorder.md", "DeleteOrder"],
+        ["/craft-commerce-elements-actions-deleteproduct.md", "DeleteProduct"],
+        [
+          "/craft-commerce-elements-actions-updateorderstatus.md",
+          "UpdateOrderStatus"
+        ]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\elements\\db",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-elements-db-donationquery.md", "DonationQuery"],
+        ["/craft-commerce-elements-db-orderquery.md", "OrderQuery"],
+        ["/craft-commerce-elements-db-productquery.md", "ProductQuery"],
+        [
+          "/craft-commerce-elements-db-subscriptionquery.md",
+          "SubscriptionQuery"
+        ],
+        ["/craft-commerce-elements-db-variantquery.md", "VariantQuery"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\elements\\traits",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-commerce-elements-traits-orderdeprecatedtrait.md",
+          "OrderDeprecatedTrait"
+        ],
+        [
+          "/craft-commerce-elements-traits-orderelementtrait.md",
+          "OrderElementTrait"
+        ],
+        [
+          "/craft-commerce-elements-traits-ordervalidatorstrait.md",
+          "OrderValidatorsTrait"
+        ]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\engines",
+      "collapsible": true,
+      "children": [["/craft-commerce-engines-tax.md", "Tax"]]
+    },
+    {
+      "title": "craft\\commerce\\errors",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-errors-currencyexception.md", "CurrencyException"],
+        ["/craft-commerce-errors-emailexception.md", "EmailException"],
+        ["/craft-commerce-errors-gatewayexception.md", "GatewayException"],
+        ["/craft-commerce-errors-lineitemexception.md", "LineItemException"],
+        [
+          "/craft-commerce-errors-notimplementedexception.md",
+          "NotImplementedException"
+        ],
+        [
+          "/craft-commerce-errors-orderstatusexception.md",
+          "OrderStatusException"
+        ],
+        ["/craft-commerce-errors-paymentexception.md", "PaymentException"],
+        [
+          "/craft-commerce-errors-paymentsourceexception.md",
+          "PaymentSourceException"
+        ],
+        ["/craft-commerce-errors-refundexception.md", "RefundException"],
+        [
+          "/craft-commerce-errors-shippingmethodexception.md",
+          "ShippingMethodException"
+        ],
+        [
+          "/craft-commerce-errors-subscriptionexception.md",
+          "SubscriptionException"
+        ],
+        [
+          "/craft-commerce-errors-transactionexception.md",
+          "TransactionException"
+        ]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\events",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-events-addressevent.md", "AddressEvent"],
+        [
+          "/craft-commerce-events-cancelsubscriptionevent.md",
+          "CancelSubscriptionEvent"
+        ],
+        ["/craft-commerce-events-cartevent.md", "CartEvent"],
+        [
+          "/craft-commerce-events-createsubscriptionevent.md",
+          "CreateSubscriptionEvent"
+        ],
+        [
+          "/craft-commerce-events-customizeproductsnapshotdataevent.md",
+          "CustomizeProductSnapshotDataEvent"
+        ],
+        [
+          "/craft-commerce-events-customizeproductsnapshotfieldsevent.md",
+          "CustomizeProductSnapshotFieldsEvent"
+        ],
+        [
+          "/craft-commerce-events-customizevariantsnapshotdataevent.md",
+          "CustomizeVariantSnapshotDataEvent"
+        ],
+        [
+          "/craft-commerce-events-customizevariantsnapshotfieldsevent.md",
+          "CustomizeVariantSnapshotFieldsEvent"
+        ],
+        [
+          "/craft-commerce-events-defaultlineitemstatusevent.md",
+          "DefaultLineItemStatusEvent"
+        ],
+        [
+          "/craft-commerce-events-defaultorderstatusevent.md",
+          "DefaultOrderStatusEvent"
+        ],
+        [
+          "/craft-commerce-events-discountadjustmentsevent.md",
+          "DiscountAdjustmentsEvent"
+        ],
+        ["/craft-commerce-events-discountevent.md", "DiscountEvent"],
+        ["/craft-commerce-events-emailevent.md", "EmailEvent"],
+        ["/craft-commerce-events-lineitemevent.md", "LineItemEvent"],
+        ["/craft-commerce-events-mailevent.md", "MailEvent"],
+        ["/craft-commerce-events-matchlineitemevent.md", "MatchLineItemEvent"],
+        ["/craft-commerce-events-matchorderevent.md", "MatchOrderEvent"],
+        [
+          "/craft-commerce-events-modifycartinfoevent.md",
+          "ModifyCartInfoEvent"
+        ],
+        ["/craft-commerce-events-orderstatusevent.md", "OrderStatusEvent"],
+        ["/craft-commerce-events-paymentsourceevent.md", "PaymentSourceEvent"],
+        ["/craft-commerce-events-pdfevent.md", "PdfEvent"],
+        ["/craft-commerce-events-planevent.md", "PlanEvent"],
+        [
+          "/craft-commerce-events-processpaymentevent.md",
+          "ProcessPaymentEvent"
+        ],
+        ["/craft-commerce-events-productevent.md", "ProductEvent"],
+        ["/craft-commerce-events-producttypeevent.md", "ProductTypeEvent"],
+        [
+          "/craft-commerce-events-purchasevariantevent.md",
+          "PurchaseVariantEvent"
+        ],
+        [
+          "/craft-commerce-events-refundtransactionevent.md",
+          "RefundTransactionEvent"
+        ],
+        [
+          "/craft-commerce-events-registeravailableshippingmethodsevent.md",
+          "RegisterAvailableShippingMethodsEvent"
+        ],
+        ["/craft-commerce-events-reportevent.md", "ReportEvent"],
+        ["/craft-commerce-events-saleevent.md", "SaleEvent"],
+        ["/craft-commerce-events-salematchevent.md", "SaleMatchEvent"],
+        ["/craft-commerce-events-subscriptionevent.md", "SubscriptionEvent"],
+        [
+          "/craft-commerce-events-subscriptionpaymentevent.md",
+          "SubscriptionPaymentEvent"
+        ],
+        [
+          "/craft-commerce-events-subscriptionswitchplansevent.md",
+          "SubscriptionSwitchPlansEvent"
+        ],
+        ["/craft-commerce-events-taxengineevent.md", "TaxEngineEvent"],
+        ["/craft-commerce-events-transactionevent.md", "TransactionEvent"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\exports",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-exports-lineitemexport.md", "LineItemExport"],
+        ["/craft-commerce-exports-orderexport.md", "OrderExport"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\fields",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-fields-products.md", "Products"],
+        ["/craft-commerce-fields-variants.md", "Variants"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\gateways",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-gateways-dummy.md", "Dummy"],
+        ["/craft-commerce-gateways-manual.md", "Manual"],
+        ["/craft-commerce-gateways-missinggateway.md", "MissingGateway"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\gql\\arguments\\elements",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-gql-arguments-elements-product.md", "Product"],
+        ["/craft-commerce-gql-arguments-elements-variant.md", "Variant"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\gql\\interfaces\\elements",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-gql-interfaces-elements-product.md", "Product"],
+        ["/craft-commerce-gql-interfaces-elements-variant.md", "Variant"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\gql\\queries",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-gql-queries-product.md", "Product"],
+        ["/craft-commerce-gql-queries-variant.md", "Variant"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\gql\\resolvers\\elements",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-gql-resolvers-elements-product.md", "Product"],
+        ["/craft-commerce-gql-resolvers-elements-variant.md", "Variant"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\gql\\types",
+      "collapsible": true,
+      "children": [["/craft-commerce-gql-types-saletype.md", "SaleType"]]
+    },
+    {
+      "title": "craft\\commerce\\gql\\types\\elements",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-gql-types-elements-product.md", "Product"],
+        ["/craft-commerce-gql-types-elements-variant.md", "Variant"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\gql\\types\\generators",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-gql-types-generators-producttype.md", "ProductType"],
+        ["/craft-commerce-gql-types-generators-varianttype.md", "VariantType"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\gql\\types\\input",
+      "collapsible": true,
+      "children": [["/craft-commerce-gql-types-input-variant.md", "Variant"]]
+    },
+    {
+      "title": "craft\\commerce\\helpers",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-helpers-currency.md", "Currency"],
+        ["/craft-commerce-helpers-gql.md", "Gql"],
+        ["/craft-commerce-helpers-lineitem.md", "LineItem"],
+        ["/craft-commerce-helpers-order.md", "Order"],
+        ["/craft-commerce-helpers-product.md", "Product"],
+        ["/craft-commerce-helpers-projectconfigdata.md", "ProjectConfigData"],
+        ["/craft-commerce-helpers-variantmatrix.md", "VariantMatrix"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\migrations",
+      "collapsible": true,
+      "children": [["/craft-commerce-migrations-install.md", "Install"]]
+    },
+    {
+      "title": "craft\\commerce\\models",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-models-address.md", "Address"],
+        ["/craft-commerce-models-country.md", "Country"],
+        ["/craft-commerce-models-currency.md", "Currency"],
+        ["/craft-commerce-models-customer.md", "Customer"],
+        ["/craft-commerce-models-discount.md", "Discount"],
+        ["/craft-commerce-models-email.md", "Email"],
+        ["/craft-commerce-models-lineitem.md", "LineItem"],
+        ["/craft-commerce-models-lineitemstatus.md", "LineItemStatus"],
+        [
+          "/craft-commerce-models-liteshippingsettings.md",
+          "LiteShippingSettings"
+        ],
+        ["/craft-commerce-models-litetaxsettings.md", "LiteTaxSettings"],
+        ["/craft-commerce-models-orderadjustment.md", "OrderAdjustment"],
+        ["/craft-commerce-models-orderhistory.md", "OrderHistory"],
+        ["/craft-commerce-models-orderstatus.md", "OrderStatus"],
+        ["/craft-commerce-models-paymentcurrency.md", "PaymentCurrency"],
+        ["/craft-commerce-models-paymentsource.md", "PaymentSource"],
+        ["/craft-commerce-models-producttype.md", "ProductType"],
+        ["/craft-commerce-models-producttypesite.md", "ProductTypeSite"],
+        ["/craft-commerce-models-sale.md", "Sale"],
+        ["/craft-commerce-models-settings.md", "Settings"],
+        [
+          "/craft-commerce-models-shippingaddresszone.md",
+          "ShippingAddressZone"
+        ],
+        ["/craft-commerce-models-shippingcategory.md", "ShippingCategory"],
+        ["/craft-commerce-models-shippingmethod.md", "ShippingMethod"],
+        [
+          "/craft-commerce-models-shippingmethodoption.md",
+          "ShippingMethodOption"
+        ],
+        ["/craft-commerce-models-shippingrule.md", "ShippingRule"],
+        [
+          "/craft-commerce-models-shippingrulecategory.md",
+          "ShippingRuleCategory"
+        ],
+        ["/craft-commerce-models-state.md", "State"],
+        ["/craft-commerce-models-taxaddresszone.md", "TaxAddressZone"],
+        ["/craft-commerce-models-taxcategory.md", "TaxCategory"],
+        ["/craft-commerce-models-taxrate.md", "TaxRate"],
+        ["/craft-commerce-models-transaction.md", "Transaction"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\models\\payments",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-commerce-models-payments-basepaymentform.md",
+          "BasePaymentForm"
+        ],
+        [
+          "/craft-commerce-models-payments-creditcardpaymentform.md",
+          "CreditCardPaymentForm"
+        ],
+        [
+          "/craft-commerce-models-payments-dummypaymentform.md",
+          "DummyPaymentForm"
+        ],
+        [
+          "/craft-commerce-models-payments-offsitepaymentform.md",
+          "OffsitePaymentForm"
+        ]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\models\\responses",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-models-responses-dummy.md", "Dummy"],
+        [
+          "/craft-commerce-models-responses-dummysubscriptionresponse.md",
+          "DummySubscriptionResponse"
+        ],
+        ["/craft-commerce-models-responses-manual.md", "Manual"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\models\\subscriptions",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-commerce-models-subscriptions-cancelsubscriptionform.md",
+          "CancelSubscriptionForm"
+        ],
+        ["/craft-commerce-models-subscriptions-dummyplan.md", "DummyPlan"],
+        [
+          "/craft-commerce-models-subscriptions-subscriptionform.md",
+          "SubscriptionForm"
+        ],
+        [
+          "/craft-commerce-models-subscriptions-subscriptionpayment.md",
+          "SubscriptionPayment"
+        ],
+        [
+          "/craft-commerce-models-subscriptions-switchplansform.md",
+          "SwitchPlansForm"
+        ]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\plugin",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-plugin-routes.md", "Routes"],
+        ["/craft-commerce-plugin-services.md", "Services"],
+        ["/craft-commerce-plugin-variables.md", "Variables"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\queue\\jobs",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-commerce-queue-jobs-consolidateguestorders.md",
+          "ConsolidateGuestOrders"
+        ],
+        ["/craft-commerce-queue-jobs-sendemail.md", "SendEmail"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\records",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-records-address.md", "Address"],
+        ["/craft-commerce-records-country.md", "Country"],
+        ["/craft-commerce-records-customer.md", "Customer"],
+        ["/craft-commerce-records-customeraddress.md", "CustomerAddress"],
+        [
+          "/craft-commerce-records-customerdiscountuse.md",
+          "CustomerDiscountUse"
+        ],
+        ["/craft-commerce-records-discount.md", "Discount"],
+        ["/craft-commerce-records-discountcategory.md", "DiscountCategory"],
+        [
+          "/craft-commerce-records-discountpurchasable.md",
+          "DiscountPurchasable"
+        ],
+        ["/craft-commerce-records-discountusergroup.md", "DiscountUserGroup"],
+        ["/craft-commerce-records-donation.md", "Donation"],
+        ["/craft-commerce-records-email.md", "Email"],
+        ["/craft-commerce-records-emaildiscountuse.md", "EmailDiscountUse"],
+        ["/craft-commerce-records-gateway.md", "Gateway"],
+        ["/craft-commerce-records-lineitem.md", "LineItem"],
+        ["/craft-commerce-records-lineitemstatus.md", "LineItemStatus"],
+        ["/craft-commerce-records-order.md", "Order"],
+        ["/craft-commerce-records-orderadjustment.md", "OrderAdjustment"],
+        ["/craft-commerce-records-orderhistory.md", "OrderHistory"],
+        ["/craft-commerce-records-orderstatus.md", "OrderStatus"],
+        ["/craft-commerce-records-orderstatusemail.md", "OrderStatusEmail"],
+        ["/craft-commerce-records-paymentcurrency.md", "PaymentCurrency"],
+        ["/craft-commerce-records-paymentsource.md", "PaymentSource"],
+        ["/craft-commerce-records-plan.md", "Plan"],
+        ["/craft-commerce-records-product.md", "Product"],
+        ["/craft-commerce-records-producttype.md", "ProductType"],
+        [
+          "/craft-commerce-records-producttypeshippingcategory.md",
+          "ProductTypeShippingCategory"
+        ],
+        ["/craft-commerce-records-producttypesite.md", "ProductTypeSite"],
+        [
+          "/craft-commerce-records-producttypetaxcategory.md",
+          "ProductTypeTaxCategory"
+        ],
+        ["/craft-commerce-records-purchasable.md", "Purchasable"],
+        ["/craft-commerce-records-sale.md", "Sale"],
+        ["/craft-commerce-records-salecategory.md", "SaleCategory"],
+        ["/craft-commerce-records-salepurchasable.md", "SalePurchasable"],
+        ["/craft-commerce-records-saleusergroup.md", "SaleUserGroup"],
+        ["/craft-commerce-records-shippingcategory.md", "ShippingCategory"],
+        ["/craft-commerce-records-shippingmethod.md", "ShippingMethod"],
+        ["/craft-commerce-records-shippingrule.md", "ShippingRule"],
+        [
+          "/craft-commerce-records-shippingrulecategory.md",
+          "ShippingRuleCategory"
+        ],
+        ["/craft-commerce-records-shippingzone.md", "ShippingZone"],
+        [
+          "/craft-commerce-records-shippingzonecountry.md",
+          "ShippingZoneCountry"
+        ],
+        ["/craft-commerce-records-shippingzonestate.md", "ShippingZoneState"],
+        ["/craft-commerce-records-state.md", "State"],
+        ["/craft-commerce-records-subscription.md", "Subscription"],
+        ["/craft-commerce-records-taxcategory.md", "TaxCategory"],
+        ["/craft-commerce-records-taxrate.md", "TaxRate"],
+        ["/craft-commerce-records-taxzone.md", "TaxZone"],
+        ["/craft-commerce-records-taxzonecountry.md", "TaxZoneCountry"],
+        ["/craft-commerce-records-taxzonestate.md", "TaxZoneState"],
+        ["/craft-commerce-records-transaction.md", "Transaction"],
+        ["/craft-commerce-records-variant.md", "Variant"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\services",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-services-addresses.md", "Addresses"],
+        ["/craft-commerce-services-carts.md", "Carts"],
+        ["/craft-commerce-services-countries.md", "Countries"],
+        ["/craft-commerce-services-currencies.md", "Currencies"],
+        ["/craft-commerce-services-customers.md", "Customers"],
+        ["/craft-commerce-services-discounts.md", "Discounts"],
+        ["/craft-commerce-services-emails.md", "Emails"],
+        ["/craft-commerce-services-formulas.md", "Formulas"],
+        ["/craft-commerce-services-gateways.md", "Gateways"],
+        ["/craft-commerce-services-lineitemstatuses.md", "LineItemStatuses"],
+        ["/craft-commerce-services-lineitems.md", "LineItems"],
+        ["/craft-commerce-services-orderadjustments.md", "OrderAdjustments"],
+        ["/craft-commerce-services-orderhistories.md", "OrderHistories"],
+        ["/craft-commerce-services-orderstatuses.md", "OrderStatuses"],
+        ["/craft-commerce-services-orders.md", "Orders"],
+        ["/craft-commerce-services-paymentcurrencies.md", "PaymentCurrencies"],
+        ["/craft-commerce-services-paymentsources.md", "PaymentSources"],
+        ["/craft-commerce-services-payments.md", "Payments"],
+        ["/craft-commerce-services-pdf.md", "Pdf"],
+        ["/craft-commerce-services-plans.md", "Plans"],
+        ["/craft-commerce-services-producttypes.md", "ProductTypes"],
+        ["/craft-commerce-services-products.md", "Products"],
+        ["/craft-commerce-services-purchasables.md", "Purchasables"],
+        ["/craft-commerce-services-sales.md", "Sales"],
+        [
+          "/craft-commerce-services-shippingcategories.md",
+          "ShippingCategories"
+        ],
+        ["/craft-commerce-services-shippingmethods.md", "ShippingMethods"],
+        [
+          "/craft-commerce-services-shippingrulecategories.md",
+          "ShippingRuleCategories"
+        ],
+        ["/craft-commerce-services-shippingrules.md", "ShippingRules"],
+        ["/craft-commerce-services-shippingzones.md", "ShippingZones"],
+        ["/craft-commerce-services-states.md", "States"],
+        ["/craft-commerce-services-subscriptions.md", "Subscriptions"],
+        ["/craft-commerce-services-taxcategories.md", "TaxCategories"],
+        ["/craft-commerce-services-taxrates.md", "TaxRates"],
+        ["/craft-commerce-services-taxzones.md", "TaxZones"],
+        ["/craft-commerce-services-taxes.md", "Taxes"],
+        ["/craft-commerce-services-transactions.md", "Transactions"],
+        ["/craft-commerce-services-variants.md", "Variants"],
+        ["/craft-commerce-services-webhooks.md", "Webhooks"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\stats",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-stats-averageordertotal.md", "AverageOrderTotal"],
+        ["/craft-commerce-stats-newcustomers.md", "NewCustomers"],
+        ["/craft-commerce-stats-repeatcustomers.md", "RepeatCustomers"],
+        ["/craft-commerce-stats-topcustomers.md", "TopCustomers"],
+        ["/craft-commerce-stats-topproducttypes.md", "TopProductTypes"],
+        ["/craft-commerce-stats-topproducts.md", "TopProducts"],
+        ["/craft-commerce-stats-toppurchasables.md", "TopPurchasables"],
+        ["/craft-commerce-stats-totalorders.md", "TotalOrders"],
+        [
+          "/craft-commerce-stats-totalordersbycountry.md",
+          "TotalOrdersByCountry"
+        ],
+        ["/craft-commerce-stats-totalrevenue.md", "TotalRevenue"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\test\\fixtures\\elements",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-commerce-test-fixtures-elements-productfixture.md",
+          "ProductFixture"
+        ]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\test\\mockclasses",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-test-mockclasses-purchasable.md", "Purchasable"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\web\\assets\\chartjs",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-web-assets-chartjs-chartjsasset.md", "ChartJsAsset"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\web\\assets\\commercecp",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-commerce-web-assets-commercecp-commercecpasset.md",
+          "CommerceCpAsset"
+        ]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\web\\assets\\commerceui",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-commerce-web-assets-commerceui-commerceorderasset.md",
+          "CommerceOrderAsset"
+        ],
+        [
+          "/craft-commerce-web-assets-commerceui-commerceuiasset.md",
+          "CommerceUiAsset"
+        ]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\web\\assets\\deepmerge",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-commerce-web-assets-deepmerge-deepmergeasset.md",
+          "DeepMergeAsset"
+        ]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\web\\assets\\editproduct",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-commerce-web-assets-editproduct-editproductasset.md",
+          "EditProductAsset"
+        ]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\web\\assets\\orderswidget",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-commerce-web-assets-orderswidget-orderswidgetasset.md",
+          "OrdersWidgetAsset"
+        ]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\web\\assets\\productindex",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-commerce-web-assets-productindex-productindexasset.md",
+          "ProductIndexAsset"
+        ]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\web\\assets\\statwidgets",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-commerce-web-assets-statwidgets-statwidgetsasset.md",
+          "StatWidgetsAsset"
+        ]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\web\\assets\\variantmatrix",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-commerce-web-assets-variantmatrix-variantmatrixasset.md",
+          "VariantMatrixAsset"
+        ]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\web\\twig",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-commerce-web-twig-craftvariablebehavior.md",
+          "CraftVariableBehavior"
+        ],
+        ["/craft-commerce-web-twig-extension.md", "Extension"]
+      ]
+    },
+    {
+      "title": "craft\\commerce\\widgets",
+      "collapsible": true,
+      "children": [
+        ["/craft-commerce-widgets-averageordertotal.md", "AverageOrderTotal"],
+        ["/craft-commerce-widgets-newcustomers.md", "NewCustomers"],
+        ["/craft-commerce-widgets-orders.md", "Orders"],
+        ["/craft-commerce-widgets-repeatcustomers.md", "RepeatCustomers"],
+        ["/craft-commerce-widgets-topcustomers.md", "TopCustomers"],
+        ["/craft-commerce-widgets-topproducttypes.md", "TopProductTypes"],
+        ["/craft-commerce-widgets-topproducts.md", "TopProducts"],
+        ["/craft-commerce-widgets-toppurchasables.md", "TopPurchasables"],
+        ["/craft-commerce-widgets-totalorders.md", "TotalOrders"],
+        [
+          "/craft-commerce-widgets-totalordersbycountry.md",
+          "TotalOrdersByCountry"
+        ],
+        ["/craft-commerce-widgets-totalrevenue.md", "TotalRevenue"]
+      ]
+    },
+    {
+      "title": "craft\\errors",
+      "collapsible": true,
+      "children": [
+        [
+          "/craft-errors-producttypenotfoundexception.md",
+          "ProductTypeNotFoundException"
+        ]
+      ]
+    }
+  ]
+}
