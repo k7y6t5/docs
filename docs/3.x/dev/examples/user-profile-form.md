@@ -80,7 +80,7 @@ You can create a form that allows users to edit their profile using the followin
     id: 'email',
     class: user.hasErrors('email') ? 'error',
   }) }}
-  {{ _self.errorList(user.getErrors('username')) }}
+  {{ _self.errorList(user.getErrors('email')) }}
 
   {% if craft.app.projectConfig.get('users.requireEmailVerification') %}
     <p>New email addresses need to be verified.</p>
