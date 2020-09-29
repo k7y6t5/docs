@@ -18,7 +18,7 @@ Craft supports several [database connection settings](db-settings.md). You can o
 
 ## Guzzle Config
 
-Craft uses [Guzzle 6](http://docs.guzzlephp.org/en/latest/) whenever creating HTTP requests, such as:
+Craft uses [Guzzle 6](https://docs.guzzlephp.org/en/6.5/) whenever creating HTTP requests, such as:
 
 - when checking for Craft updates
 - when sending in a support request from the Craft Support widget
@@ -38,7 +38,7 @@ return [
 ];
 ```
 
-The options defined here will be passed into new `GuzzleHttp\Client` instances. See [Guzzle’s documentation](http://docs.guzzlephp.org/en/latest/) for a list of available options.
+The options defined here will be passed into new `GuzzleHttp\Client` instances. See [Guzzle’s documentation](https://docs.guzzlephp.org/en/6.5/) for a list of available options.
 
 ## Aliases
 
